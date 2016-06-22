@@ -8,7 +8,7 @@ Colour polymorphism
 **White TE**, Kemp DJ (in press) _Current Biology_  
 
 [Colour polymorphic lures target different visual channels in prey](http://dx.doi.org/10.1111/evo.12948)  
-**White TE**, Kemp DJ (2016) _Evolution_ Early View  
+**White TE**, Kemp DJ (2016) _Evolution_ 70, 1398-1408.  
 | [pdf]({{ site.url }}/docs/white_2016_polymorphic_lures.pdf) |  [data](https://dx.doi.org/10.6084/m9.figshare.1517656.v1) |  
 
 # 2015
