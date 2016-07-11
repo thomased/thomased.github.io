@@ -5,7 +5,8 @@ layout: post
 # 2016
 
 Colour polymorphism  
-**White TE**, Kemp DJ (in press) _Current Biology_  
+**White TE**, Kemp DJ (2016) _Current Biology_ 26, R517-518  
+| [pdf]({{ site.url }}/docs/white_&_kemp_2016_colour_polymorphism.pdf) |
 
 [Colour polymorphic lures target different visual channels in prey](http://dx.doi.org/10.1111/evo.12948)  
 **White TE**, Kemp DJ (2016) _Evolution_ 70, 1398-1408.  
