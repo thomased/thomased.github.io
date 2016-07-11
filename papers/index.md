@@ -4,7 +4,7 @@ layout: post
 
 # 2016
 
-Colour polymorphism  
+[Colour polymorphism](http://dx.doi.org/10.1016/j.cub.2016.03.017)  
 **White TE**, Kemp DJ (2016) _Current Biology_ 26, R517-518  
 | [pdf]({{ site.url }}/docs/white_&_kemp_2016_colour_polymorphism.pdf) |
 
