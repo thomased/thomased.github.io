@@ -5,7 +5,7 @@ layout: post
 
 **An R package for the organization, visualisation, and perceptual analysis of spectral colour data in R**
 
-I've recently had the pleasure of joining the [development team](http://rafaelmaia.net/pavo/) for [pavo](https://github.com/rmaia/pavo), a comprehensive R package for handling and analysing colour data. We're currently working on a suite of new tools and models for the upcoming major release. Join pavo's [gitter page](https://gitter.im/r-pavo/help) (public chat room) if you need help or if you'd like to keep an eye on announcements.
+I've had the pleasure of joining the [development team](http://rafaelmaia.net/pavo/) for [pavo](https://github.com/rmaia/pavo); a comprehensive R package for handling and analysing colour data. We're currently working on a suite of new tools and models for the upcoming major release. Feel free to join pavo's [gitter page](https://gitter.im/r-pavo/help) (public chat room) if you need help or if you'd like to keep an eye on announcements.
 
 **Stable release:** 0.5-6 (20/10/2016)
 
