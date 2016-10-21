@@ -1,7 +1,9 @@
 ---
 layout: post
 ---
-# pavo: an R package for the organization, visualisation, and perceptual analysis of spectral colour data in R
+# pavo
+
+**An R package for the organization, visualisation, and perceptual analysis of spectral colour data in R**
 
 **Stable release:** 0.5-6 (20/10/2016)
 
@@ -9,6 +11,6 @@ I've recently had the pleasure of joining the development team for [pavo](http:/
 
 **Citation:** Maia R, Eliason CM, Bitton P-P, Doucet SM, Shawkey MD. [pavo: an R package for the analysis, visualization and organization of spectral data](http://dx.doi.org/10.1111/2041-210X.12069). Methods in Ecology and Evolution, 4(10):906-913
 
-# other:
+# other
 
 You can find my half-finished projects and anything that might be of broader use on [github](https://github.com/thomased).
