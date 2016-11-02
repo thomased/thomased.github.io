@@ -48,3 +48,11 @@ Kemp DJ, **White TE** (2014) _Behavioural Ecology_ 25(3), 467-468.
 [The nano-anatomical basis of sexual dimorphism in iridescent butterfly colouration](http://dx.doi.org/10.1071/ZO12045)  
 **White TE**,  Macedonia J, Birch D, Dawes J, Kemp DJ (2012) _Australian Journal of Zoology_ 60(2), 101-107.  
 | [pdf]({{ site.url }}/docs/white_2012_nano.pdf) | [data](http://figshare.com/articles/Data_from_White_et_al_2012_The_nano_anatomical_basis_of_sexual_dimorphism_in_iridescent_butterfly_colouration_/897985) |
+
+# In review
+
+The perceptual similarity of prey lures and flower colours  
+**White TE**, Dalrymple RL, Herberstein ME, Kemp DJ
+
+Colour polymorphic lures exploit innate biases for colour and luminance cues in dipteran prey  
+**White TE**, Kemp DJ
