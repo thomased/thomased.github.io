@@ -9,7 +9,7 @@ I've had the pleasure of joining the [development team](http://rafaelmaia.net/pa
 
 **Stable release:** 0.5-6 (20/10/2016)
 
-**Installation:** The current stable version of pavo is available on CRAN, and can simply be installed using ```install.packages('pavo')``` within R. The bleeding-edge version is most easily accessed via Hadley Wickham's [devtools](https://github.com/hadley/devtools) package, by running ```devtools::install_github('rmaia/pavo')```.  
+**Installation:** The current stable version of pavo is available on CRAN, and can simply be installed using ```install.packages('pavo')``` within R. The bleeding-edge version is most easily accessed via Hadley Wickham's [devtools](https://github.com/hadley/devtools) package, by running ```devtools::install_github('rmaia/pavo@revamp')```.  
 
 **Citation:** Maia R, Eliason CM, Bitton P-P, Doucet SM, Shawkey MD (2013) [pavo: an R package for the analysis, visualization and organization of spectral data](http://dx.doi.org/10.1111/2041-210X.12069). Methods in Ecology and Evolution, 4(10):906-913
 
