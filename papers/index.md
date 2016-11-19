@@ -4,7 +4,7 @@ layout: post
 
 # 2016
 
-[The perceptual similarity of orb-spider prey lures and flower colours](http://dx.doi.org/dx.doi.org/10.1007%2Fs10682-016-9876-x)  
+[The perceptual similarity of orb-spider prey lures and flower colours](http://dx.doi.org/10.1007%2Fs10682-016-9876-x)  
 **White TE**, Dalrymple RL, Herberstein ME, Kemp DJ (2016) _Evolutionary Ecology_ online early  
 | [pdf]({{ site.url }}/docs/white_2016_perceptual.pdf) |
 
