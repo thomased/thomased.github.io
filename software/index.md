@@ -5,11 +5,13 @@ layout: post
 
 **An R package for the organization, visualisation, and perceptual analysis of spectral colour data in R**
 
-I've had the pleasure of joining the [development team](http://rafaelmaia.net/pavo/) for [pavo](https://github.com/rmaia/pavo); a comprehensive R package for handling and analysing colour data. We're currently working on a suite of new tools and models for the upcoming major release. Feel free to join pavo's [gitter page](https://gitter.im/r-pavo/help) (public chat room) if you need help or if you'd like to keep an eye on announcements.
+We are excited to announce the stable release of **version 1.0** of pavo; the comprehensive R package for handling and analysing colour data. This release includes a suite of new modelling and visualisation tools in a more flexible framework, along with a number of minor improvements, and we feel that the package is in its most useful form yet. Take a look at the [introductory vignette](http://tomwhite.io/pavo-1_0.html) for an outline of the changes, which is also accessible within R through a call to ```browseVignettes('pavo')```.
 
-**Stable release:** 0.5-6 (20/10/2016)
+We're always happy to receive feedback and suggestions, so feel free to join pavo's [gitter page](https://gitter.im/r-pavo/help) (public chat room) if you need help or if you'd like to keep an eye on announcements. If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible. 
 
-**Installation:** The current stable version of pavo is available on CRAN, and can simply be installed using ```install.packages('pavo')``` within R. The bleeding-edge version is most easily accessed via Hadley Wickham's [devtools](https://github.com/hadley/devtools) package, by running ```devtools::install_github('rmaia/pavo')```.  
+**Stable release:** 1.0! (06/12/2016)
+
+**Installation:** The current stable version of pavo is available on CRAN, and can simply be installed using ```install.packages('pavo')``` within R. The bleeding-edge version is on [github](https://github.com/rmaia/pavo), and is most easily installed with Hadley Wickham's [devtools](https://github.com/hadley/devtools) package, by running ```devtools::install_github('rmaia/pavo')```.  
 
 **Citation:** Maia R, Eliason CM, Bitton P-P, Doucet SM, Shawkey MD (2013) [pavo: an R package for the analysis, visualization and organization of spectral data](http://dx.doi.org/10.1111/2041-210X.12069). Methods in Ecology and Evolution, 4(10):906-913
 
