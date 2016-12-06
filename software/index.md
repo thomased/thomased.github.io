@@ -5,7 +5,7 @@ layout: post
 
 **An R package for the organization, visualisation, and perceptual analysis of spectral colour data in R**
 
-We are excited to announce the stable release of **version 1.0** of pavo; the comprehensive R package for handling and analysing colour data. This release includes a suite of new modelling and visualisation tools in a more flexible framework, along with a number of minor improvements, and we feel that the package is in its most useful form yet. Take a look at the [introductory vignette](http://tomwhite.io/pavo-1_0.html) for an outline of the changes, which is also accessible within R through a call to ```browseVignettes('pavo')```.
+We are excited to announce the stable release of **version 1.0** of pavo; the comprehensive R package for handling and analysing colour data. This release includes a suite of new modelling and visualisation tools in a more flexible framework, along with a number of minor improvements. Take a look at the [introductory vignette](http://tomwhite.io/pavo-1_0.html) for an outline of the changes, which is also accessible within R through a call to ```browseVignettes('pavo')```.
 
 We're always happy to receive feedback and suggestions, so feel free to join pavo's [gitter page](https://gitter.im/r-pavo/help) (public chat room) if you need help or if you'd like to keep an eye on announcements. If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
 
