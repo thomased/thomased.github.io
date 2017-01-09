@@ -5,11 +5,11 @@ layout: post
 # 2016
 
 [The perceptual similarity of orb-spider prey lures and flower colours](http://dx.doi.org/10.1007%2Fs10682-016-9876-x)  
-**White TE**, Dalrymple RL, Herberstein ME, Kemp DJ (2016) _Evolutionary Ecology_ online early  
+**White TE**, Dalrymple RL, Herberstein ME, Kemp DJ (2016) _Evolutionary Ecology_ 1-20.  
 | [pdf]({{ site.url }}/docs/white_2016_perceptual.pdf) |
 
 [Colour polymorphism](http://dx.doi.org/10.1016/j.cub.2016.03.017)  
-**White TE**, Kemp DJ (2016) _Current Biology_ 26, R517-518  
+**White TE**, Kemp DJ (2016) _Current Biology_ 26, R517-518.
 | [pdf]({{ site.url }}/docs/white_&_kemp_2016_colour_polymorphism.pdf) |
 
 [Colour polymorphic lures target different visual channels in prey](http://dx.doi.org/10.1111/evo.12948)  
