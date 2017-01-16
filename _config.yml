@@ -1,3 +1,6 @@
+# Blog settings
+permalink: /blog/:title
+
 # My variables
 name: Thomas White
 description: Evolution | Ecology | Behaviour
