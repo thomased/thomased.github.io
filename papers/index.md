@@ -2,14 +2,16 @@
 layout: post
 ---
 
-# 2016
+# 2017
 
 [The perceptual similarity of orb-spider prey lures and flower colours](http://dx.doi.org/10.1007%2Fs10682-016-9876-x)  
-**White TE**, Dalrymple RL, Herberstein ME, Kemp DJ (2016) _Evolutionary Ecology_ 1-20.  
+**White TE**, Dalrymple RL, Herberstein ME, Kemp DJ (2017) _Evolutionary Ecology_ 31, 1-20.  
 | [pdf]({{ site.url }}/docs/white_2016_perceptual.pdf) |
 
+# 2016
+
 [Colour polymorphism](http://dx.doi.org/10.1016/j.cub.2016.03.017)  
-**White TE**, Kemp DJ (2016) _Current Biology_ 26, R517-518.
+**White TE**, Kemp DJ (2016) _Current Biology_ 26, R517-518.  
 | [pdf]({{ site.url }}/docs/white_&_kemp_2016_colour_polymorphism.pdf) |
 
 [Colour polymorphic lures target different visual channels in prey](http://dx.doi.org/10.1111/evo.12948)  
@@ -32,23 +34,24 @@ Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, **White TE**, Hemmings FA, Ti
 | [pdf]({{ site.url }}/docs/white_2015_technicolour_deceit.pdf) | [data](http://dx.doi.org/10.6084/m9.figshare.1371150) |  
 
 [Signal design and courtship presentation coincide for highly biased delivery of an iridescent butterfly mating signal](http://dx.doi.org/10.1111/evo.12551)  
-**White TE**, Zeil J, Kemp DJ (2015) _Evolution_ 69(1), 14-25.  
+**White TE**, Zeil J, Kemp DJ (2015) _Evolution_ 69, 14-25.  
 | [pdf]({{ site.url }}/docs/white_2015_signal.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v) |  
 ***Coverage:*** [F1000](http://dx.doi.org/10.3410/f.725363794.793504390%20) | [2015 Phil Carne Prize](http://tinyurl.com/owrs54p) | [_Nature_ outlook](http://dx.doi.org/10.1038/526S8a)
 
 # 2014
 
 [Sexual signals for the colour-blind: cryptic female mantids signal quality through brightness](http://dx.doi.org/10.1111/1365-2435.12363)  
-Barry KL, **White TE**, Rathnayake DA, Fabricant SE, Herberstein ME (2014) _Functional Ecology_ 29(4), 531-539.  
+Barry KL, **White TE**, Rathnayake DA, Fabricant SE, Herberstein ME (2014) _Functional Ecology_ 29, 531-539.  
 | [pdf]({{ site.url }}/docs/barry_2014_sexual.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v) |  
 ***Coverage:*** [Sydney Morning Herald]({{ site.url }}/docs/barry_2014_sexual_smh.pdf) | [Phys.org]({{ site.url }}/docs/barry_2014_sexual_phys.pdf)
 
 [Exploring the perceptual canvas of signal evolution: comment on Kelley & Kelley 2013](http://dx.doi.org/10.1093/beheco/aru012)  
-Kemp DJ, **White TE** (2014) _Behavioural Ecology_ 25(3), 467-468.  
+Kemp DJ, **White TE** (2014) _Behavioural Ecology_ 25, 467-468.  
 | [pdf]({{ site.url }}/docs/kemp_2014_exploring.pdf) |
 
 # 2012
 
 [The nano-anatomical basis of sexual dimorphism in iridescent butterfly colouration](http://dx.doi.org/10.1071/ZO12045)  
-**White TE**,  Macedonia J, Birch D, Dawes J, Kemp DJ (2012) _Australian Journal of Zoology_ 60(2), 101-107.  
+**White TE**,  Macedonia J, Birch D, Dawes J, Kemp DJ (2012) _Australian Journal of Zoology_ 60, 101-107.  
 | [pdf]({{ site.url }}/docs/white_2012_nano.pdf) | [data](http://figshare.com/articles/Data_from_White_et_al_2012_The_nano_anatomical_basis_of_sexual_dimorphism_in_iridescent_butterfly_colouration_/897985) |
+
