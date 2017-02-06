@@ -6,7 +6,7 @@ layout: post
 
 [The perceptual similarity of orb-spider prey lures and flower colours](http://dx.doi.org/10.1007%2Fs10682-016-9876-x)  
 **White TE**, Dalrymple RL, Herberstein ME, Kemp DJ (2017) _Evolutionary Ecology_ 31, 1-20.  
-| [pdf]({{ site.url }}/docs/white_2016_perceptual.pdf) |
+| [pdf]({{ site.url }}/docs/White_et_al_2017_perceptual_similarity_of_lures_and_flowers.pdf) |
 
 # 2016
 
@@ -55,3 +55,7 @@ Kemp DJ, **White TE** (2014) _Behavioural Ecology_ 25, 467-468.
 **White TE**,  Macedonia J, Birch D, Dawes J, Kemp DJ (2012) _Australian Journal of Zoology_ 60, 101-107.  
 | [pdf]({{ site.url }}/docs/white_2012_nano.pdf) | [data](http://figshare.com/articles/Data_from_White_et_al_2012_The_nano_anatomical_basis_of_sexual_dimorphism_in_iridescent_butterfly_colouration_/897985) |
 
+# Invited book chapters
+
+Visual communication in insects  
+Umbers KDL, **White TE**, O’Hanlon JC (forthcoming). In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
