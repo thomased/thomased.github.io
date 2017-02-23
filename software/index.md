@@ -3,6 +3,10 @@ layout: post
 ---
 # pavo
 
+[![cran version](http://www.r-pkg.org/badges/version/pavo)](https://cran.r-project.org/package=pavo/)
+![cran downloads](http://cranlogs.r-pkg.org/badges/grand-total/pavo) 
+[![Build Status](https://travis-ci.org/rmaia/pavo.svg?branch=master)](https://travis-ci.org/rmaia/pavo/branches)  
+
 **An R package for the organization, visualisation, and perceptual analysis of spectral colour data in R**
 
 We are excited to announce the stable release of **version 1.0** of pavo; the comprehensive R package for handling and analysing colour data. This release includes a suite of new modelling and visualisation tools in a more flexible framework, along with a number of minor improvements. Take a look at the [introductory vignette](http://tomwhite.io/pavo-1_0.html) for an outline of the changes, which is also accessible within R through a call to ```browseVignettes('pavo')```.
