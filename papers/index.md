@@ -4,6 +4,9 @@ layout: post
 
 # 2017
 
+All that glitters: jewelled spiders manipulate colour lure geometry to deceive prey  
+**White TE** (in press) _Biology Letters_
+
 [The perceptual similarity of orb-spider prey lures and flower colours](http://dx.doi.org/10.1007%2Fs10682-016-9876-x)  
 **White TE**, Dalrymple RL, Herberstein ME, Kemp DJ (2017) _Evolutionary Ecology_ 31, 1-20.  
 | [pdf]({{ site.url }}/docs/White_et_al_2017_perceptual_similarity_of_lures_and_flowers.pdf) |
