@@ -11,12 +11,11 @@ I also have the pleasure of being the web & social media officer for the [Austra
 # References
 
 Recent science books I've enjoyed:  
-* [The Vital Question](https://profilebooks.com/the-vital-question.html), N Lane.
+* [The Vital Question](https://profilebooks.com/the-vital-question.html), Nick Lane.
 * [Nabokov's Blues](https://www.amazon.com/Nabokovs-Blues-Scientific-Odyssey-Literary/dp/0071373306), Johnson & Coates.
 * [Remembrance of Earth's Past Trilogy](http://kenliu.name/translations/three-body/), Liu Cixin
 
 &nbsp;
-
 And some works I regularly find useful:  
 
 ***Code***  
@@ -27,7 +26,7 @@ And some works I regularly find useful:
 ***Statistics***  
 * [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/), Gelman & Hill.
 * [Model Selection and Multimodel Inference](http://www.springer.com/gp/book/9780387953649), Burnham & Anderson.
-* [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
+* [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/), Andrew Gelman.
 
 ***Visual/sensory ecology***  
 * [The Ecology of Vision](https://books.google.com.au/books/about/The_Ecology_of_Vision.html?id=bVIXAQAAIAAJ&redir_esc=y), John Lythgoe.
