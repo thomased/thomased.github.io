@@ -1,11 +1,35 @@
 ---
 layout: post
 ---
-# Resources
+
+# Community
 
 If you're interested in sensory ecology and the study of colour, there is a [directory](http://colsci.weebly.com/contact.html) of labs and people that work in the field, along with a [slack](https://slack.com/downloads) channel for chatting about papers, gear, and coordinating a journal club. All are welcome, just ask for an invite. There's a very active community on twitter, including a [bot](https://twitter.com/colsci_papers) for the latest papers, and a [hashtag](https://twitter.com/#colsci).
 
 I also have the pleasure of being the web & social media officer for the [Australasian Evolution Society](http://www.ausevo.com), so please get in touch with any news or research you'd like to share.
+
+# References
+
+Recent science books I've enjoyed:  
+* [Nabokov's Blues](https://www.amazon.com/Nabokovs-Blues-Scientific-Odyssey-Literary/dp/0071373306), Johnson & Coates.
+* [Remembrance of Earth's Past](http://kenliu.name/translations/three-body/) Trilogy, Liu Cixin
+
+And some works I regularly find useful:  
+
+***Code***  
+* [Advanced R](http://adv-r.had.co.nz), Hadley Wickham.
+* [R Packages](http://r-pkgs.had.co.nz), Hadley Wickham.
+* [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393), Beazley & Jones.
+
+***Statistics***  
+* [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/), Gelman & Hill.
+* [Model Selection and Multimodel Inference](http://www.springer.com/gp/book/9780387953649), Burnham & Anderson.
+* [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
+
+***Visual/sensory ecology***  
+* [The Ecology of Vision](https://books.google.com.au/books/about/The_Ecology_of_Vision.html?id=bVIXAQAAIAAJ&redir_esc=y), John Lythgoe.
+* [Visual Ecology](http://press.princeton.edu/titles/10281.html), Cronin et al.
+* [The Optics of Life](http://press.princeton.edu/titles/9640.html), S Johnsen.
 
 # Miscellanea
 
