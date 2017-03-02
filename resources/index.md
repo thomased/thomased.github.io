@@ -12,8 +12,8 @@ I also have the pleasure of being the web & social media officer for the [Austra
 
 Recent science books I've enjoyed:  
 * [Nabokov's Blues](https://www.amazon.com/Nabokovs-Blues-Scientific-Odyssey-Literary/dp/0071373306), Johnson & Coates.
-* [Remembrance of Earth's Past](http://kenliu.name/translations/three-body/) Trilogy, Liu Cixin
-<br>
+* [Remembrance of Earth's Past Trilogy](http://kenliu.name/translations/three-body/), Liu Cixin
+
 And some works I regularly find useful:  
 
 ***Code***  
