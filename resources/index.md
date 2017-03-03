@@ -2,6 +2,12 @@
 layout: post
 ---
 
+# Community
+
+If you're interested in sensory ecology and the study of colour, there is a [directory](http://colsci.weebly.com/contact.html) of labs and people that work in the field, along with a [slack](https://slack.com/downloads) channel for chatting about papers, gear, and coordinating a journal club. All are welcome, just ask for an invite. There's a very active community on twitter, including a [bot](https://twitter.com/colsci_papers) for the latest papers, and a [hashtag](https://twitter.com/#colsci).
+
+I also have the pleasure of being the web & social media officer for the [Australasian Evolution Society](http://www.ausevo.com), so please get in touch with any news or research you'd like to share.
+
 # References
 
 Recent science books I've enjoyed:  
@@ -25,12 +31,6 @@ And some works I regularly find useful:
 * [The Ecology of Vision](https://books.google.com.au/books/about/The_Ecology_of_Vision.html?id=bVIXAQAAIAAJ&redir_esc=y), John Lythgoe.
 * [Visual Ecology](http://press.princeton.edu/titles/10281.html), Cronin et al.
 * [The Optics of Life](http://press.princeton.edu/titles/9640.html), S Johnsen.
-
-# Community
-
-If you're interested in sensory ecology and the study of colour, there is a [directory](http://colsci.weebly.com/contact.html) of labs and people that work in the field, along with a [slack](https://slack.com/downloads) channel for chatting about papers, gear, and coordinating a journal club. All are welcome, just ask for an invite. There's a very active community on twitter, including a [bot](https://twitter.com/colsci_papers) for the latest papers, and a [hashtag](https://twitter.com/#colsci).
-
-I also have the pleasure of being the web & social media officer for the [Australasian Evolution Society](http://www.ausevo.com), so please get in touch with any news or research you'd like to share.
 
 # Miscellanea
 
