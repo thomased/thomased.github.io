@@ -19,6 +19,26 @@ We're always happy to receive feedback and suggestions, so feel free to join pav
 
 **Citation:** Maia R, Eliason CM, Bitton P-P, Doucet SM, Shawkey MD (2013) [pavo: an R package for the analysis, visualization and organization of spectral data](http://dx.doi.org/10.1111/2041-210X.12069). Methods in Ecology and Evolution, 4(10):906-913
 
-# other
+# pattern
+
+**An R package for the analysis of colour pattern geometry**
+
+[![cran version](http://www.r-pkg.org/badges/version/pattern)](https://cran.r-project.org/package=pattern/) [![Project Status: Wip - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/0.1.0/wip.svg)](http://www.repostatus.org/#wip) [![Travis-CI Build Status](https://travis-ci.org/thomased/pattern.png?branch=master)](https://travis-ci.org/thomased/pattern)
+
+A toolbox for the analysis of colour pattern geometry in R. Currently very much under-construction, but will eventually implement various methods from the literature in a manner complementary to [pavo](https://github.com/rmaia/pavo) (which handles the spectral data analysis/visual modelling side of things). A stable release should be available later this year.
+
+**Installation:** The development version is available via devtools ```devtools::install_github('thomased/pattern')```
+
+# Nature's palette
+
+**All-natural colour palettes for R**
+
+[![cran version](http://www.r-pkg.org/badges/version/pattern)](https://cran.r-project.org/package=natpalette/) [![Travis-CI Build Status](https://travis-ci.org/thomased/pattern.png?branch=master)](https://travis-ci.org/thomased/natpalette)
+
+A selection of questionably useful palettes inspired by the world in colour. See the [github page](https://github.com/thomased/natpalette) for examples, and feel free to send along an image of your study organism for inclusion. Inspired by the excellent [wesanderson](https://github.com/karthik/wesanderson) package from [Karthik Ram](http://inundata.org).
+
+**Installation:** via devtools ```devtools::install_github('thomased/natpalette')```
+
+# Other
 
 You can find my half-finished projects and anything that might be of broader use on [github](https://github.com/thomased).
