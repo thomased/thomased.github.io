@@ -29,7 +29,7 @@ We're always happy to receive feedback and suggestions, so feel free to join pav
 
 A toolbox for the analysis of colour pattern geometry in R. Currently very much under-construction, but will eventually implement various methods from the literature in a manner complementary to [pavo](https://github.com/rmaia/pavo) (which handles the spectral data analysis and visual modelling work). A stable release should be available later this year.
 
-**Installation:** The development version is available via devtools ```devtools::install_github('thomased/pattern')```
+**Installation:** The development version is available [on github](https://github.com/thomased/pattern) and can be installed via devtools ```devtools::install_github('thomased/pattern')```
 
 ----------
 
