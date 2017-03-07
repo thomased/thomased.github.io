@@ -19,6 +19,8 @@ We're always happy to receive feedback and suggestions, so feel free to join pav
 
 **Citation:** Maia R, Eliason CM, Bitton P-P, Doucet SM, Shawkey MD (2013) [pavo: an R package for the analysis, visualization and organization of spectral data](http://dx.doi.org/10.1111/2041-210X.12069). Methods in Ecology and Evolution, 4(10):906-913
 
+----------
+
 # pattern
 
 **An R package for the analysis of colour pattern geometry**
@@ -29,6 +31,8 @@ A toolbox for the analysis of colour pattern geometry in R. Currently very much 
 
 **Installation:** The development version is available via devtools ```devtools::install_github('thomased/pattern')```
 
+----------
+
 # Nature's palette
 
 **All-natural colour palettes for R**
@@ -38,6 +42,8 @@ A toolbox for the analysis of colour pattern geometry in R. Currently very much 
 A selection of questionably useful palettes inspired by the world in colour. See the [github page](https://github.com/thomased/natpalette) for examples, and feel free to send along an image of your study organism for inclusion. Inspired by the excellent [wesanderson](https://github.com/karthik/wesanderson) package from [Karthik Ram](http://inundata.org).
 
 **Installation:** via devtools ```devtools::install_github('thomased/natpalette')```
+
+----------
 
 # Other
 
