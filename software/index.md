@@ -33,7 +33,7 @@ A toolbox for the analysis of colour pattern geometry in R. Currently very much 
 
 ----------
 
-# Nature's palette
+# nature's palette
 
 **All-natural colour palettes for R**
 
