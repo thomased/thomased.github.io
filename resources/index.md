@@ -30,7 +30,7 @@ And some works I regularly find useful:
 ***Visual/sensory ecology***  
 * [The Ecology of Vision](https://books.google.com.au/books/about/The_Ecology_of_Vision.html?id=bVIXAQAAIAAJ&redir_esc=y), John Lythgoe.
 * [Visual Ecology](http://press.princeton.edu/titles/10281.html), Cronin et al.
-* [The Optics of Life](http://press.princeton.edu/titles/9640.html), S Johnsen.
+* [The Optics of Life](http://press.princeton.edu/titles/9640.html), Sonke Johnsen.
 
 # Miscellanea
 
