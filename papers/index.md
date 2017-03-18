@@ -29,8 +29,7 @@ Umbers KDL, De Bona S, **White TE**, Lehtonen J, Mappes J, Endler JA (in press) 
 
 [Birds, butterflies and flowers in the tropics are not more colourful than those at higher latitudes](http://dx.doi.org/10.1111/geb.12368)  
 Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, **White TE**, Hemmings FA, Tindall ML, Moles AT (2015) _Global Ecology and Biogeography_ 24, 1424-1432.  
-| [pdf]({{ site.url }}/docs/dalrymple_et_al_2015_life_isnt_more_colourful_in_tropics.pdf) |  
-***Coverage:*** [BBC](http://www.bbc.com/earth/story/20151015-where-would-you-go-to-find-the-most-colourful-wildlife) | [Sydney Morning Herald](http://www.smh.com.au/technology/sci-tech/science-researchers-find-plants-animals-in-the-tropics-arent-more-colourful-20150925-gjumzu) | [Tech Times](http://www.techtimes.com/articles/88592/20150926/plants-and-animals-in-the-tropics-not-more-colorful-that-those-in-regions-with-colder-temperatures.htm) | [Brisbane Times](http://www.brisbanetimes.com.au/technology/sci-tech/science-researchers-find-plants-animals-in-the-tropics-arent-more-colourful-20150925-gjumzu.html) | [The Canberra Times](http://www.canberratimes.com.au/technology/sci-tech/science-researchers-find-plants-animals-in-the-tropics-arent-more-colourful-20150925-gjumzu) | [The Age](http://www.theage.com.au/technology/sci-tech/science-researchers-find-plants-animals-in-the-tropics-arent-more-colourful-20150925-gjumzu) | [WA Today](http://www.watoday.com.au/technology/sci-tech/science-researchers-find-plants-animals-in-the-tropics-arent-more-colourful-20150925-gjumzu)
+| [pdf]({{ site.url }}/docs/dalrymple_et_al_2015_life_isnt_more_colourful_in_tropics.pdf) |
 
 [Reproducible research in the study of biological colouration](http://dx.doi.org/10.1016/j.anbehav.2015.05.007)  
 **White TE**, Dalrymple RL, Noble DWA, O’Hanlon JC, Zurek DB, Umbers KDL (2015) _Animal Behaviour_ 106, 51-57.  
@@ -42,15 +41,13 @@ Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, **White TE**, Hemmings FA, Ti
 
 [Signal design and courtship presentation coincide for highly biased delivery of an iridescent butterfly mating signal](http://dx.doi.org/10.1111/evo.12551)  
 **White TE**, Zeil J, Kemp DJ (2015) _Evolution_ 69, 14-25.  
-| [pdf]({{ site.url }}/docs/white_2015_signal.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v) |  
-***Coverage:*** [F1000](http://dx.doi.org/10.3410/f.725363794.793504390%20) | [2015 Phil Carne Prize](http://tinyurl.com/owrs54p) | [_Nature_ outlook](http://dx.doi.org/10.1038/526S8a)
+| [pdf]({{ site.url }}/docs/white_2015_signal.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v) |
 
 # 2014
 
 [Sexual signals for the colour-blind: cryptic female mantids signal quality through brightness](http://dx.doi.org/10.1111/1365-2435.12363)  
 Barry KL, **White TE**, Rathnayake DA, Fabricant SE, Herberstein ME (2014) _Functional Ecology_ 29, 531-539.  
-| [pdf]({{ site.url }}/docs/barry_2014_sexual.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v) |  
-***Coverage:*** [Sydney Morning Herald]({{ site.url }}/docs/barry_2014_sexual_smh.pdf) | [Phys.org]({{ site.url }}/docs/barry_2014_sexual_phys.pdf)
+| [pdf]({{ site.url }}/docs/barry_2014_sexual.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v) | 
 
 [Exploring the perceptual canvas of signal evolution: comment on Kelley & Kelley 2013](http://dx.doi.org/10.1093/beheco/aru012)  
 Kemp DJ, **White TE** (2014) _Behavioural Ecology_ 25, 467-468.  
