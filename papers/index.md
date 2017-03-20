@@ -7,7 +7,7 @@ layout: post
 Deimatism: a neglected dimension of anti-predator defense  
 Umbers KDL, De Bona S, **White TE**, Lehtonen J, Mappes J, Endler JA (in press) _Biology Letters_
 
-[Jewelled spiders manipulate colour lure geometry to deceive prey](http://dx.doi.org/10.1098/rsbl.2017.0027)  
+Jewelled spiders manipulate colour lure geometry to deceive prey 
 **White TE** (in press) _Biology Letters_  
 | [data + code](https://github.com/thomased/ms_spiderpattern) |
 
