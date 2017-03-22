@@ -4,7 +4,7 @@ layout: post
 
 # 2017
 
-Deimatism: a neglected dimension of anti-predator defense  
+Deimatism: a neglected component of antipredator defense  
 Umbers KDL, De Bona S, **White TE**, Lehtonen J, Mappes J, Endler JA (in press) _Biology Letters_
 
 Jewelled spiders manipulate colour lure geometry to deceive prey  
