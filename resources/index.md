@@ -27,11 +27,6 @@ And some works I regularly find useful:
 * [Model Selection and Multimodel Inference](http://www.springer.com/gp/book/9780387953649), Burnham & Anderson.
 * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/), Andrew Gelman.
 
-***Visual/sensory ecology***  
-* [The Ecology of Vision](https://books.google.com.au/books/about/The_Ecology_of_Vision.html?id=bVIXAQAAIAAJ&redir_esc=y), John Lythgoe.
-* [Visual Ecology](http://press.princeton.edu/titles/10281.html), Cronin et al.
-* [The Optics of Life](http://press.princeton.edu/titles/9640.html), Sonke Johnsen.
-
 # Miscellanea
 
 The written material on this site is released under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. The source code of the website itself is released under the terms of the [MIT license](http://opensource.org/licenses/MIT). Neither of these apply to the pdf's of journal articles (alas).
