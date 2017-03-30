@@ -27,7 +27,7 @@ We're always happy to receive feedback and suggestions, so feel free to join pav
 
 [![cran version](http://www.r-pkg.org/badges/version/pattern)](https://cran.r-project.org/package=pattern/) [![Project Status: Wip - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/0.1.0/wip.svg)](http://www.repostatus.org/#wip) [![Travis-CI Build Status](https://travis-ci.org/thomased/pattern.png?branch=master)](https://travis-ci.org/thomased/pattern)
 
-A toolbox for the analysis of colour pattern geometry in R. Currently very much under-construction, but will eventually implement various methods from the literature in a manner complementary to [pavo](https://github.com/rmaia/pavo) (which handles the spectral data analysis and visual modelling work). A stable release should be available later this year.
+A toolbox for the analysis of colour pattern geometry in R. Currently very much under-construction, but will eventually implement various methods from the literature in a manner complementary to [pavo](https://github.com/rmaia/pavo) (which handles the spectral data analysis and visual modelling work). An early stable release should be available later this year.
 
 **Installation:** The development version is available [on github](https://github.com/thomased/pattern) and can be installed via devtools ```devtools::install_github('thomased/pattern')```
 
