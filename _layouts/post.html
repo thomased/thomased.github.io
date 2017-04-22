@@ -3,10 +3,11 @@ layout: default
 ---
 {% include header.html %}
 
-<div class="post">
-    <p class="post-meta">
+<p class="post-meta">
       {{ post.date | date: '%Y %b %d' }}
-    </p>
+</p>
+
+<div class="post">
     <div class="post__content"?>
         {{ content }}
     </div>
