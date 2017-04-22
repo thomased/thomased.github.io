@@ -16,8 +16,8 @@ We're running some experiments to understand human visual perception in noisy, r
 
 **Your reward:** Some lunchtime exercise, a warm-fuzzy feeling from helping push back the bounds of science, and probably chocolate. Once you’ve finished strolling, we’d love to share all details of the experiment, what the science predicted and why, etc. You can choose to receive any ultimate study outcomes (reports/papers).
 
-This is a collaborative venture lead by [Bibiana Rojas](https://bibianarojas.co), along with [Darrell Kemp](www.evolutionaryecologymq.com).
+This is a collaborative venture lead by [Bibiana Rojas](https://bibianarojas.co), along with [Darrell Kemp](http://www.evolutionaryecologymq.com).
 
-Please email [DK](mailto:darrell.kemp@mq.edu.au) if you’re able to help.
+Please [email DK](mailto:darrell.kemp@mq.edu.au) if you’re able to help.
 
 ---------------------------------------------------------------------------------
