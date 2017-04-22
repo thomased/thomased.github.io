@@ -4,6 +4,9 @@ layout: default
 {% include header.html %}
 
 <div class="post">
+    <p class="post-meta">
+      {{ post.date | date: '%Y %b %d' }}
+    </p>
     <div class="post__content"?>
         {{ content }}
     </div>
