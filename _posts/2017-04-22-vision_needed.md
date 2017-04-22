@@ -3,7 +3,7 @@ layout: post
 title: Your vision needed
 ---
 
-**YOUR VISION NEEDED**
+# Your vision needed
 *2017-04-22*
 
 We're running some experiments to understand human visual perception in noisy, real-world settings, and if you happen to be reside around [Macquarie University](ww.mq.edu.au) we'd appreciate your help.
