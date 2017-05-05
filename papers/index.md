@@ -4,6 +4,9 @@ layout: post
 
 # 2017
 
+Digest: Strengthening the link between sexual selection and colour polymorphism  
+**White TE** (in press) _Evolution_ 
+
 [Deimatism: a neglected component of antipredator defense](http://dx.doi.org/10.1098/rsbl.2016.0936)  
 Umbers KDL, De Bona S, **White TE**, Lehtonen J, Mappes J, Endler JA (2017) _Biology Letters_ 13, 20160936.  
 | [pdf]({{ site.url }}/docs/umbers_et_al_2017_deimatism_neglected.pdf) |
