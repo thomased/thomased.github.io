@@ -13,7 +13,7 @@ We are excited to announce the stable release of **version 1.0** of pavo; the co
 
 We're always happy to receive feedback and suggestions, so feel free to join pavo's [gitter page](https://gitter.im/r-pavo/help) (public chat room) if you need help or if you'd like to keep an eye on announcements. If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
 
-**Stable release:** 1.0.1 (17/03/2017)
+**Stable release:** 1.1 (06/05/2017)
 
 **Installation:** The current stable version of pavo is available on CRAN, and can simply be installed using ```install.packages('pavo')``` within R. The bleeding-edge version is on [github](https://github.com/rmaia/pavo), and is most easily installed with Hadley Wickham's [devtools](https://github.com/hadley/devtools) package, by running ```devtools::install_github('rmaia/pavo')```.  
 
