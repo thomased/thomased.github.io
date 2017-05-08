@@ -29,6 +29,3 @@ paginate_path: "/blog/page:num/"
 # RSS?
 gems:
   - jekyll-feed
-
-#GA
-google_analytics: "UA-62544976-2"
