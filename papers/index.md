@@ -8,7 +8,8 @@ Bird diversity is the best predictor of broad gradients in bird and butterfly co
 Dalrymple RL, Kemp DJ, Laffan S, **White TE**, Hemmings FA, Hitchcock TD, Moles AT (accepted). _Ecological Monographs_
 
 [Digest: Strengthening the link between sexual selection and colour polymorphism](http://dx.doi.org/10.1111/evo.13272)  
-**White TE** (2017) _Evolution_ Accepted Articles. 
+**White TE** (2017) _Evolution_ Early View.  
+| [pdf]({{ site.url }}/docs/white_2017_sexual_selection_polymorphism.pdf) | 
 
 [Deimatism: a neglected component of antipredator defense](http://dx.doi.org/10.1098/rsbl.2016.0936)  
 Umbers KDL, De Bona S, **White TE**, Lehtonen J, Mappes J, Endler JA (2017) _Biology Letters_ 13, 20160936.  
