@@ -4,9 +4,6 @@ layout: post
 
 # 2017
 
-Bird diversity is the best predictor of broad gradients in bird and butterfly colouration  
-Dalrymple RL, Kemp DJ, Laffan S, **White TE**, Hemmings FA, Hitchcock TD, Moles AT (accepted). _Ecological Monographs_
-
 [Digest: Strengthening the link between sexual selection and colour polymorphism](http://dx.doi.org/10.1111/evo.13272)  
 **White TE** (2017) _Evolution_ Early View.  
 | [pdf]({{ site.url }}/docs/white_2017_sexual_selection_polymorphism.pdf) | 
