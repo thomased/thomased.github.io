@@ -67,4 +67,4 @@ Kemp DJ, **White TE** (2014) _Behavioural Ecology_ 25, 467-468.
 # Invited book chapters
 
 Visual communication in insects  
-Umbers KDL, **White TE**, O’Hanlon JC (forthcoming). In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
+O’Hanlon JC, **White TE**, Umbers KDL (forthcoming). In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
