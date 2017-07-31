@@ -41,7 +41,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-62544976-2"
 
 # Social icons and sharing options
 social:
@@ -55,17 +55,6 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: Thomas White
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    url: https://www.linkedin.com/in/thomas-white-48090663
     desc: Connect with me on LinkedIn
-    share: true
-
-# Social sharing protocols
-# These are for automatically generating sharing metadata for FB and Twitter
-# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
-protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
-    fb_image_type: "image/png"
-
-    twitter_image: "/assets/logo.png"
+    share: false
