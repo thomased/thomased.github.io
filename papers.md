@@ -6,13 +6,13 @@ permalink: /papers/
 
 # 2017
 
-Colour polymorphic lures exploit innate preferences for colour and luminance cues in dipteran prey  
+[Colour polymorphic lures exploit innate preferences for colour and luminance cues in dipteran prey]()  
 **White TE**, Kemp DJ (in revision) _BMC Evolutionary Biology_.
 
-Bird diversity is the best predictor of broad gradients in bird and butterfly colouration. Ecological Monographs  
-Dalrymple RL, Kemp DJ, Laffan S, **White TE**, Hemmings FA, Hitchcock TD, Moles AT (in revision)  
+[Bird diversity is the best predictor of broad gradients in bird and butterfly colouration.]()  
+Dalrymple RL, Kemp DJ, Laffan S, **White TE**, Hemmings FA, Hitchcock TD, Moles AT (in revision) _Ecological Monographs_.  
 
-Simple visual cues predict the human detection of natural stimuli in visually noisy environments  
+[Simple visual cues predict the human detection of natural stimuli in visually noisy environments]()  
 **White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (in revision) _Biology Letters_.
 
 [Digest: Strengthening the link between sexual selection and colour polymorphism](http://dx.doi.org/10.1111/evo.13272)  
