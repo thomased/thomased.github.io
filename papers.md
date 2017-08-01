@@ -6,6 +6,16 @@ permalink: /papers/
 
 # 2017
 
+[Bird diversity is the best predictor of broad gradients in bird and butterfly colouration.]()  
+Dalrymple RL, Kemp DJ, Laffan S, **White TE**, Hemmings FA, Hitchcock TD, Moles AT (in revision) _Ecological Monographs_. 
+
+[Colour polymorphic lures exploit innate preferences for colour and luminance cues in dipteran prey]()  
+**White TE**, Kemp DJ (in revision) _BMC Evolutionary Biology_. 
+
+[Simple visual cues predict the human detection of natural stimuli in visually noisy environments]()  
+**White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (in revision) _Biology Letters_.  
+| [data](https://figshare.com/articles/white_et_al_2017_biol_letters_zip/5235079) |
+
 [Digest: Strengthening the link between sexual selection and colour polymorphism](http://dx.doi.org/10.1111/evo.13272)  
 **White TE** (2017) _Evolution_ 71, 1913-1914.  
 | [pdf]({{ site.url }}/docs/white_2017_sexual_selection_polymorphism.pdf) | 
