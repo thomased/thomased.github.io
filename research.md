@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research is motivated by a desire to test and refine theory, for which I draw on experimental, observational, and theoretical approaches. I tend to prefer invertebrates for their tractability, though will use any system (including humans) appropriate for the questions at hand. Some areas of particular interest include: 
+My research is motivated by a desire to understand life's diversity, and I use experimental, observational, and theoretical tools to test and refine theory. I tend to prefer invertebrates for their tractability, though will use any system (including humans) appropriate for the questions at hand. Some areas of particular interest include: 
 
 ### The evolutionary ecology of visual communication
 
