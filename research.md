@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My primary interest is in testing and refining theory, and I draw on experimental, observational, and theoretical tools to answer evolutionary and ecological questions. I tend to prefer invertebrates for their tractability, though will use any system (including humans) appropriate for the questions at hand. Some areas of particular interest include: 
+My primary motivation is to test and refine theory, and I draw on experimental, observational, and theoretical tools to answer evolutionary and ecological questions. I tend to prefer invertebrates for their tractability, though will use any system (including humans) appropriate for the questions at hand. Some areas of particular interest include: 
 
 ### The evolutionary ecology of visual communication
 
