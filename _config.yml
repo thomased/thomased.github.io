@@ -60,7 +60,7 @@ social:
     share: false
 
   - name: Scholar
-    icon: scholar
+    icon: google
     username: Thomas E. White
     url: https://scholar.google.com.au/citations?user=IJk91k0AAAAJ&hl=en
     desc: Find me on Google Scholar
