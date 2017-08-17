@@ -6,7 +6,7 @@ permalink: /papers/
 
 ### 2017
 
-[Bird diversity is the best predictor of broad gradients in bird and butterfly colouration.]()  
+[Broad gradients in bird and butterfly colouration are best predicted by energy and resources in the environment.]()  
 Dalrymple RL, Kemp DJ, Laffan S, **White TE**, Hemmings FA, Hitchcock TD, Moles AT (in revision) _Ecological Monographs_. 
 
 [Simple visual cues predict the human detection of natural stimuli in visually noisy environments]()  
