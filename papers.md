@@ -13,7 +13,7 @@ Maia R, **White TE** (preprint) _bioRxiv_
 Dalrymple RL, Kemp DJ, Laffan S, **White TE**, Hemmings FA, Hitchcock TD, Moles AT (in revision) _Ecological Monographs_. 
 
 [Simple visual cues predict the human detection of natural stimuli in visually noisy environments]()  
-**White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (in revision) _Biology Letters_.  
+**White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (in press) _Biology Letters_.  
 | [data](https://figshare.com/articles/white_et_al_2017_biol_letters_zip/5235079) |
 
 [Colour polymorphic lures exploit innate preferences for colour and luminance cues in dipteran prey](http://dx.doi.org/10.1186/s12862-017-1043-7)  
