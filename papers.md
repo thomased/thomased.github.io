@@ -5,9 +5,9 @@ permalink: /papers/
 ---
 
 ### 2017
-[Comparing colours using visual models](http://www.biorxiv.org/content/early/2017/08/18/175992)  
+[Comparing colours using visual models](http://www.biorxiv.org/content/early/2017/08/21/175992)  
 Maia R, **White TE** (preprint) _bioRxiv_  
-| [preprint](http://www.biorxiv.org/content/biorxiv/early/2017/08/18/175992.full.pdf) | [data + code](https://github.com/rmaia/msdichromatism)
+| [preprint](http://www.biorxiv.org/content/biorxiv/early/2017/08/21/175992.full.pdf) | [data + code](https://github.com/rmaia/msdichromatism)
 
 [Broad gradients in bird and butterfly colouration are best predicted by energy and resources in the environment.]()  
 Dalrymple RL, Kemp DJ, Laffan S, **White TE**, Hemmings FA, Hitchcock TD, Moles AT (in revision) _Ecological Monographs_. 
