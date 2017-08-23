@@ -11,16 +11,16 @@ Maia R, **White TE** (preprint) _bioRxiv_
 [Broad gradients in bird and butterfly colouration are best predicted by energy and resources in the environment.]()  
 Dalrymple RL, Kemp DJ, Laffan S, **White TE**, Hemmings FA, Hitchcock TD, Moles AT (in revision) _Ecological Monographs_. 
 
-[Simple visual cues predict the human detection of natural stimuli in visually noisy environments]()  
-**White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (in press) _Biology Letters_.  
+Simple visual cues predict the human detection of natural stimuli in visually noisy environments  
+**White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (in press) [_Biology Letters_]().  
 | [data](https://figshare.com/articles/white_et_al_2017_biol_letters_zip/5235079) |
 
-**Colour polymorphic lures exploit innate preferences for colour and luminance cues in dipteran prey**  
+Colour polymorphic lures exploit innate preferences for colour and luminance cues in dipteran prey  
 **White TE**, Kemp DJ (2017) [_BMC Evolutionary Biology_](http://dx.doi.org/10.1186/s12862-017-1043-7) 17, 191.  
 | [pdf]({{ site.url }}/docs/white_&_kemp_2017_colour_polymorphic_lures_exploit_innate_preferences.pdf) | [data](https://doi.org/10.6084/m9.figshare.5306080.v1) |
 
-[Digest: Strengthening the link between sexual selection and colour polymorphism](http://dx.doi.org/10.1111/evo.13272)  
-**White TE** (2017) _Evolution_ 71, 1913-1914.  
+Digest: Strengthening the link between sexual selection and colour polymorphism  
+**White TE** (2017) [_Evolution_](http://dx.doi.org/10.1111/evo.13272) 71, 1913-1914.  
 | [pdf]({{ site.url }}/docs/white_2017_sexual_selection_polymorphism.pdf) | 
 
 [Deimatism: a neglected component of antipredator defense](http://dx.doi.org/10.1098/rsbl.2016.0936)  
