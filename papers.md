@@ -56,5 +56,4 @@ Kemp DJ, **White TE** (2014) Exploring the perceptual canvas of signal evolution
 
 ### Invited book chapters
 
-Visual communication in insects  
-O’Hanlon JC, **White TE**, Umbers KDL (forthcoming). In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
+O’Hanlon JC, **White TE**, Umbers KDL (forthcoming) Visual communication in insects. In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
