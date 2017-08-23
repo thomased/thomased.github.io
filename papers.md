@@ -15,8 +15,8 @@ Dalrymple RL, Kemp DJ, Laffan S, **White TE**, Hemmings FA, Hitchcock TD, Moles 
 **White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (in press) _Biology Letters_.  
 | [data](https://figshare.com/articles/white_et_al_2017_biol_letters_zip/5235079) |
 
-[Colour polymorphic lures exploit innate preferences for colour and luminance cues in dipteran prey](http://dx.doi.org/10.1186/s12862-017-1043-7)  
-**White TE**, Kemp DJ (2017) _BMC Evolutionary Biology_ 17, 191.  
+Colour polymorphic lures exploit innate preferences for colour and luminance cues in dipteran prey  
+**White TE**, Kemp DJ (2017) [_BMC Evolutionary Biology_](http://dx.doi.org/10.1186/s12862-017-1043-7) 17, 191.  
 | [pdf]({{ site.url }}/docs/white_&_kemp_2017_colour_polymorphic_lures_exploit_innate_preferences.pdf) | [data](https://doi.org/10.6084/m9.figshare.5306080.v1) |
 
 [Digest: Strengthening the link between sexual selection and colour polymorphism](http://dx.doi.org/10.1111/evo.13272)  
