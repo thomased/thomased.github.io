@@ -4,7 +4,6 @@ title: Papers
 permalink: /papers/
 ---
 
-### 2017
 [Comparing colours using visual models](http://www.biorxiv.org/content/early/2017/08/21/175992)  
 Maia R, **White TE** (preprint) _bioRxiv_  
 | [preprint](http://www.biorxiv.org/content/biorxiv/early/2017/08/21/175992.full.pdf) | [data + code](https://github.com/rmaia/msdichromatism) |
@@ -36,8 +35,6 @@ Umbers KDL, De Bona S, **White TE**, Lehtonen J, Mappes J, Endler JA (2017) _Bio
 **White TE**, Dalrymple RL, Herberstein ME, Kemp DJ (2017) _Evolutionary Ecology_ 31, 1-20.  
 | [pdf]({{ site.url }}/docs/White_et_al_2017_perceptual_similarity_of_lures_and_flowers.pdf) |
 
-### 2016
-
 [Colour polymorphism](http://dx.doi.org/10.1016/j.cub.2016.03.017)  
 **White TE**, Kemp DJ (2016) _Current Biology_ 26, R517-518.  
 | [pdf]({{ site.url }}/docs/white_&_kemp_2016_colour_polymorphism.pdf) |
@@ -45,8 +42,6 @@ Umbers KDL, De Bona S, **White TE**, Lehtonen J, Mappes J, Endler JA (2017) _Bio
 [Colour polymorphic lures target different visual channels in prey](http://dx.doi.org/10.1111/evo.12948)  
 **White TE**, Kemp DJ (2016) _Evolution_ 70, 1398-1408.  
 | [pdf]({{ site.url }}/docs/white_2016_polymorphic_lures.pdf) |  [data](https://dx.doi.org/10.6084/m9.figshare.1517656.v1) |  
-
-### 2015
 
 [Birds, butterflies and flowers in the tropics are not more colourful than those at higher latitudes](http://dx.doi.org/10.1111/geb.12368)  
 Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, **White TE**, Hemmings FA, Tindall ML, Moles AT (2015) _Global Ecology and Biogeography_ 24, 1424-1432.  
@@ -64,8 +59,6 @@ Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, **White TE**, Hemmings FA, Ti
 **White TE**, Zeil J, Kemp DJ (2015) _Evolution_ 69, 14-25.  
 | [pdf]({{ site.url }}/docs/white_2015_signal.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v) |
 
-### 2014
-
 [Sexual signals for the colour-blind: cryptic female mantids signal quality through brightness](http://dx.doi.org/10.1111/1365-2435.12363)  
 Barry KL, **White TE**, Rathnayake DA, Fabricant SE, Herberstein ME (2014) _Functional Ecology_ 29, 531-539.  
 | [pdf]({{ site.url }}/docs/barry_2014_sexual.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v) | 
@@ -73,8 +66,6 @@ Barry KL, **White TE**, Rathnayake DA, Fabricant SE, Herberstein ME (2014) _Func
 [Exploring the perceptual canvas of signal evolution: comment on Kelley & Kelley 2013](http://dx.doi.org/10.1093/beheco/aru012)  
 Kemp DJ, **White TE** (2014) _Behavioural Ecology_ 25, 467-468.  
 | [pdf]({{ site.url }}/docs/kemp_2014_exploring.pdf) |
-
-### 2012
 
 [The nano-anatomical basis of sexual dimorphism in iridescent butterfly colouration](http://dx.doi.org/10.1071/ZO12045)  
 **White TE**,  Macedonia J, Birch D, Dawes J, Kemp DJ (2012) _Australian Journal of Zoology_ 60, 101-107.  
