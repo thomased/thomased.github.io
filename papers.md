@@ -9,7 +9,7 @@ Maia R, **White TE** (preprint) Comparing colours using visual models. [_bioRxiv
 
 Dalrymple RL, Kemp DJ, Laffan S, **White TE**, Hemmings FA, Hitchcock TD, Moles AT (in revision) Broad gradients in bird and butterfly colouration are best predicted by energy and resources in the environment. [_Ecological Monographs_](). 
 
-**White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (in press) Simple visual cues predict the human detection of natural stimuli in visually noisy environments. [_Biology Letters_]().  
+**White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (in press) Colour and luminance contrasts predict the human detection of natural stimuli in complex visual environments. [_Biology Letters_]().  
 | [data](https://figshare.com/articles/white_et_al_2017_biol_letters_zip/5235079) |
 
 **White TE**, Kemp DJ (2017) Colour polymorphic lures exploit innate preferences for colour and luminance cues in dipteran prey. [_BMC Evolutionary Biology_](http://dx.doi.org/10.1186/s12862-017-1043-7) 17, 191.  
