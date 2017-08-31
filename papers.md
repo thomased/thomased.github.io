@@ -4,10 +4,12 @@ title: Papers
 permalink: /papers/
 ---
 
+Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (in revision) Broad gradients in bird and butterfly colouration are best predicted by energy and resources in the environment. [_Ecological Monographs_](). 
+
 Maia R, **White TE** (preprint) Comparing colours using visual models. [_bioRxiv_](http://www.biorxiv.org/content/early/2017/08/21/175992).  
 | [preprint](http://www.biorxiv.org/content/biorxiv/early/2017/08/21/175992.full.pdf) | [data + code](https://github.com/rmaia/msdichromatism) |
 
-Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (in revision) Broad gradients in bird and butterfly colouration are best predicted by energy and resources in the environment. [_Ecological Monographs_](). 
+Bulbert MW, **White TE**, Saporito R, Kraus F (accepted). Ontogenetic colour change in _Oreophyrne ezra_ reflects an unusual shift from conspicuousness to crypsis but not in toxicity. [_Biological Journal of the Linnean Society_]().
 
 **White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (in press) Colour and luminance contrasts predict the human detection of natural stimuli in complex visual environments. [_Biology Letters_]().  
 | [data](https://figshare.com/articles/white_et_al_2017_biol_letters_zip/5235079) |
