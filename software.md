@@ -7,6 +7,8 @@ permalink: /software/
 
 **An R package for the organization, visualisation, and perceptual analysis of spectral colour data in R**
 
+<img src="{{ site.baseurl }}/assets/blog/jndplot.png" title="Profile" class="profile">  
+
 If you **need help** with the package, take a look at the [documentation](http://rafaelmaia.net/pavo/reference/index.html) and [extended vignette](http://rafaelmaia.net/pavo/articles/pavo.html), and keep an eye on the [latest news](http://rafaelmaia.net/pavo/news/index.html) for changes. We're always happy to receive feedback and suggestions, so feel free to join pavo's [gitter page](https://gitter.im/r-pavo/help) (public chat room) if you need further assistance. If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
 
 **Stable version:** 1.3.0 (21/09/2017)
