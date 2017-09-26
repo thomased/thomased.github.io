@@ -8,6 +8,7 @@ My research is motivated by a desire to understand life's diversity, and I use e
 
 ### The evolutionary ecology of visual communication
 
+<img src="{{ site.baseurl }}/assets/blog/res1.png" title="butterfly" class="profile" style="float:right;">
 Visual communication is ubiquitous in nature. It underlies some of the most conspicuous aspects of biological diversity—such as the colours of animals and plants—and I am broadly interested in understanding the mechanisms, causes, and consequences of this mode of information exchange. Current projects focus on examining how suites of signalling traits coevolve to enable the effective exchange of information in 'noisy', real-world conditions, and how the information encoded in diverse visual cues (colour, pattern, motion etc.) is integrated and weighed by viewers to ultimately affect behaviour. I also enjoy [testing and extending methods](http://www.biorxiv.org/content/biorxiv/early/2017/08/18/175992.full.pdf) for analysing colour and vision in nature, as well as developing [software]({{ site.url }}/software) that improves the accessibility of such tools. 
 
 ### The evolution and maintenance of extreme variation
