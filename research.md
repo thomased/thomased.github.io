@@ -18,8 +18,7 @@ Species that exhibit dramatic phenotypic variation—such as polymorphism and se
 
 ### Sexual selection, and predicting the direction of evolution
 
-<img src="{{ site.baseurl }}/assets/blog/res3.png" title="dimorphism" class="profile" style="float:right;">
-How are intersexual differences in sensory ecology reconciled with the fact that males and females largely share a genome? To what extent do signals and sensory systems coevolve? Can we predict the trajectory of signal evolution from knowledge of viewers and/or viewing  environments? I am keen to understand how social and natural selection interact to shape phenotypic evolution at large. As part of this work, I am also testing whether particular phenotypes—such as brilliant [structural colours](https://www.google.com/search?tbm=isch&as_q=structural+colour+butterfly)—may be inherently favoured due to, for example, their suitability for encoding biological information (e.g. mate quality), or their unrivalled salience in chaotic visual environments.    
+How are intersexual differences in sensory ecology reconciled with the fact that males and females largely share a genome? <img src="{{ site.baseurl }}/assets/blog/res3.png" title="dimorphism" class="profile" style="float:right;"> To what extent do signals and sensory systems coevolve? Can we predict the trajectory of signal evolution from knowledge of viewers and/or viewing  environments? I am keen to understand how social and natural selection interact to shape phenotypic evolution at large. As part of this work, I am also testing whether particular phenotypes—such as brilliant [structural colours](https://www.google.com/search?tbm=isch&as_q=structural+colour+butterfly)—may be inherently favoured due to, for example, their suitability for encoding biological information (e.g. mate quality), or their unrivalled salience in chaotic visual environments.    
 
 
 
