@@ -13,7 +13,7 @@ Visual communication is ubiquitous in nature. It underlies some of the most cons
 
 ### The evolution and maintenance of extreme variation
 
-<img src="{{ site.baseurl }}/assets/blog/res2.png" title="spiders" class="profile" style="float:right;width:400px;height:300px;">
+<img src="{{ site.baseurl }}/assets/blog/res2.png" title="spiders" class="profile" style="float:right;width:700px;height:300px;">
 Species that exhibit dramatic phenotypic variation—such as polymorphism and sexual dimorphism—offer exciting opportunities for studying the evolutionary processes that generate diversity. I have a long-standing interest in these extremes, and my PhD was focused on the potential for 'sensory drive' to maintain colour polymorphism in [deceptive visual lures](https://www.google.com/search?tbm=isch&as_q=jewelled+spider). I am still working to unravel that particular puzzle, and also have ongoing projects centred on understanding the evolution of sexual dimorphism using model butterflies.
 
 ### Sexual selection, and predicting the direction of evolution
