@@ -11,6 +11,8 @@ Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hit
 Maia R, **White TE** (in revision) Comparing colours using visual models. [_Behavioural Ecology_]().  
 | [preprint](http://www.biorxiv.org/content/biorxiv/early/2017/08/21/175992.full.pdf) | [data + code](https://github.com/rmaia/msdichromatism) |
 
+O’Hanlon JC, **White TE**, Umbers KDL (forthcoming) Visual communication in insects. In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
+
 Bulbert MW, **White TE**, Saporito R, Kraus F (accepted) Ontogenetic colour change in _Oreophyrne ezra_ reflects an unusual shift from conspicuousness to crypsis but not in toxicity. [_Biological Journal of the Linnean Society_]().
 
 **White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (2017) Colour and luminance contrasts predict the human detection of natural stimuli in complex visual environments. [_Biology Letters_](http://dx.doi.org/10.1098/rsbl.2017.0375) 20170375.  
@@ -34,7 +36,7 @@ Umbers KDL, De Bona S, **White TE**, Lehtonen J, Mappes J, Endler JA (2017) Deim
 ### 2016
 
 **White TE**, Kemp DJ (2016) Colour polymorphism. [_Current Biology_](http://dx.doi.org/10.1016/j.cub.2016.03.017) 26, R517-518.  
-| [pdf]({{ site.url }}/docs/white_&_kemp_2016_colour_polymorphism.pdf) |
+| [pdf]({{ site.url }}/docs/white_&_kemp_2016_colour_polymorphism.pdf) |  
 
 **White TE**, Kemp DJ (2016) Colour polymorphic lures target different visual channels in prey. [_Evolution_](http://dx.doi.org/10.1111/evo.12948) 70, 1398-1408.  
 | [pdf]({{ site.url }}/docs/white_2016_polymorphic_lures.pdf) |  [data](https://dx.doi.org/10.6084/m9.figshare.1517656.v1) |  
@@ -66,6 +68,3 @@ Kemp DJ, **White TE** (2014) Exploring the perceptual canvas of signal evolution
 **White TE**, Macedonia J, Birch D, Dawes J, Kemp DJ (2012) The nano-anatomical basis of sexual dimorphism in iridescent butterfly colouration. [_Australian Journal of Zoology_](http://dx.doi.org/10.1071/ZO12045) 60, 101-107.  
 | [pdf]({{ site.url }}/docs/white_2012_nano.pdf) | [data](http://figshare.com/articles/Data_from_White_et_al_2012_The_nano_anatomical_basis_of_sexual_dimorphism_in_iridescent_butterfly_colouration_/897985) |
 
-### Invited book chapters
-
-O’Hanlon JC, **White TE**, Umbers KDL (forthcoming) Visual communication in insects. In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
