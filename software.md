@@ -27,7 +27,7 @@ If you **need help** with the package, take a look at the [documentation](http:/
 
 <img src="{{ site.baseurl }}/assets/blog/maratus.png" title="Profile" class="profile">  
 
-Feel free to pass along your favourite study organism and I'll weave it in it. 
+Feel free to pass along your favourite study organism and I'll weave it in! 
 
 **Installation:** Available on [github](https://github.com/thomased/natpalette) — install using ```devtools::install_github('thomased/natpalette')```
 
