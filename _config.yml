@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Thomas White
+title: Thomas E. White
 subtitle: "Evolutionary and Sensory Ecology"
 email: thomas.white026@gmail.com
-name: Thomas White
+name: Thomas E. White
 description: >
   Evolutionary and Sensory Ecology
 # Base URL of site (i.e. /blog). It should always start with a slash,
