@@ -21,6 +21,21 @@ If you **need help** with the package, take a look at the [documentation](http:/
 
 ----------
 
+# natpalette
+
+**Nature's palette: all-natural colour palettes for R**
+
+<img src="{{ site.baseurl }}/assets/blog/maratus.png" title="Profile" class="profile">  
+<figcaption>Photo: Jurgen Otto</figcaption>
+
+Photo: [Jurgen Otto](https://www.flickr.com/photos/59431731@N05/)
+
+Feel free to pass along your favourite study organism and I'll include it. 
+
+**Installation:** Available on [github](https://github.com/thomased/natpalette) — install using ```devtools::install_github('thomased/natpalette')```
+
+----------
+
 # Other
 
 You can find my half-finished projects and anything that might be of broader use on [github](https://github.com/thomased).
