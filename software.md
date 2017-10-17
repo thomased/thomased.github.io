@@ -11,9 +11,9 @@ permalink: /software/
 
 If you **need help** with the package, take a look at the [documentation](http://rafaelmaia.net/pavo/reference/index.html) and [extended vignette](http://rafaelmaia.net/pavo/articles/pavo.html), and keep an eye on the [latest news](http://rafaelmaia.net/pavo/news/index.html) for changes. We're always happy to receive feedback and suggestions, so feel free to join pavo's [gitter page](https://gitter.im/r-pavo/help) (public chat room) if you need further assistance. If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
 
-**Stable version:** 1.3.0 (21/09/2017)
+**Stable version:** 1.3.1 (21/09/2017)
 
-**Development version:** 1.3.1
+**Development version:** 1.3.2
 
 **Installation:** The current stable version of pavo is available on CRAN, and can simply be installed using ```install.packages('pavo')``` within R. The bleeding-edge version is on [github](https://github.com/rmaia/pavo), and is most easily installed with Hadley Wickham's [devtools](https://github.com/hadley/devtools) package, by running ```devtools::install_github('rmaia/pavo')```.  
 
