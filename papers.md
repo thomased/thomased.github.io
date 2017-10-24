@@ -9,12 +9,12 @@ permalink: /papers/
 Maia R, **White TE** (in revision) Comparing colours using visual models. [_Behavioural Ecology_]().  
 | [preprint](http://www.biorxiv.org/content/biorxiv/early/2017/08/21/175992.full.pdf) | [data + code](https://github.com/rmaia/msdichromatism) |
 
-O’Hanlon JC, **White TE**, Umbers KDL (forthcoming) Visual communication in insects. In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
+O’Hanlon JC, **White TE**, Umbers KDL (in press) Visual communication in insects. In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
 
-Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (accepted) Abiotic and biotic predictors of macroecological patterns in bird
+Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (in press) Abiotic and biotic predictors of macroecological patterns in bird
 and butterfly coloration. [_Ecological Monographs_]().
 
-Bulbert MW, **White TE**, Saporito R, Kraus F (accepted) Ontogenetic colour change in _Oreophyrne ezra_ reflects an unusual shift from conspicuousness to crypsis but not in toxicity. [_Biological Journal of the Linnean Society_]().
+Bulbert MW, **White TE**, Saporito R, Kraus F (in press) Ontogenetic colour change in _Oreophyrne ezra_ reflects an unusual shift from conspicuousness to crypsis but not in toxicity. [_Biological Journal of the Linnean Society_]().
 
 ### 2017 
 
