@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-### 2017 
+### Forthcoming
 
 Maia R, **White TE** (in revision) Comparing colours using visual models. [_Behavioural Ecology_]().  
 | [preprint](http://www.biorxiv.org/content/biorxiv/early/2017/08/21/175992.full.pdf) | [data + code](https://github.com/rmaia/msdichromatism) |
@@ -15,6 +15,8 @@ Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hit
 and butterfly coloration. [_Ecological Monographs_]().
 
 Bulbert MW, **White TE**, Saporito R, Kraus F (accepted) Ontogenetic colour change in _Oreophyrne ezra_ reflects an unusual shift from conspicuousness to crypsis but not in toxicity. [_Biological Journal of the Linnean Society_]().
+
+### 2017 
 
 **White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (2017) Colour and luminance contrasts predict the human detection of natural stimuli in complex visual environments. [_Biology Letters_](http://dx.doi.org/10.1098/rsbl.2017.0375) 20170375.  
 | [pdf]({{ site.url }}/docs/White_et_al_2017_color_luminance_contrasts_predict_human_detection.pdf) | [data](https://figshare.com/articles/white_et_al_2017_biol_letters_zip/5235079) |
