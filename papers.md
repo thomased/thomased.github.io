@@ -9,6 +9,10 @@ permalink: /papers/
 Maia R, **White TE** (in revision) Comparing colours using visual models. [_Behavioural Ecology_]().  
 | [preprint](http://www.biorxiv.org/content/biorxiv/early/2017/08/21/175992.full.pdf) | [data + code](https://github.com/rmaia/msdichromatism) |
 
+**White TE** (in press) Cryptic coloration. [_Encyclopedia of Animal Cognition and Behavior_]().
+
+**White TE** (in press) Disruptive coloration. [_Encyclopedia of Animal Cognition and Behavior_]().
+
 O’Hanlon JC, **White TE**, Umbers KDL (in press) Visual communication in insects. In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
 
 Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (in press) Abiotic and biotic predictors of macroecological patterns in bird
