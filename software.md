@@ -5,7 +5,7 @@ permalink: /software/
 ---
 # pavo  
 
-**An R package for the organization, visualisation, and perceptual analysis of spectral colour data in R**
+**An R package for the organization, visualisation, and analysis of spectral colour data, by Rafael Maia, Thomas White, Chad Eliason and Pierre-Paul Bitton.**
 
 <img src="{{ site.baseurl }}/assets/blog/jndplot.png" title="Profile" class="profile">  
 
