@@ -20,7 +20,7 @@ and butterfly coloration. [_Ecological Monographs_]().
 
 ### 2017 
 
-Bulbert MW, **White TE**, Saporito R, Kraus F (2017) Ontogenetic colour change in _Oreophyrne ezra_ reflects an unusual shift from conspicuousness to crypsis but not in toxicity. [_Biological Journal of the Linnean Society_](https://doi.org/10.1093/biolinnean/blx124).  
+Bulbert MW, **White TE**, Saporito R, Kraus F (2017) Ontogenetic colour change in _Oreophyrne ezra_ reflects an unusual shift from conspicuousness to crypsis but not in toxicity. [_Biological Journal of the Linnean Society_](https://doi.org/10.1093/biolinnean/blx124) blx124, 1-9.  
 | [pdf]({{ site.url }}/docs/bulbert_et_al_2017_colour_change_in_oreophryne.pdf) |
 
 **White TE**, Rojas B, Mappes J, Rautaiala P, Kemp DJ (2017) Colour and luminance contrasts predict the human detection of natural stimuli in complex visual environments. [_Biology Letters_](http://dx.doi.org/10.1098/rsbl.2017.0375) 20170375.  
