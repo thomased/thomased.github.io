@@ -4,7 +4,8 @@ title: News
 permalink: /news/
 ---
 
-{% for post in paginator.posts %}
+<ul class="post-list">
+  {% for post in paginator.posts %}
   <li>
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -20,3 +21,11 @@ permalink: /news/
         {% else %}
         <a href="{{ site.baseurl }}/blog/">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
       {% endfor %}{% endif %}
+      </div>
+    </section>
+  </li>
+  {% if forloop.last == false %}
+  <hr>
+  {% endif %}
+  {% endfor %}
+</ul>
