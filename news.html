@@ -7,8 +7,8 @@ permalink: /news/
 {% for post in site.posts %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
     <div class="article-head">
-      <h3 class="title" style="color:#1a73ad; text-decoration: underline; font-style: italic;">{{ post.title }}</h3>
-      <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+      <h3 class="title" style="color:#1a73ad; text-decoration: underline; ">{{ post.title }}</h3>
+      <p class="date" style="font-style: italic; ">{{ post.date | date: "%b %d, %Y" }}</p>
     </div><!--/.article-head-->
     <div class="article-content" style="padding-bottom: 50px">
       {{ post.content }}
