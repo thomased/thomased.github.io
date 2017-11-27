@@ -17,8 +17,7 @@ permalink: /news/
   {% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
 {% endfor %}
 
-<nav class="pagination" role="navigation">
-  <p>
+<p>
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
       <a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
@@ -56,4 +55,3 @@ permalink: /news/
     </span>
     {% endif %}
   </p>
-</nav>
