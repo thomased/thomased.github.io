@@ -4,28 +4,16 @@ title: News
 permalink: /news/
 ---
 
-<ul class="post-list">
-  {% for post in paginator.posts %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </section>
-    <section class="post-meta">
-      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-      <div class="post-categories">
-      {% if post.categories.size > 0 %}in {% for cat in post.categories %}
-        <a href="{{ site.baseurl }}/blog/">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% else %}
-        <a href="{{ site.baseurl }}/blog/">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-      {% endfor %}{% endif %}
-      </div>
-    </section>
-  </li>
-  {% if forloop.last == false %}
-  <hr>
-  {% endif %}
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+    <div class="article-head">
+      <h2 class="title"><a href="/{{ post.url }}/" class="js-pjax">{{ post.title }}</a></h2>
+      <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+    </div><!--/.article-head-->
+    <div class="article-content">
+    {{ post.long_description }}
+    <a href="/{{ post.url }}/" class="full-post-link js-pjax">Read more</a> 
+    </div><!--/.article-content-->
+  </article>
+  {% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
+{% endfor %}
