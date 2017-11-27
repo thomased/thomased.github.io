@@ -10,10 +10,8 @@ permalink: /news/
       <h3 class="title" style="color:#1a73ad; text-decoration: underline;">{{ post.title }}</h3>
       <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
     </div><!--/.article-head-->
-    <div class="article-content">
-      <p style="padding-bottom: 15ex; ">
+    <div class="article-content" style="padding-bottom: 50px; padding-top: 50px;">
       {{ post.content }}
-      </p>
     </div><!--/.article-content-->
   </article>
   {% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
