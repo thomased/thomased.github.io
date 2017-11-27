@@ -4,5 +4,5 @@ permalink: /archive/
 ---
 
 {% for post in site.posts %}  
-    <a href="{{ post.url }}">{{ post.title }}</a><small><strong>({{ post.date | date: "%e %B %Y" }})</strong></small>
+    <p><a href="{{ post.url }}">{{ post.title }}</a><small><strong>  {{ post.date | date: "%d %b %Y" }}  </strong></small></p>
 {% endfor %}
