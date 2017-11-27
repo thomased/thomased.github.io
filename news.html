@@ -11,8 +11,7 @@ permalink: /news/
       <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
     </div><!--/.article-head-->
     <div class="article-content">
-    {{ post.long_description }}
-    <a href="/{{ post.url }}/" class="full-post-link js-pjax">Read more</a> 
+    {{ post.content }}
     </div><!--/.article-content-->
   </article>
   {% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
