@@ -52,13 +52,6 @@ social:
     desc: Fork me on GitHub
     share: false
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Thomas White
-    url: https://www.linkedin.com/in/thomas-white-48090663
-    desc: Connect with me on LinkedIn
-    share: false
-
   - name: Scholar
     icon: google
     username: Thomas E. White
