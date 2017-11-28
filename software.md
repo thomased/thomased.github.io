@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Software
+dispname: Software
 permalink: /software/
 ---
 # pavo  

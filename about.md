@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-display: Foo
-subtitle: Bar
+dispname: Evolutionary and Sensory Ecology
+subtitle: Thomas E. White
 permalink: /about/
 ---
 
