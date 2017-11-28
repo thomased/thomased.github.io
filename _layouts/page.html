@@ -5,8 +5,8 @@ layout: default
 <div class="page">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+    <h1 class="post-title">{{ page.display }}</h1>
+    {% if page.subtitle %}<p class="subtitle" style="font-style: italic;">{{ page.subtitle }}</p>{% endif %}
   </header>
 
   {% include page_divider.html %}

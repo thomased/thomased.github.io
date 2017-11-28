@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-subtitle: foo
+display: Foo
+subtitle: Bar
 permalink: /about/
 ---
 
