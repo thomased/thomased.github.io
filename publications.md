@@ -10,7 +10,7 @@ permalink: /publications/
 Gray M, Stansberry M, Lynn J, Williams CF, **White TE**, Whitney KD (in revision) Consistent shifts in pollinator-relevant floral colouration along Rocky Mountain elevation gradients. [_Journal of Ecology_]().
 
 Maia R, **White TE** (in revision) Comparing colours using visual models. [_Behavioural Ecology_]().  
-| [preprint](http://www.biorxiv.org/content/biorxiv/early/2017/08/21/175992.full.pdf) | [worked example](https://github.com/rmaia/msdichromatism/blob/master/Rmd/lizardexample-single.md) | [data + code](https://github.com/rmaia/msdichromatism) |
+| [preprint](http://www.biorxiv.org/content/biorxiv/early/2017/08/21/175992.full.pdf) | [supplementary material](https://github.com/rmaia/msdichromatism/blob/master/Rmd/ESM.md) | [data + code](https://github.com/rmaia/msdichromatism) |
 
 **White TE** (in press) Cryptic coloration. [_Encyclopedia of Animal Cognition and Behavior_]().
 
