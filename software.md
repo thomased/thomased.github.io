@@ -22,7 +22,3 @@ If you **need help** with the package, take a look at the [documentation](http:/
 **Citation:** Maia R, Eliason CM, Bitton P-P, Doucet SM, Shawkey MD (2013) [pavo: an R package for the analysis, visualization and organization of spectral data](http://dx.doi.org/10.1111/2041-210X.12069). _Methods in Ecology and Evolution_, 4(10):906-913
 
 ----------
-
-# Other
-
-You can find my half-finished projects and anything that might be of broader use on [github](https://github.com/thomased).
