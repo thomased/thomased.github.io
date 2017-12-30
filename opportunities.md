@@ -12,7 +12,7 @@ Aside from the very occasional funded position, there are numerous routes to sec
 ### Postgraduates
 
 **PhD and Masters**  
-The University of Sydney is a world-class research institution, and offers a vibrant environment within which to pursue postgraduate studies. Students will need to secure a scholarship such as an Australian Postgraduate Award or the University's equivalent (which share an application), and applications are typically due in **October**.  
+The University of Sydney is a world-class research institution, and offers a vibrant environment within which to pursue postgraduate studies. Students will need to secure a scholarship such as an Australian Postgraduate Award or the University's equivalent (which share an application), and applications are typically due in ***October***.  
 | [Application information](https://sydney.edu.au/courses/courses/pr/doctor-of-philosophy-science.html) | [Scholarship information](http://sydney.edu.au/science/fstudent/postgrad/scholarships.shtml) |
 
 **Honours**  
@@ -22,11 +22,11 @@ Honours is an extra year of study following an undergraduate degree, and involve
 ### Postdocs
 
 **USyd Fellowships**  
-The University of Sydney offers its flagship Postdoctoral Fellowships on a yearly basis, with applications due in **September**.  
+The University of Sydney offers its flagship Postdoctoral Fellowships on a yearly basis, with applications due in ***September***.  
 | [More information](https://sydney.edu.au/research/join-us/university-of-sydney-fellowship-scheme.html) |
 
 **Endeavour Awards**  
-Endeavour awards are short-term scholarships offered by the Australian government that allow researchers from almost anywhere to visit an Australian university for 4-6 months. Applications close in **April** each year (for funding the following year).  
+Endeavour awards are short-term scholarships offered by the Australian government that allow researchers from almost anywhere to visit an Australian university for 4-6 months. Applications close in ***April*** each year (for funding the following year).  
 | [More information](https://internationaleducation.gov.au/Endeavour%20program/Scholarships-and-Fellowships/Pages/default.aspx) |
 
 **Branco Weiss Fellowships**  
