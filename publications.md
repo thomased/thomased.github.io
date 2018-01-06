@@ -9,14 +9,16 @@ permalink: /publications/
 
 Gray M, Stansberry M, Lynn J, Williams CF, **White TE**, Whitney KD (in revision) Consistent shifts in pollinator-relevant floral colouration along Rocky Mountain elevation gradients. [_Journal of Ecology_]().
 
-Maia R, **White TE** (in revision) Comparing colours using visual models. [_Behavioural Ecology_]().  
+O’Hanlon JC, **White TE**, Umbers KDL (accepted) Visual communication in insects. In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
+
+### 2018
+
+Maia R, **White TE** (in press) Comparing colours using visual models. [_Behavioural Ecology_]().  
 | [preprint](http://www.biorxiv.org/content/biorxiv/early/2017/08/21/175992.full.pdf) | [supplementary material](https://github.com/rmaia/msdichromatism/blob/master/Rmd/ESM.md) | [data + code](https://github.com/rmaia/msdichromatism) |
 
 **White TE** (in press) Cryptic coloration. [_Encyclopedia of Animal Cognition and Behavior_]().
 
 **White TE** (in press) Disruptive coloration. [_Encyclopedia of Animal Cognition and Behavior_]().
-
-O’Hanlon JC, **White TE**, Umbers KDL (in press) Visual communication in insects. In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
 
 ### 2017 
 
