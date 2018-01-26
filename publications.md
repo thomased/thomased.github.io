@@ -20,11 +20,11 @@ O’Hanlon JC, **White TE**, Umbers KDL (in press) Visual communication in insec
 
 **White TE** (in press) Disruptive coloration. [_Encyclopedia of Animal Cognition and Behavior_]().
 
-### 2017 
-
-Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (2017) Abiotic and biotic predictors of macroecological patterns in bird
+Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (2018) Abiotic and biotic predictors of macroecological patterns in bird
 and butterfly coloration. [_Ecological Monographs_](http://dx.doi.org/10.1002/ecm.1287) Early View.  
 | [pdf]({{ site.url }}/docs/dalrymple_et_al_2017_abiotic_biotic_predictors_of_colour.pdf) |
+
+### 2017 
 
 Bulbert MW, **White TE**, Saporito R, Kraus F (2017) Ontogenetic colour change in _Oreophyrne ezra_ reflects an unusual shift from conspicuousness to crypsis but not in toxicity. [_Biological Journal of the Linnean Society_](https://doi.org/10.1093/biolinnean/blx124) blx124, 1-9.  
 | [pdf]({{ site.url }}/docs/bulbert_et_al_2017_colour_change_in_oreophryne.pdf) |
