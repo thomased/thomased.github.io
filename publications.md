@@ -5,11 +5,9 @@ dispname: Publications
 permalink: /publications/
 ---
 
-### Forthcoming
-
-Gray M, Stansberry M, Lynn J, Williams CF, **White TE**, Whitney KD (in revision) Consistent shifts in pollinator-relevant floral colouration along Rocky Mountain elevation gradients. [_Journal of Ecology_]().
-
 ### 2018
+
+Gray M, Stansberry M, Lynn J, Williams CF, **White TE**, Whitney KD (in press) Consistent shifts in pollinator-relevant floral colouration along Rocky Mountain elevation gradients. [_Journal of Ecology_]().
 
 Maia R, **White TE** (in press) Comparing colours using visual models. [_Behavioural Ecology_]().  
 | [preprint](https://www.biorxiv.org/content/early/2018/01/08/175992) | [supplementary material](https://github.com/rmaia/msdichromatism/blob/master/Rmd/ESM.md) | [data + code](https://github.com/rmaia/msdichromatism) |
