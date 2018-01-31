@@ -5,6 +5,8 @@ dispname: Opportunities
 permalink: /opportunities/
 ---
 
+<img src="{{ site.baseurl }}/assets/triplet.jpg"> 
+
 I am always happy to hear from motivated students at all levels; from potential PhD's to undergraduate students looking for hands-on experience. I have a number of projects available, or am open to any ideas that broadly align with my [research interests]({{ site.url }}/research). Take a look at some [publications]({{ site.url }}/publications), and send me an email!
 
 Aside from the very occasional funded position, there are numerous routes to securing funding for honours, PhD's, and postdocs. A few are listed below, and I will gladly do all I can to help qualified applicants secure support.
