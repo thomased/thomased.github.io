@@ -5,6 +5,8 @@ dispname: Publications
 permalink: /publications/
 ---
 
+<img src="{{ site.baseurl }}/assets/triplet.jpg"> 
+
 ### 2018
 
 Gray M, Stansberry M, Lynn J, Williams CF, **White TE**, Whitney KD (in press) Consistent shifts in pollinator-relevant floral colouration along Rocky Mountain elevation gradients. [_Journal of Ecology_]().
