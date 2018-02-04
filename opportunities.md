@@ -39,4 +39,4 @@ This research fellowship is designed to support postdoctoral researchers after t
 These generous fellowships support secondments outside Europe for researchers based in the EU or associated countries.  
 | [More information](https://ec.europa.eu/research/mariecurieactions/about/individual-fellowships_en) |
 
-There is also [a curated list](https://docs.google.com/spreadsheets/d/1J2M_tQgoqV4ivpfEClh9qs9f2KQN2O1G3Jpda2aoHfQ/htmlview) of fellowships from around the world that's well worth taking a look at. 
+There is also [a curated list](https://asntech.github.io/postdoc-funding-schemes/) of fellowships from around the world that's well worth taking a look at. 
