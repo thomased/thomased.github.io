@@ -20,7 +20,7 @@ O’Hanlon JC, **White TE**, Umbers KDL (in press) Visual communication in insec
 
 Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (2018) Abiotic and biotic predictors of macroecological patterns in bird
 and butterfly coloration. [_Ecological Monographs_](http://dx.doi.org/10.1002/ecm.1287) Early View.  
-| [pdf]({{ site.url }}/docs/dalrymple_et_al_2017_abiotic_biotic_predictors_of_colour.pdf) |
+| [pdf]({{ site.url }}/docs/dalrymple_et_al_2018_abiotic_biotic_predictors_of_colour.pdf) |
 
 ### 2017 
 
@@ -53,10 +53,10 @@ Umbers KDL, De Bona S, **White TE**, Lehtonen J, Mappes J, Endler JA (2017) Deim
 **White TE**, Kemp DJ (2016) Colour polymorphic lures target different visual channels in prey. [_Evolution_](http://dx.doi.org/10.1111/evo.12948) 70, 1398-1408.  
 | [pdf]({{ site.url }}/docs/white_2016_polymorphic_lures.pdf) |  [data](https://dx.doi.org/10.6084/m9.figshare.1517656.v1) |  
 
+### 2015
+
 Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, **White TE**, Hemmings FA, Tindall ML, Moles AT (2015) Birds, butterflies and flowers in the tropics are not more colourful than those at higher latitudes. [_Global Ecology and Biogeography_](http://dx.doi.org/10.1111/geb.12368) 24, 1424-1432.  
 | [pdf]({{ site.url }}/docs/dalrymple_et_al_2015_life_isnt_more_colourful_in_tropics.pdf) |
-
-### 2015
 
 **White TE**, Dalrymple RL, Noble DWA, O’Hanlon JC, Zurek DB, Umbers KDL (2015) Reproducible research in the study of biological colouration. [_Animal Behaviour_](http://dx.doi.org/10.1016/j.anbehav.2015.05.007) 106, 51-57.  
 | [pdf]({{ site.url }}/docs/white_2015_reproducible_research.pdf) | [data + code](https://github.com/daniel1noble/colsci_rep) |  
