@@ -15,10 +15,10 @@ Maia R, **White TE** (in press) Comparing colours using visual models. [_Behavio
 O’Hanlon JC, **White TE**, Umbers KDL (in press) Visual communication in insects. In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
 
 **White TE** (2018) Cryptic coloration. [_Encyclopedia of Animal Cognition and Behavior_](https://doi.org/10.1007/978-3-319-47829-6_665-1).  
-| [pdf]({{ site.url }}/docs/white_2018_cryptic_coloration.pdf)
+| [pdf]({{ site.url }}/docs/white_2018_cryptic_coloration.pdf) |
 
 **White TE** (2018) Disruptive coloration. [_Encyclopedia of Animal Cognition and Behavior_](https://doi.org/10.1007/978-3-319-47829-6_676-1).  
-| [pdf]({{ site.url }}/docs/white_2018_disruptive_coloration.pdf)
+| [pdf]({{ site.url }}/docs/white_2018_disruptive_coloration.pdf) |
 
 Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (2018) Abiotic and biotic predictors of macroecological patterns in bird
 and butterfly coloration. [_Ecological Monographs_](http://dx.doi.org/10.1002/ecm.1287) Early View.  
