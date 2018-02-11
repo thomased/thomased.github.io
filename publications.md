@@ -9,14 +9,16 @@ permalink: /publications/
 
 Gray M, Stansberry M, Lynn J, Williams CF, **White TE**, Whitney KD (in press) Consistent shifts in pollinator-relevant floral colouration along Rocky Mountain elevation gradients. [_Journal of Ecology_]().
 
-Maia R, **White TE** (in press) Comparing colours using visual models. [_Behavioural Ecology_]().  
+Maia R, **White TE** (in press) Comparing colours using visual models. [_Behavioural Ecology_](http://dx.doi.org/10.1093/beheco/ary017).  
 | [preprint](https://www.biorxiv.org/content/early/2018/01/08/175992) | [supplementary material](https://github.com/rmaia/msdichromatism/blob/master/Rmd/ESM.md) | [data + code](https://github.com/rmaia/msdichromatism) |
 
 O’Hanlon JC, **White TE**, Umbers KDL (in press) Visual communication in insects. In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
 
-**White TE** (in press) Cryptic coloration. [_Encyclopedia of Animal Cognition and Behavior_]().
+**White TE** (2018) Cryptic coloration. [_Encyclopedia of Animal Cognition and Behavior_](https://doi.org/10.1007/978-3-319-47829-6_665-1).  
+| [pdf]({{ site.url }}/docs/white_2018_cryptic_coloration.pdf)
 
-**White TE** (2018) Disruptive coloration. [_Encyclopedia of Animal Cognition and Behavior_](https://doi.org/10.1007/978-3-319-47829-6_676-1).
+**White TE** (2018) Disruptive coloration. [_Encyclopedia of Animal Cognition and Behavior_](https://doi.org/10.1007/978-3-319-47829-6_676-1).  
+| [pdf]({{ site.url }}/docs/white_2018_disruptive_coloration.pdf)
 
 Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (2018) Abiotic and biotic predictors of macroecological patterns in bird
 and butterfly coloration. [_Ecological Monographs_](http://dx.doi.org/10.1002/ecm.1287) Early View.  
