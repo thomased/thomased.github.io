@@ -7,7 +7,7 @@ permalink: /opportunities/
 
 <img src="{{ site.baseurl }}/assets/triplet.jpg"> 
 
-I am always happy to hear from students at all levels; from potential PhD's to undergraduate students looking for hands-on experience. I have projects available, or am open to any ideas that broadly align with the lab's [interests]({{ site.url }}/research). If you are motivated by questions over organisms, take a look at some [publications]({{ site.url }}/publications) and send me an email!
+I am always happy to hear from students at all levels; from potential PhD's to undergraduates looking for hands-on experience. I have projects available, or am open to any ideas that broadly align with the lab's [interests]({{ site.url }}/research). If you are motivated by questions over organisms, take a look at some [publications]({{ site.url }}/publications) and send me an email!
 
 Aside from the very occasional funded position, there are numerous routes to securing funding for honours, PhD's, and postdocs. A few are listed below, and I will gladly do all I can to help qualified applicants attain support.
 
