@@ -10,7 +10,7 @@ permalink: /publications/
 **White TE** (2018) Illuminating the evolution of iridescence. [_Trends in Ecology and Evolution_](https://doi.org/10.1016/j.tree.2018.03.011) Online Early.  
 | [pdf]({{ site.url }}/docs/White_2018_illuminating_iridescence.pdf) |
 
-Maia R, **White TE** (2018) Comparing colours using visual models. [_Behavioural Ecology_](http://dx.doi.org/10.1093/beheco/ary017) Advance Articles.  
+Maia R, **White TE** (2018) Comparing colours using visual models. [_Behavioural Ecology_](http://dx.doi.org/10.1093/beheco/ary017) 29, 649-659.  
 | [pdf]({{ site.url }}/docs/Maia_&_White_2018_comparing_colours_using_visual_models.pdf) | [supplementary examples]({{ site.url }}/docs/Maia_&_White_2018_supplement.html) | [data + code](https://github.com/rmaia/msdichromatism) |
 
 O’Hanlon JC, **White TE**, Umbers KDL (in press) Visual communication in insects. In _Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_. Córdoba-Aguilar et al. (eds). Oxford University Press, London.
@@ -25,7 +25,7 @@ Gray M, Stansberry M, Lynn J, Williams CF, **White TE**, Whitney KD (2018) Consi
 | [pdf]({{ site.url }}/docs/white_2018_disruptive_coloration.pdf) |
 
 Dalrymple RL, Flores-Moreno H, Kemp DJ, **White TE**, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (2018) Abiotic and biotic predictors of macroecological patterns in bird
-and butterfly coloration. [_Ecological Monographs_](http://dx.doi.org/10.1002/ecm.1287) Early View.  
+and butterfly coloration. [_Ecological Monographs_](http://dx.doi.org/10.1002/ecm.1287) 88, 204-224.  
 | [pdf]({{ site.url }}/docs/dalrymple_et_al_2018_abiotic_biotic_predictors_of_colour.pdf) |
 
 ### 2017 
