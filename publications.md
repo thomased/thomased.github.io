@@ -7,7 +7,7 @@ permalink: /publications/
 
 ### 2018
 
-**White TE** (2018) Illuminating the evolution of iridescence. [_Trends in Ecology and Evolution_](https://doi.org/10.1016/j.tree.2018.03.011) Online Early.  
+**White TE** (2018) Illuminating the evolution of iridescence. [_Trends in Ecology and Evolution_](https://doi.org/10.1016/j.tree.2018.03.011) 33, 374-375.  
 | [pdf]({{ site.url }}/docs/White_2018_illuminating_iridescence.pdf) |
 
 Maia R, **White TE** (2018) Comparing colours using visual models. [_Behavioural Ecology_](http://dx.doi.org/10.1093/beheco/ary017) 29, 649-659.  
