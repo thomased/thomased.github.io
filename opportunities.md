@@ -39,9 +39,9 @@ This research fellowship is designed to support postdoctoral researchers after t
 These generous fellowships support secondments outside Europe for researchers based in the EU or associated countries.  
 | [More information](https://ec.europa.eu/research/mariecurieactions/about/individual-fellowships_en) |
 
-There is also [a curated list](https://asntech.github.io/postdoc-funding-schemes/) of fellowships from around the world that's well worth taking a look at. 
+There is also [**a curated list of fellowships**](https://asntech.github.io/postdoc-funding-schemes/) from around the world that's well worth taking a look at. 
 
 ### Undergraduates
 
 Summer Research Scholarships are available to second- and third-year undergraduate students from any domestic (Aus or NZ) university. They're competitively awarded, include a modest stipend (~ $513 p/w) for the six week duration, and applications typically close in ***September***.  
-| [More information](http://sydney.edu.au/medicine/study/scholarships/summer-research/index.php)
+| [More information](http://sydney.edu.au/medicine/study/scholarships/summer-research/index.php) |
