@@ -2,7 +2,7 @@
 layout: page
 title: Software
 dispname: Software
-permalink: tomwhite.io/software/
+permalink: /software/
 ---
 # pavo  
 
