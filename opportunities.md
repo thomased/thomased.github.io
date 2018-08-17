@@ -15,7 +15,7 @@ Aside from the very occasional funded position, there are numerous routes to sec
 
 **PhD and Masters**  
 The University of Sydney is a world-class research institution, and offers a vibrant environment within which to pursue postgraduate studies. Students will need to secure a scholarship such as an Australian Postgraduate Award or the University's equivalent (which share an application), with applications now accepted **year-round**.  
-| [Application information](https://sydney.edu.au/courses/courses/pr/doctor-of-philosophy-science.html) | [Scholarship information](http://sydney.edu.au/science/fstudent/postgrad/scholarships.shtml) |
+| [Application information](https://sydney.edu.au/courses/courses/pr/doctor-of-philosophy-science.html) | [Scholarship information](http://sydney.edu.au/scholarships/research/research-training-program.shtml) |
 
 **Honours**  
 Honours is an extra year of study following an undergraduate degree, and involves a substantial independent research component. It's an excellent opportunity to gain significant research and project management experience, and is also a common pathway to higher-degree research.  
