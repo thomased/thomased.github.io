@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Opportunities
-dispname: Opportunities
-permalink: /opportunities/
+title: Join!
+dispname: Join!
+permalink: /join/
 ---
 
 <img src="{{ site.baseurl }}/assets/triplet.jpg"> 
