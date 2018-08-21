@@ -41,7 +41,7 @@ highlightjs_theme: "monokai-sublime"
 #    tag: '/tag/:name/'
 
 # Google analytics
-ga_tracking_id: "UA-62544976-2"
+#ga_tracking_id: "UA-62544976-2"
 
 # Social icons and sharing options
 social:
