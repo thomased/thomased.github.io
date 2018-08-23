@@ -5,7 +5,7 @@ dispname: Research
 permalink: /research/
 ---
 
-Our research is motivated by a desire to understand life's diversity, and we use experimental, observational, and theoretical tools to answer questions of evolution and behaviour. We tend to prefer invertebrates for their experimental and bureaucratic tractability, though will use any system (including humans) useful for the problem at hand. Some areas of particular interest include: 
+Our research is motivated by a desire to understand life's diversity, and we use experimental, observational, and theoretical tools to test evolutionary theory. We tend to prefer invertebrates for their experimental tractability for questions of evolution and behaviour, though will use any system appropriate for the problem at hand. Some areas of particular interest include: 
 
 ### The evolutionary ecology of visual communication
 
@@ -21,6 +21,3 @@ Species that exhibit dramatic phenotypic variation—such as polymorphism and se
 
 <img src="{{ site.baseurl }}/assets/blog/res3.png" title="dimorphism" class="profile" style="float:right;">
 How are intersexual differences in sensory ecology reconciled with the fact that males and females largely share a genome? To what extent do signals and sensory systems coevolve? Can we predict the trajectory of signal evolution from knowledge of viewers and/or viewing  environments? We are keen to understand how social and natural selection interact to shape phenotypic evolution at large. As part of this work, we're also testing whether particular phenotypes—such as brilliant [structural colours](https://www.google.com/search?tbm=isch&as_q=structural+colour+butterfly)—may be inherently favoured due to, for example, their suitability for encoding biological information (e.g. mate quality), or their unrivalled salience in chaotic visual environments.    
-
-
-
