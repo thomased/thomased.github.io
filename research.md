@@ -7,7 +7,7 @@ permalink: /research/
 
 Our research is motivated by a desire to understand life's diversity, and we use experimental, observational, and theoretical tools to test evolutionary theory. We tend to prefer invertebrates for their experimental tractability for questions of evolution and behaviour, though will use any system appropriate for the problem at hand. Some areas of particular interest include: 
 
-### The evolutionary ecology of visual communication
+### Visual communication
 
 <img src="{{ site.baseurl }}/assets/blog/res1.png" title="butterfly" class="profile" style="float:right;">
 Visual communication is ubiquitous in nature. It underlies some of the most conspicuous aspects of biological diversity—such as the colours of animals and plants—and we are broadly interested in understanding the mechanisms, causes, and consequences of this mode of information exchange. Current projects focus on examining how suites of signalling traits coevolve to enable the effective exchange of information in 'noisy' real-world conditions, and how the information encoded in diverse visual cues (colour, pattern, motion etc.) is integrated and weighed by viewers to ultimately effect behaviour. We also enjoy [testing and extending methods](http://dx.doi.org/10.1093/beheco/ary017) for analysing colour and vision in nature, as well as developing [software]({{ site.url }}/software) that improves the accessibility of such tools. 
