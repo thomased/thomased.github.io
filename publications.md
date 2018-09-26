@@ -7,6 +7,9 @@ permalink: /publications/
 
 ### 2018
 
+Maia R, Gruson H, Endler JA, **White TE** (2018) pavo 2.0: new tools for the spectral and spatial analysis of colour in R. bioRxiv.  
+| [preprint](https://doi.org/10.1101/427658) | 
+
 **White TE** (2018) Illuminating the evolution of iridescence. [_Trends in Ecology and Evolution_](https://doi.org/10.1016/j.tree.2018.03.011) 33, 374-375.  
 | [pdf]({{ site.url }}/docs/White_2018_illuminating_iridescence.pdf) |
 
