@@ -11,5 +11,7 @@ I'm an evolutionary biologist with a particular interest in behaviour, sensory e
 
 <br>
 
-<img src="{{ site.baseurl }}/assets/blog/res1.png" title="butterfly" class="profile" style="float:left;">
+<hr>
+
+<img src="{{ site.baseurl }}/assets/blog/res1.png" title="butterfly" class="profile" style="float:right;">
 <p><strong>Samuel O'Neill</strong></p>
