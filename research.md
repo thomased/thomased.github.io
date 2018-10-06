@@ -5,7 +5,7 @@ dispname: Research
 permalink: /research/
 ---
 
-Our research is motivated by a desire to understand life's diversity, and we use experimental, observational, and theoretical tools to test evolutionary theory. We tend to prefer invertebrates for their experimental tractability for questions of evolution and behaviour, though will use any system appropriate for the problem at hand. Some areas of particular interest include: 
+Some areas of enduring interest include: 
 
 ### Visual communication
 
