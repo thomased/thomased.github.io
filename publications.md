@@ -7,8 +7,10 @@ permalink: /publications/
 
 ### 2018
 
-Maia R, Gruson H, Endler JA, **White TE** (2018) pavo 2.0: new tools for the spectral and spatial analysis of colour in R. bioRxiv.  
+Maia R, Gruson H, Endler JA, **White TE** (preprint) pavo 2.0: new tools for the spectral and spatial analysis of colour in R. bioRxiv.  
 | [preprint](https://doi.org/10.1101/427658) | 
+
+Lynch K, **White TE**, Kemp DJ (in press) The effect of captive breeding upon adult thermal preference in the Queensland Fruit Fly (_Bactrocera tryoni_). [_Journal of Thermal Biology_]().
 
 **White TE** (2018) Illuminating the evolution of iridescence. [_Trends in Ecology and Evolution_](https://doi.org/10.1016/j.tree.2018.03.011) 33, 374-375.  
 | [pdf]({{ site.url }}/docs/White_2018_illuminating_iridescence.pdf) |
