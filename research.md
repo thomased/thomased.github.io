@@ -15,7 +15,7 @@ Visual communication is ubiquitous in nature. It underlies some of the most cons
 ### The evolution and maintenance of extreme variation
 
 <img src="{{ site.baseurl }}/assets/blog/res2.png" title="spiders" class="profile" style="float:right;">
-Species that exhibit dramatic phenotypic variation—such as polymorphism and sexual dimorphism—offer exciting opportunities for studying the evolutionary, ecological, and genetic basis of phenotypic diversity. We have a long-standing interest in these extremes, such as the [colour polymorphic lures](https://www.google.com/search?tbm=isch&as_q=jewelled+spider) of tropical spiders. We're still working to unravel that particular puzzle, and also have ongoing projects centred on understanding the evolution of sexual dimorphism using model butterflies.
+Species that exhibit dramatic phenotypic variation—such as polymorphism and sexual dimorphism—offer exciting opportunities for studying the evolutionary, ecological, and genetic basis of phenotypic diversity. We have a long-standing interest in these extremes, such as the [colour polymorphic lures](https://www.google.com/search?tbm=isch&as_q=jewelled+spider) of tropical spiders. We're still working to unravel that particular puzzle, and also have ongoing projects on the evolution of sexual dimorphism and polyphenism using model butterflies.
 
 ### Natural and sexual selection in the wild
 
