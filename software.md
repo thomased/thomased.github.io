@@ -19,6 +19,6 @@ If you **need help** with the package, take a look at the [documentation](http:/
 
 **Installation:** The current stable version of pavo is available on CRAN, and can simply be installed using ```install.packages('pavo')``` within R. The bleeding-edge version is on [github](https://github.com/rmaia/pavo), and is most easily installed with Hadley Wickham's [devtools](https://github.com/hadley/devtools) package, by running ```devtools::install_github('rmaia/pavo')```.  
 
-**Citation (>2.0):** Maia R, Gruson H, Endler JA, White TE (2018) pavo 2.0: new tools for the spectral and spatial analysis of colour in R.  bioRxiv. 
+**Citation (>2.0):** Maia R, Gruson H, Endler JA, White TE (2018) pavo 2: new tools for the spectral and spatial analysis of colour in R.  bioRxiv. 
 
 ----------
