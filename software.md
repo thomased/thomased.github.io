@@ -6,12 +6,12 @@ permalink: /software/
 ---
 # pavo  
 
-**An R package for the organization, visualisation, and analysis of spectral colour data.**   
+**An R package for the organization, visualisation, and analysis of spectral and spatial colour data.**   
 [_Rafael Maia_](http://rafaelmaia.net), [_Hugo Gruson_](https://www.normalesup.org/~hgruson/), [_Thomas White_](http://tomwhite.io)
 
 <img src="{{ site.baseurl }}/assets/blog/jndplot.png" title="Profile" class="profile">  
 
-If you **need help** with the package, take a look at the [documentation](http://rafaelmaia.net/pavo/reference/index.html) and [extended vignette](http://rafaelmaia.net/pavo/articles/pavo.html), and keep an eye on the [latest news](http://rafaelmaia.net/pavo/news/index.html) for changes. We're always happy to receive feedback and suggestions, so feel free to join pavo's [gitter page](https://gitter.im/r-pavo/help) (public chat room) if you need further assistance. If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
+If you **need help** with the package, take a look at the [documentation](http://rafaelmaia.net/pavo/reference/index.html) and [extended vignette](http://rafaelmaia.net/pavo/articles/pavo.html), and keep an eye on the [latest news](http://rafaelmaia.net/pavo/news/index.html) for changes. We're always happy to receive feedback and suggestions via email, or feel free to join pavo's [gitter page](https://gitter.im/r-pavo/help) (public chat room). If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
 
 **Stable version:** 2.0.0 (23/09/2018)
 
