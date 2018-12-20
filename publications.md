@@ -12,7 +12,7 @@ Umbers KDL, **White TE**, De Bona S, Haff T, Ryeland J, Drinkwater E, Mappes J (
 Maia R, Gruson H, Endler JA, **White TE** (in revision) pavo 2: new tools for the spectral and spatial analysis of colour in R. _Methods in Ecology and Evolution_.  
 | [preprint](https://doi.org/10.1101/427658) | 
 
-Lynch K, **White TE**, Kemp DJ (2018) The effect of captive breeding upon adult thermal preference in the Queensland Fruit Fly (_Bactrocera tryoni_). [_Journal of Thermal Biology_](https://dx.doi.org/10.1016/j.jtherbio.2018.10.005) Accepted Articles.  
+Lynch K, **White TE**, Kemp DJ (2018) The effect of captive breeding upon adult thermal preference in the Queensland Fruit Fly (_Bactrocera tryoni_). [_Journal of Thermal Biology_](https://dx.doi.org/10.1016/j.jtherbio.2018.10.005) 78, 290-297.  
 | [pdf]({{ site.url }}/docs/Lynch_et_al_2018_effect_of_captive_breeding_upon_qfly.pdf) |
 
 **White TE** (2018) Illuminating the evolution of iridescence. [_Trends in Ecology and Evolution_](https://doi.org/10.1016/j.tree.2018.03.011) 33, 374-375.  
