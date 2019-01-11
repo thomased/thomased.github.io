@@ -2,7 +2,7 @@
 layout: page
 title: People2
 dispname: People2
-permalink: /people/
+permalink: /people2/
 ---
 <div>
 <img src="{{ site.baseurl }}/assets/tom.jpg" title="tom" class="profile" style="float:left;">
