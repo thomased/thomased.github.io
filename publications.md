@@ -7,10 +7,11 @@ permalink: /publications/
 
 ### 2019
 
-Umbers KDL, **White TE**, De Bona S, Haff T, Ryeland J, Drinkwater E, Mappes J (in press) The protective value of a defensive display varies with the experience of wild predators. _Scientific Reports_.
-
 Maia R, Gruson H, Endler JA, **White TE** (in revision) pavo 2: new tools for the spectral and spatial analysis of colour in R. _Methods in Ecology and Evolution_.  
 | [preprint](https://doi.org/10.1101/427658) | 
+
+Umbers KDL, **White TE**, De Bona S, Haff T, Ryeland J, Drinkwater E, Mappes J (2019) The protective value of a defensive display varies with the experience of wild predators. [_Scientific Reports_](www.nature.com/articles/s41598-018-36995-9).  
+| [pdf]({{ site.url }}/docs/Umbers_et_al_2018_protective_value_defensive_display.pdf) |
 
 ### 2018
 
