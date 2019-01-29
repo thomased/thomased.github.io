@@ -39,7 +39,7 @@ This research fellowship is designed to support postdoctoral researchers after t
 These generous fellowships support secondments outside Europe for researchers based in the EU or associated countries.  
 | [More information](https://ec.europa.eu/research/mariecurieactions/about/individual-fellowships_en) |
 
-There is also [**a curated list of fellowships**](https://asntech.github.io/postdoc-funding-schemes/) from around the world that's well worth taking a look at. 
+Other region-specific options include National Science Foundation Fellowships (USA), NSERC Fellowships (Canada), Royal Society Fellowships (UK), Fellowships from the Swedish Research Council, Swiss National Science Foundation, The Research Council of Norway and National Science Foundation South Africa. There is [**a curated list of fellowships**](https://asntech.github.io/postdoc-funding-schemes/) from around the world that's well worth taking a look at. 
 
 ### Undergraduates
 
