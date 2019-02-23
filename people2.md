@@ -25,6 +25,7 @@ permalink: /people2/
 I'm an evolutionary biologist with an interest in using non-model invertebrates to answer basic questions of animal behaviour, sensory ecology, and communication.  
 
 ---
+<br style = “line-height:100px;”>
 
 <img src="{{ site.baseurl }}/assets/gup.jpg" alt="Thomas White" title="Thomas White" class="photo">
 
