@@ -11,7 +11,7 @@ permalink: /software/
 
 <img src="{{ site.baseurl }}/assets/blog/jndplot.png" title="Profile" class="profile">  
 
-If you **need help** with the package, take a look at the [documentation](http://rafaelmaia.net/pavo/reference/index.html) and [extended vignettes](http://rafaelmaia.net/pavo/articles/pavo.html), and keep an eye on the [latest news](http://rafaelmaia.net/pavo/news/index.html) for changes. We're always happy to receive feedback and suggestions via personal email or the mailing list: [mailto:r-pavo@googlegroups.com](r-pavo@googlegroups.com). If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
+If you **need help** with the package, take a look at the [documentation](http://rafaelmaia.net/pavo/reference/index.html) and [extended vignettes](http://rafaelmaia.net/pavo/articles/pavo.html), and keep an eye on the [latest news](http://rafaelmaia.net/pavo/news/index.html) for changes. We're always happy to receive feedback and suggestions via personal email or the mailing list: [r-pavo@googlegroups.com](mailto:r-pavo@googlegroups.com). If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
 
 **Stable version:** 2.0.0 (23/09/2018)
 
