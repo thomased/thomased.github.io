@@ -7,10 +7,10 @@ permalink: /publications/
 
 ### 2019
 
-Maia R, Gruson H, Endler JA, White TE (in press) pavo 2: new tools for the spectral and spatial analysis of colour in R. _Methods in Ecology and Evolution_.  
-| [preprint](https://doi.org/10.1101/427658) | 
-
 Paine KC, White TE, Whitney KD (in revision) Intraspecific floral color variation as perceived by pollinators and non-pollinators: evidence for pollinator-imposed constraints? _Evolutionary Ecology_.  
+
+Maia R, Gruson H, Endler JA, White TE (2019) pavo 2: new tools for the spectral and spatial analysis of colour in R. [_Methods in Ecology and Evolution_](), Early View.  
+| [preprint](https://doi.org/10.1101/427658) | 
 
 Umbers KDL, White TE, De Bona S, Haff T, Ryeland J, Drinkwater E, Mappes J (2019) The protective value of a defensive display varies with the experience of wild predators. [_Scientific Reports_](http://dx.doi.org/10.1038/s41598-018-36995-9) 9, 463.  
 | [pdf]({{ site.url }}/docs/Umbers_et_al_2018_protective_value_defensive_display.pdf) |
