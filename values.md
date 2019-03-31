@@ -16,9 +16,9 @@ permalink: /values/
 ## Skills
 
 Certain skills are now invaluable in science and will serve you well no matter the trajectory your career takes. No-one is expected to have these skills before joining the lab, and I'll gladly support all in learning and developing them:  
-- Code: We use [R](https://cran.r-project.org/bin/windows/base/) (paired with [RStudio](https://www.rstudio.com), for simplicity) extensively. [Python](https://www.python.org) and (increasingly) [Julia](https://julialang.org) are also useful for scientific work, but R is ubiquitous in biology. The learning curve can be steep but it will save a great deal of time and hassle in the long run.  
-- Version control: [Git](https://git-scm.com) with [Github](https://github.com) are excellent tools for managing your manuscripts and data, as well as collaboration and sharing.  
-- Communication: Writing and speaking are hard, and require continual practice. 
+- **Code:** We use [R](https://cran.r-project.org/bin/windows/base/) (paired with [RStudio](https://www.rstudio.com), for simplicity) extensively. [Python](https://www.python.org) and (increasingly) [Julia](https://julialang.org) are also useful for scientific work, but R is ubiquitous in biology. The learning curve can be steep but it will save a great deal of time and hassle in the long run.  
+- **Version control:** [Git](https://git-scm.com) with [Github](https://github.com) are excellent tools for managing your manuscripts and data, as well as collaboration and sharing.  
+- **Communication:** Writing and speaking are hard, and require continual practice. 
 
 ## Open philosophy
 
