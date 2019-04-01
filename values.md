@@ -5,6 +5,8 @@ dispname: Values
 permalink: /values/
 ---
 
+<img src="{{ site.baseurl }}/assets/velvet.png"> 
+
 ## Our ethos, in short
 
 (1) **Questions over organisms**. We work with a wonderful array of living things, and the world of invertebrates is an enduring source of inspiration, but it is questions that ultimately drive our work.
