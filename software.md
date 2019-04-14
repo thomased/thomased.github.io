@@ -37,6 +37,6 @@ Alternatively, the `search_dat()` function can be used to query the existing dat
 
 **Development version:** 0.1.0
 
-**Installation:** `metadat` in not yet on cran, but the current development version can be most easily installed from github via ```remotes::install_github("wviechtb/metadat")```
+**Installation:** `metadat` is not yet on cran, but the current development version can be easily installed from github via ```remotes::install_github("wviechtb/metadat")```
 
 
