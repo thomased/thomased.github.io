@@ -9,7 +9,8 @@ permalink: /publications/
 
 Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (in revision) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_]().
 
-Paine KC, White TE, Whitney KD (in press) Intraspecific floral color variation as perceived by pollinators and non-pollinators: evidence for pollinator-imposed constraints? [_Evolutionary Ecology_]().  
+Paine KC, White TE, Whitney KD (2019) Intraspecific floral color variation as perceived by pollinators and non-pollinators: evidence for pollinator-imposed constraints? [_Evolutionary Ecology_]( https://doi.org/10.1007/s10682-019-09991-2).  
+| [pdf]({{ site.url }}/docs/paine_et_al_2019_intraspecific_floral_color_variation_contraints.pdf) |
 
 Maia R, Gruson H, Endler JA, White TE (2019) pavo 2: new tools for the spectral and spatial analysis of colour in R. [_Methods in Ecology and Evolution_](https://doi.org/10.1111/2041-210X.13174), Early View.  
 | [pdf]({{ site.url }}/docs/Maia_et_al_2019_pavo2.pdf) | 
