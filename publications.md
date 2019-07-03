@@ -86,7 +86,7 @@ White TE, Dalrymple RL, Noble DWA, O’Hanlon JC, Zurek DB, Umbers KDL (2015) Re
 White TE, Kemp DJ (2015) Technicolor deceit: a sensory basis for the study of colour-based lures. [_Animal Behaviour_](http://dx.doi.org/10.1016/j.anbehav.2015.04.025) 105, 231-243.  
 | [pdf]({{ site.url }}/docs/white_2015_technicolour_deceit.pdf) | [data](http://dx.doi.org/10.6084/m9.figshare.1371150) |  
 
-White TE, Zeil J, Kemp DJ (2015) Signal design and courtship presentation coincide for highly biased delivery of an iridescent butterfly mating signal. [_Evolution_](http://dx.doi.org/10.1111/evo.12551) 69, 14-25.  
+White TE, Zeil J, Kemp DJ (2015) Signal design and courtship presentation coincide for the highly biased delivery of an iridescent butterfly mating signal. [_Evolution_](http://dx.doi.org/10.1111/evo.12551) 69, 14-25.  
 | [pdf]({{ site.url }}/docs/white_2015_signal.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v) |
 
 ### 2014
