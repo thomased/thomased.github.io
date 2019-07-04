@@ -43,5 +43,5 @@ Other region-specific options include National Science Foundation Fellowships (U
 
 ### Undergraduates
 
-Summer Research Scholarships are available to second- and third-year undergraduate students from any domestic (Aus or NZ) university. They're competitively awarded, include a modest stipend (~ $513 p/w) for the six week duration, and applications typically close in ***September***.  
+I have projects available for students interested in gaining some hand-on experience, and prefer to collaborate on substantial self-contained projects with a view to publication. Volunteers are welcome, though people should be paid for their work whenever possible, and summer research scholarships are available to second- and third-year undergraduate to that end. They're competitively awarded to students from _any_ domestic (Aus or NZ) university, include a modest stipend (~ $513 p/w) for the six week duration, and applications typically close in ***September***.  
 | [More information](http://sydney.edu.au/medicine/study/scholarships/summer-research/index.php) |
