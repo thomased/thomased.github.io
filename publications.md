@@ -7,6 +7,9 @@ permalink: /publications/
 
 ### 2019
 
+White TE, Kemp DJ (preprint) The visual lures of spiders exploit prey preferences for flower-like colour and symmetry [_bioRxiv_](https://doi.org/10.1101/693648).  
+| [preprint](https://doi.org/10.1101/693648) |
+
 Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (in press) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_]().
 
 Paine KC, White TE, Whitney KD (2019) Intraspecific floral color variation as perceived by pollinators and non-pollinators: evidence for pollinator-imposed constraints? [_Evolutionary Ecology_]( https://doi.org/10.1007/s10682-019-09991-2).  
