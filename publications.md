@@ -7,7 +7,7 @@ permalink: /publications/
 
 ### 2019
 
-White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral colour and symmetry [_bioRxiv_](https://doi.org/10.1101/693648).  
+White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral colour and symmetry. [_bioRxiv_](https://doi.org/10.1101/693648).  
 | [preprint](https://doi.org/10.1101/693648) |
 
 Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (in press) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_]().
