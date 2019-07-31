@@ -10,7 +10,8 @@ permalink: /publications/
 White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral colour and symmetry. [_bioRxiv_](https://doi.org/10.1101/693648).  
 | [preprint](https://doi.org/10.1101/693648) |
 
-Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (in press) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_]().
+Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (2019) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_](https://doi.org/10.1098/rsif.2019.0199).  
+| [pdf]({{ site.url }}/docs/blamires_et_al_2019_spider_silk_covaries_with_thermal_properties.pdf)
 
 Paine KC, White TE, Whitney KD (2019) Intraspecific floral color variation as perceived by pollinators and non-pollinators: evidence for pollinator-imposed constraints? [_Evolutionary Ecology_]( https://doi.org/10.1007/s10682-019-09991-2).  
 | [pdf]({{ site.url }}/docs/paine_et_al_2019_intraspecific_floral_color_variation_contraints.pdf) |
