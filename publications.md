@@ -11,13 +11,13 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 | [preprint](https://doi.org/10.1101/693648) |
 
 Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (2019) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_](https://doi.org/10.1098/rsif.2019.0199).  
-| [pdf]({{ site.url }}/docs/blamires_et_al_2019_spider_silk_covaries_with_thermal_properties.pdf)
+| [pdf]({{ site.url }}/docs/blamires_et_al_2019_spider_silk_covaries_with_thermal_properties.pdf) |
 
 Paine KC, White TE, Whitney KD (2019) Intraspecific floral color variation as perceived by pollinators and non-pollinators: evidence for pollinator-imposed constraints? [_Evolutionary Ecology_]( https://doi.org/10.1007/s10682-019-09991-2).  
 | [pdf]({{ site.url }}/docs/paine_et_al_2019_intraspecific_floral_color_variation_contraints.pdf) |
 
 Maia R, Gruson H, Endler JA, White TE (2019) pavo 2: new tools for the spectral and spatial analysis of colour in R. [_Methods in Ecology and Evolution_](https://doi.org/10.1111/2041-210X.13174) 10, 1097-1107.  
-| [pdf]({{ site.url }}/docs/Maia_et_al_2019_pavo2.pdf) | 
+| [pdf]({{ site.url }}/docs/Maia_et_al_2019_pavo2.pdf) | [repository](https://github.com/rmaia/pavo) |
 
 Umbers KDL, White TE, De Bona S, Haff T, Ryeland J, Drinkwater E, Mappes J (2019) The protective value of a defensive display varies with the experience of wild predators. [_Scientific Reports_](http://dx.doi.org/10.1038/s41598-018-36995-9) 9, 463.  
 | [pdf]({{ site.url }}/docs/Umbers_et_al_2018_protective_value_defensive_display.pdf) |
