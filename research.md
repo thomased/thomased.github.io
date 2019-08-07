@@ -11,7 +11,7 @@ Some areas of enduring interest include:
 
 <img src="{{ site.baseurl }}/assets/blog/res1.png" title="butterfly" class="profile" style="float:right;">
 
-Everything needs to communicate with the world at large, and we are broadly interested in understanding the mechanisms, causes and evolutionary consequences of this basic challenge. Current projects examine how suites traits coevolve to enable the effective exchange of information in 'noisy' conditions, how the information encoded in diverse visual cues (colour, pattern, motion etc.) is integrated and weighed by viewers, and the role of communication in shaping local adaptation and speciation. We also enjoy [testing and extending methods](http://dx.doi.org/10.1093/beheco/ary017) for analysing colour and vision in nature, as well as developing [software]({{ site.url }}/software) that improves the accessibility of such tools. 
+Everything needs to communicate with the world at large, and we are broadly interested in understanding the mechanisms, causes and evolutionary consequences of this basic challenge. Current projects examine how suites of traits coevolve to enable the effective exchange of information in 'noisy' environments, how the information encoded in diverse visual cues (colour, pattern, motion etc.) is integrated and weighed by viewers, and the role of communication in shaping local adaptation and speciation. We also enjoy [testing and extending methods](http://dx.doi.org/10.1093/beheco/ary017) for analysing colour and vision in nature, as well as developing [software]({{ site.url }}/software) that improves the accessibility of such tools. 
 
 ### Natural and sexual selection in the wild
 
