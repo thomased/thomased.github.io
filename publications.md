@@ -7,6 +7,9 @@ permalink: /publications/
 
 ### 2019
 
+White TE, Vogel-Ghibely N, Butterworth NJ (preprint) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_bioRxiv_](https://doi.org/10.1101/733758).   
+| [preprint](https://doi.org/10.1101/733758) |
+
 White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral colour and symmetry. [_bioRxiv_](https://doi.org/10.1101/693648).  
 | [preprint](https://doi.org/10.1101/693648) |
 
