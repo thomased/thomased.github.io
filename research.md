@@ -16,7 +16,7 @@ Everything needs to communicate with the world at large, and we are broadly inte
 ### Natural and sexual selection in the wild
 
 <img src="{{ site.baseurl }}/assets/blog/res3.png" title="dimorphism" class="profile" style="float:right;">
-How are intersexual differences reconciled with the fact that males and females largely share a genome? Can we predict the trajectory of evolution? How does social and natural selection interact to mediate adaptation? We are keen to understand the workings of adaptive evolution in nature. Current projects span sexual selection, reproductive isolation, and local adaptation in [iridescent flies](https://www.google.com/search?tbm=isch&as_q=fly+iridescent), the consequences of cognitive biases for [sexual](https://www.google.com/search?tbm=isch&as_q=structural+colour+butterfly) and [deceptive](https://www.google.com/search?tbm=isch&as_q=jewelled+spider) signal evolution, and using urban environments as novel testing grounds for theory. 
+How are intersexual differences reconciled with the fact that males and females largely share a genome? Can we predict the trajectory of evolution? How does social and natural selection interact to mediate adaptation? We are keen to understand the workings of adaptive evolution in nature. Current projects span sexual selection, signalling, and local adaptation in [iridescent flies](https://www.google.com/search?tbm=isch&as_q=fly+iridescent), the consequences of cognitive biases for [sexual](https://www.google.com/search?tbm=isch&as_q=structural+colour+butterfly) and [deceptive](https://www.google.com/search?tbm=isch&as_q=jewelled+spider) signal evolution, and using urban environments as novel testing grounds for theory.
 
 ### The evolution and maintenance of extreme variation
 
