@@ -20,23 +20,3 @@ If you **need help** with the package, take a look at the [documentation](http:/
 **Installation:** The current stable version of pavo is available on CRAN, and can simply be installed using ```install.packages('pavo')``` within R. The bleeding-edge version is on [github](https://github.com/rmaia/pavo), and is most easily installed with the [remotes](https://github.com/hadley/devtools) package, by running ```remotes::install_github('rmaia/pavo')```.  
 
 **Citation:** Maia R, Gruson H, Endler JA, White TE (2019) pavo 2: new tools for the spectral and spatial analysis of colour in R.  [_Methods in Ecology and Evolution_](http://dx.doi.org/10.1111/2041-210X.13174) 10, 1097-1107. 
-
-----------
-
-# metadat
-
-**A database of meta-analytic datasets in R**
-
-The `metadat` package contains a large collection of meta-analytic datasets, useful for teaching purposes, illustrating/testing certain meta-analytic methods, and validating and extending published analyses.
-
-**Browsing and searching datasets:** A listing of all datasets is available with `help(package=metadat}`. Each dataset is also tagged with one or multiple concept terms which refer to the field of research, the outcome measure used for the analysis, the model(s)/package(s) used for analyzing the data, and the methods/concepts that can be illustrated with the dataset.
-
-Alternatively, the `search_dat()` function can be used to query the existing data in the package to explore their help files. It uses fuzzy matching, and queries the data name, title, keyword and concept fields to identify relevant datasets that may be of interest.
-
-**Contributing new datasets:** We welcome contributions of new published datasets to the package. For full instructions on how to contribute, take a look at the [package repository](https://github.com/wviechtb/metadat).
-
-**Development version:** 0.1.0
-
-**Installation:** `metadat` is not yet on cran, but the current development version can be easily installed from github via ```remotes::install_github("wviechtb/metadat")```
-
-
