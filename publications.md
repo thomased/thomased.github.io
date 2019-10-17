@@ -7,11 +7,11 @@ permalink: /publications/
 
 ### 2019
 
-White TE, Vogel-Ghibely N, Butterworth NJ (preprint) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_bioRxiv_](https://doi.org/10.1101/733758).   
-| [preprint](https://doi.org/10.1101/733758) | 
-
 White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral colour and symmetry. [_bioRxiv_](https://doi.org/10.1101/693648).  
 | [preprint](https://doi.org/10.1101/693648) |
+
+White TE, Vogel-Ghibely N, Butterworth NJ (in press) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1101/733758).   
+| [preprint](https://doi.org/10.1101/733758) | 
 
 Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (2019) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_](https://doi.org/10.1098/rsif.2019.0199).  
 | [pdf]({{ site.url }}/docs/blamires_et_al_2019_spider_silk_covaries_with_thermal_properties.pdf) |
