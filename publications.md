@@ -11,7 +11,7 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 | [preprint](https://doi.org/10.1101/693648) |
 
 White TE, Vogel-Ghibely N, Butterworth NJ (in press) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1101/733758).   
-| [preprint](https://doi.org/10.1101/733758) | 
+| [preprint](https://doi.org/10.1101/733758) | [data](https://doi.org/10.5061/dryad.hdr7sqvcs) 
 
 O'Neil SJ, White TE, Lynch KE, Kemp DJ (in press) Male guppies differ in daily frequency but not diel pattern of display under daily light changes. [_Behavioral Ecology and Sociobiology_]()  
 
