@@ -16,7 +16,7 @@ White TE, Vogel-Ghibely N, Butterworth NJ (in press) Flies exploit predictable p
 De Bona S\*, White TE\*, Umbers KDL (in press) Fight or flight trade-offs and the defensive behaviour of the mountain katydid (_Acripeza reticulata_). [_Animal Behaviour_]()  
 | pdf |
 
-O'Neil SJ, White TE, Lynch KE, Kemp DJ (in press) Male guppies differ in daily frequency but not diel pattern of display under daily light changes. [_Behavioral Ecology and Sociobiology_]()
+O'Neil SJ, White TE, Lynch KE, Kemp DJ (in press) Male guppies differ in daily frequency but not diel pattern of display under daily light changes. [_Behavioral Ecology and Sociobiology_]()  
 | pdf |  
 
 Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (2019) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_](https://doi.org/10.1098/rsif.2019.0199).  
