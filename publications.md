@@ -15,10 +15,10 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 White TE, Vogel-Ghibely N, Butterworth NJ (in press) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1101/733758).   
 | [preprint](https://doi.org/10.1101/733758) | [data](https://doi.org/10.5061/dryad.hdr7sqvcs) |
 
-De Bona S\*, White TE\*, Umbers KDL (in press) Fight or flight trade-offs and the defensive behaviour of the mountain katydid (_Acripeza reticulata_). [_Animal Behaviour_]()  
+De Bona S\*, White TE\*, Umbers KDL (in press) Fight or flight trade-offs and the defensive behaviour of the mountain katydid (_Acripeza reticulata_). [_Animal Behaviour_]().  
 | pdf |
 
-O'Neil SJ, White TE, Lynch KE, Kemp DJ (in press) Male guppies differ in daily frequency but not diel pattern of display under daily light changes. [_Behavioral Ecology and Sociobiology_]()  
+O'Neil SJ, White TE, Lynch KE, Kemp DJ (in press) Male guppies differ in daily frequency but not diel pattern of display under daily light changes. [_Behavioral Ecology and Sociobiology_]().  
 | pdf |  
 
 Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (2019) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_](https://doi.org/10.1098/rsif.2019.0199).  
@@ -45,7 +45,6 @@ Maia R, White TE (2018) Comparing colours using visual models. [_Behavioural Eco
 | [pdf]({{ site.url }}/docs/Maia_&_White_2018_comparing_colours_using_visual_models.pdf) | [supplementary examples]({{ site.url }}/docs/Maia_&_White_2018_supplement.html) | [data + code](https://github.com/rmaia/msdichromatism) |
 
 O’Hanlon JC, White TE, Umbers KDL (2018) Visual communication in insects. In [_Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_](https://global.oup.com/academic/product/insect-behavior-9780198797517?cc=au&lang=en&). Córdoba-Aguilar et al. (eds). Oxford University Press, London.  
-
 Gray M, Stansberry M, Lynn J, Williams CF, White TE, Whitney KD (2018) Consistent shifts in pollinator-relevant floral colouration along Rocky Mountain elevation gradients. [_Journal of Ecology_](http://dx.doi.org/10.1111/1365-2745.12948) 106, 1910-1924.  
 | [pdf]({{ site.url }}/docs/gray_et_al_2018_shifts_in_floral_coloration_along_elevation_gradient.pdf) |
 
