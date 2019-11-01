@@ -12,6 +12,9 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 
 ### 2019
 
+Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R. [_Journal of Open Source Software_](https://doi.org/10.21105/joss.01857).  
+| [pdf]({{ site.url }}/docs/gruson_et_al_2019_lightr.pdf) | [repository](https://github.com/bisaloo/lightr) |
+
 White TE, Vogel-Ghibely N, Butterworth NJ (in press) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1101/733758).   
 | [preprint](https://doi.org/10.1101/733758) | [data](https://doi.org/10.5061/dryad.hdr7sqvcs) |
 
