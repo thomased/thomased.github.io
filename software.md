@@ -36,3 +36,13 @@ If you **need help** with the package, take a look at the [documentation](http:/
 
 **Citation:** Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R. [_Journal of Open Source Software_](https://doi.org/10.21105/joss.01857). 
 
+---
+
+# metadat
+
+**Meta-analytic datasets for R**
+
+`metadat` contains a large collection of meta-analytic datasets, useful for teaching purposes, illustrating/testing meta-analytic methods, and validating published analyses.
+
+**Installation** This package is not yet published on CRAN, but can be installed via [GitHub](https://github.com/wviechtb/metadat) using ```remotes::install_github("wviechtb/metadat")```.
+
