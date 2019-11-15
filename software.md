@@ -32,7 +32,7 @@ If you **need help** with the package, take a look at the [documentation](http:/
 
 **Development version:** 0.1  
 
-**Installation** This package is not yet published on CRAN, but can be installed via [GitHub]https://github.com/ropensci/lightr using ```remotes::install_github("ropensci/lightr")```.
+**Installation** This package is not yet published on CRAN, but can be installed via [GitHub](https://github.com/ropensci/lightr) using ```remotes::install_github("ropensci/lightr")```.
 
 **Citation:** Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R. [_Journal of Open Source Software_](https://doi.org/10.21105/joss.01857). 
 
