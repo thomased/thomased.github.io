@@ -11,6 +11,8 @@ permalink: /software/
 
 <img src="{{ site.baseurl }}/assets/blog/jndplot.png" title="Profile" class="profile">  
 
+`pavo` offers a flexible and integrated workflow for working with spectral and spatial colour data. It includes functions that take advantage of new data classes to work seamlessly from importing raw spectra and images, to publication-quality visualisations, and analyses via a suite of analytical methods and visual models.
+
 If you **need help** with the package, take a look at the [documentation](http://rafaelmaia.net/pavo/reference/index.html) and [extended vignettes](http://rafaelmaia.net/pavo/articles/pavo.html), and keep an eye on the [latest news](http://rafaelmaia.net/pavo/news/index.html) for changes. We're always happy to receive feedback and suggestions via personal email or the mailing list: [r-pavo@googlegroups.com](mailto:r-pavo@googlegroups.com). If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
 
 **Stable version:** 2.2.0 (01/07/2019)
