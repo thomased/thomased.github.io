@@ -28,7 +28,7 @@ If you **need help** with the package, take a look at the [documentation](http:/
 **Import spectral data and metadata in R**  
 [_Hugo Gruson_](https://www.normalesup.org/~hgruson/), [_Thomas White_](http://tomwhite.io), [_Rafael Maia_](http://rafaelmaia.net)
 
-`lightr` offers a unified, user-friendly interface reading UV-VIS reflectance/transmittance/absorbance spectral files and associated metadata from a suite of proprietary (and generally unfriendly) file formats, across all systems.
+`lightr` offers a unified, user-friendly interface for reading UV-VIS reflectance, transmittance, and/or absorbance spectral files and associated metadata from a suite of proprietary (and generally unfriendly) file formats, across all systems.
 
 **Development version:** 0.1  
 
