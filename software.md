@@ -20,3 +20,19 @@ If you **need help** with the package, take a look at the [documentation](http:/
 **Installation:** The current stable version of pavo is available on CRAN, and can simply be installed using ```install.packages('pavo')``` within R. The bleeding-edge version is on [github](https://github.com/rmaia/pavo), and is most easily installed with the [remotes](https://github.com/hadley/devtools) package, by running ```remotes::install_github('rmaia/pavo')```.  
 
 **Citation:** Maia R, Gruson H, Endler JA, White TE (2019) pavo 2: new tools for the spectral and spatial analysis of colour in R.  [_Methods in Ecology and Evolution_](http://dx.doi.org/10.1111/2041-210X.13174) 10, 1097-1107. 
+
+---
+
+# lightr 
+
+**Import spectral data and metadata in R**  
+[_Hugo Gruson_](https://www.normalesup.org/~hgruson/), [_Thomas White_](http://tomwhite.io), [_Rafael Maia_](http://rafaelmaia.net)
+
+`lightr` offers a unified, user-friendly interface reading UV-VIS reflectance/transmittance/absorbance spectral files and associated metadata from a suite of proprietary (and generally unfriendly) file formats, across all systems.
+
+**Development version:** 0.1  
+
+**Installation** This package is not yet published on CRAN, but can be installed via [GitHub]https://github.com/ropensci/lightr using ```remotes::install_github("ropensci/lightr")```.
+
+**Citation:** Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R. [_Journal of Open Source Software_](https://doi.org/10.21105/joss.01857). 
+
