@@ -12,17 +12,17 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 
 ### 2019
 
-Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R. [_Journal of Open Source Software_](https://doi.org/10.21105/joss.01857).  
-| [pdf]({{ site.url }}/docs/gruson_et_al_2019_lightr.pdf) | [repository](https://github.com/bisaloo/lightr) |
-
 White TE, Vogel-Ghibely N, Butterworth NJ (in press) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1101/733758).   
 | [preprint](https://doi.org/10.1101/733758) | [data](https://doi.org/10.5061/dryad.hdr7sqvcs) |
 
 De Bona S\*, White TE\*, Umbers KDL (in press) Fight or flight trade-offs and the defensive behaviour of the mountain katydid (_Acripeza reticulata_). [_Animal Behaviour_]().  
 | pdf |
 
-O'Neil SJ, White TE, Lynch KE, Kemp DJ (in press) Male guppies differ in daily frequency but not diel pattern of display under daily light changes. [_Behavioral Ecology and Sociobiology_]().  
-| pdf |  
+Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R. [_Journal of Open Source Software_](https://doi.org/10.21105/joss.01857).  
+| [pdf]({{ site.url }}/docs/gruson_et_al_2019_lightr.pdf) | [repository](https://github.com/bisaloo/lightr) |
+
+O'Neil SJ, White TE, Lynch KE, Kemp DJ (2019) Male guppies differ in daily frequency but not diel pattern of display under daily light changes. [_Behavioral Ecology and Sociobiology_](https://doi.org/10.1007/s00265-019-2768-7) 73, 157.  
+| [pdf](oneil_et_al_2019_male_guppies_differ_in_display_frequency) |  
 
 Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (2019) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_](https://doi.org/10.1098/rsif.2019.0199).  
 | [pdf]({{ site.url }}/docs/blamires_et_al_2019_spider_silk_covaries_with_thermal_properties.pdf) |
