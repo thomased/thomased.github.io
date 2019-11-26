@@ -22,7 +22,7 @@ Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R
 | [pdf]({{ site.url }}/docs/gruson_et_al_2019_lightr.pdf) | [repository](https://github.com/bisaloo/lightr) |
 
 O'Neil SJ, White TE, Lynch KE, Kemp DJ (2019) Male guppies differ in daily frequency but not diel pattern of display under daily light changes. [_Behavioral Ecology and Sociobiology_](https://doi.org/10.1007/s00265-019-2768-7) 73, 157.  
-| [pdf](oneil_et_al_2019_male_guppies_differ_in_display_frequency) |  
+| [pdf]({{ site.url }}/docs/oneil_et_al_2019_male_guppies_differ_in_display_frequency) |  
 
 Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (2019) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_](https://doi.org/10.1098/rsif.2019.0199).  
 | [pdf]({{ site.url }}/docs/blamires_et_al_2019_spider_silk_covaries_with_thermal_properties.pdf) |
