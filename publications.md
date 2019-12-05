@@ -12,6 +12,9 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 
 ### 2019
 
+Harvey JA et al. (in press) International scientists formulate a roadmap for insect conservation and recovery. [_Nature Ecology and Evolution_]().  
+| pdf |
+
 White TE, Vogel-Ghibely N, Butterworth NJ (in press) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1101/733758).   
 | [preprint](https://doi.org/10.1101/733758) | [data](https://doi.org/10.5061/dryad.hdr7sqvcs) |
 
