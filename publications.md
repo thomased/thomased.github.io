@@ -18,8 +18,8 @@ Harvey JA et al. (in press) International scientists formulate a roadmap for ins
 White TE, Vogel-Ghibely N, Butterworth NJ (in press) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1101/733758).   
 | [preprint](https://doi.org/10.1101/733758) | [data](https://doi.org/10.5061/dryad.hdr7sqvcs) |
 
-De Bona S\*, White TE\*, Umbers KDL (in press) Fight or flight trade-offs and the defensive behaviour of the mountain katydid (_Acripeza reticulata_). [_Animal Behaviour_]().  
-| pdf |
+De Bona S\*, White TE\*, Umbers KDL (in press) Fight or flight trade-offs and the defensive behaviour of the mountain katydid (_Acripeza reticulata_). [_Animal Behaviour_](https://doi.org/10.1016/j.anbehav.2019.11.012).  
+| [pdf]({{ site.url }}/docs/de_bona_et_al_2019_fight_or_flight_in_mountain_katydid) |
 
 Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R. [_Journal of Open Source Software_](https://doi.org/10.21105/joss.01857).  
 | [pdf]({{ site.url }}/docs/gruson_et_al_2019_lightr.pdf) | [repository](https://github.com/bisaloo/lightr) |
