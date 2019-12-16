@@ -48,7 +48,7 @@ White TE (2018) Illuminating the evolution of iridescence. [_Trends in Ecology a
 | [pdf]({{ site.url }}/docs/White_2018_illuminating_iridescence.pdf) |
 
 Maia R, White TE (2018) Comparing colours using visual models. [_Behavioural Ecology_](http://dx.doi.org/10.1093/beheco/ary017) 29, 649-659.  
-| [pdf]({{ site.url }}/docs/Maia_&_White_2018_comparing_colours_using_visual_models.pdf) | [supplementary examples]({{ site.url }}/docs/Maia_&_White_2018_supplement.html) | [data + code](https://github.com/rmaia/msdichromatism) |
+| [pdf]({{ site.url }}/docs/Maia_&_White_2018_comparing_colours_using_visual_models.pdf) | [supplementary examples]({{ site.url }}/docs/Maia_&_White_2018_supplement.html) | [data](https://github.com/rmaia/msdichromatism) |
 
 O’Hanlon JC, White TE, Umbers KDL (2018) Visual communication in insects. In [_Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_](https://global.oup.com/academic/product/insect-behavior-9780198797517?cc=au&lang=en&). Córdoba-Aguilar et al. (eds). Oxford University Press, London.  
 
@@ -83,7 +83,7 @@ Umbers KDL, De Bona S, White TE, Lehtonen J, Mappes J, Endler JA (2017) Deimatis
 | [pdf]({{ site.url }}/docs/umbers_et_al_2017_deimatism_neglected.pdf) |
 
 White TE (2017) Jewelled spiders manipulate colour lure geometry to deceive prey. [_Biology Letters_](http://dx.doi.org/10.1098/rsbl.2017.0027) 13, 20170027  
-| [pdf]({{ site.url }}/docs/white_2017_jewelled_spiders_manipulate_lure_geometry.pdf) | [data + code](https://github.com/thomased/ms_spiderpattern) |
+| [pdf]({{ site.url }}/docs/white_2017_jewelled_spiders_manipulate_lure_geometry.pdf) | [data](https://github.com/thomased/ms_spiderpattern) |
 
 White TE, Dalrymple RL, Herberstein ME, Kemp DJ (2017) The perceptual similarity of orb-spider prey lures and flower colours. [_Evolutionary Ecology_](http://dx.doi.org/10.1007%2Fs10682-016-9876-x) 31, 1-20.  
 | [pdf]({{ site.url }}/docs/White_et_al_2017_perceptual_similarity_of_lures_and_flowers.pdf) |
@@ -102,7 +102,7 @@ Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, White TE, Hemmings FA, Tindal
 | [pdf]({{ site.url }}/docs/dalrymple_et_al_2015_life_isnt_more_colourful_in_tropics.pdf) |
 
 White TE, Dalrymple RL, Noble DWA, O’Hanlon JC, Zurek DB, Umbers KDL (2015) Reproducible research in the study of biological colouration. [_Animal Behaviour_](http://dx.doi.org/10.1016/j.anbehav.2015.05.007) 106, 51-57.  
-| [pdf]({{ site.url }}/docs/white_2015_reproducible_research.pdf) | [data + code](https://github.com/daniel1noble/colsci_rep) |  
+| [pdf]({{ site.url }}/docs/white_2015_reproducible_research.pdf) | [data](https://github.com/daniel1noble/colsci_rep) |  
 
 White TE, Kemp DJ (2015) Technicolor deceit: a sensory basis for the study of colour-based lures. [_Animal Behaviour_](http://dx.doi.org/10.1016/j.anbehav.2015.04.025) 105, 231-243.  
 | [pdf]({{ site.url }}/docs/white_2015_technicolour_deceit.pdf) | [data](http://dx.doi.org/10.6084/m9.figshare.1371150) |  
