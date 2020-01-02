@@ -7,8 +7,11 @@ permalink: /publications/
 
 ### preprint
 
+White TE (preprint) Structural colours reflect individual quality: a meta-analysis. [_bioRxiv_](https://doi.org/).  
+| [pdf](https://doi.org/) |
+
 White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral colour and symmetry. [_bioRxiv_](https://doi.org/10.1101/693648).  
-| [preprint](https://doi.org/10.1101/693648) |
+| [pdf](https://doi.org/10.1101/693648) |
 
 ### 2020
 
