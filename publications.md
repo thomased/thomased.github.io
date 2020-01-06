@@ -15,8 +15,8 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 
 ### 2020
 
-Harvey JA et al. (in press) International scientists formulate a roadmap for insect conservation and recovery. [_Nature Ecology and Evolution_](https://dx.doi.org/10.1038/s41559-019-1079-8).  
-| pdf |
+Harvey JA et al. (2020) International scientists formulate a roadmap for insect conservation and recovery. [_Nature Ecology and Evolution_](https://dx.doi.org/10.1038/s41559-019-1079-8).  
+| [pdf]({{ site.url }}/docs/harvey_et_al_2020_insect_conservation.pdf) |
 
 ### 2019
 
