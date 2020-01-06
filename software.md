@@ -45,7 +45,7 @@ If you **need help** with the package, take a look at the [documentation](http:/
 # metadat
 
 **Meta-analytic datasets for R**  
-[_Thomas White_](http://tomwhite.io), [_Daniel Noble_](http://nobledan.com), [_Alistair Senior_](http://alistairmsenior.com), [_W. Kyle Hamilton_](http://kylehamilton.com), [Wolfgang Viechtbauer](http://www.wvbauer.com)
+[_Thomas White_](http://tomwhite.io), [_Daniel Noble_](http://nobledan.com), [_Alistair Senior_](http://alistairmsenior.com), [_W. Kyle Hamilton_](http://kylehamilton.com), [_Wolfgang Viechtbauer_](http://www.wvbauer.com)
 
 `metadat` contains a large collection of meta-analytic datasets, useful for teaching purposes, illustrating/testing meta-analytic methods, and validating published analyses.
 
