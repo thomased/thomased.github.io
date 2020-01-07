@@ -18,7 +18,7 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 Harvey JA et al. (2020) International scientists formulate a roadmap for insect conservation and recovery. [_Nature Ecology and Evolution_](https://dx.doi.org/10.1038/s41559-019-1079-8).  
 | [pdf]({{ site.url }}/docs/harvey_et_al_2020_insect_conservation.pdf) |
 
-De Bona S\*, White TE\*, Umbers KDL (2020) Fight or flight trade-offs and the defensive behaviour of the mountain katydid (_Acripeza reticulata_). [_Animal Behaviour_](https://doi.org/10.1016/j.anbehav.2019.11.012).  
+De Bona S\*, White TE\*, Umbers KDL (2020) Fight or flight trade-offs and the defensive behaviour of the mountain katydid (_Acripeza reticulata_). [_Animal Behaviour_](https://doi.org/10.1016/j.anbehav.2019.11.012) 159, 81-87.  
 | [pdf]({{ site.url }}/docs/de_bona_et_al_2020_fight_or_flight_in_mountain_katydid.pdf) |
 
 ### 2019
@@ -32,10 +32,10 @@ Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R
 O'Neil SJ, White TE, Lynch KE, Kemp DJ (2019) Male guppies differ in daily frequency but not diel pattern of display under daily light changes. [_Behavioral Ecology and Sociobiology_](https://doi.org/10.1007/s00265-019-2768-7) 73, 157.  
 | [pdf]({{ site.url }}/docs/oneil_et_al_2019_male_guppies_differ_in_display_frequency) |  
 
-Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (2019) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_](https://doi.org/10.1098/rsif.2019.0199).  
+Blamires SJ, Cerexhe G, White TE, Herberstein ME, Kasumovic MM (2019) Spider silk colour is associated with thermal properties but not protein secondary structure. [_Journal of the Royal Society Interface_](https://doi.org/10.1098/rsif.2019.0199) 16, 20190199.  
 | [pdf]({{ site.url }}/docs/blamires_et_al_2019_spider_silk_covaries_with_thermal_properties.pdf) |
 
-Paine KC, White TE, Whitney KD (2019) Intraspecific floral color variation as perceived by pollinators and non-pollinators: evidence for pollinator-imposed constraints? [_Evolutionary Ecology_]( https://doi.org/10.1007/s10682-019-09991-2).  
+Paine KC, White TE, Whitney KD (2019) Intraspecific floral color variation as perceived by pollinators and non-pollinators: evidence for pollinator-imposed constraints? [_Evolutionary Ecology_](https://doi.org/10.1007/s10682-019-09991-2) 33, 461-479.  
 | [pdf]({{ site.url }}/docs/paine_et_al_2019_intraspecific_floral_color_variation_contraints.pdf) |
 
 Maia R, Gruson H, Endler JA, White TE (2019) pavo 2: new tools for the spectral and spatial analysis of colour in R. [_Methods in Ecology and Evolution_](https://doi.org/10.1111/2041-210X.13174) 10, 1097-1107.  
@@ -56,7 +56,6 @@ Maia R, White TE (2018) Comparing colours using visual models. [_Behavioural Eco
 | [pdf]({{ site.url }}/docs/Maia_&_White_2018_comparing_colours_using_visual_models.pdf) | [supplementary examples]({{ site.url }}/docs/Maia_&_White_2018_supplement.html) | [data](https://github.com/rmaia/msdichromatism) |
 
 O’Hanlon JC, White TE, Umbers KDL (2018) Visual communication in insects. In [_Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_](https://global.oup.com/academic/product/insect-behavior-9780198797517?cc=au&lang=en&). Córdoba-Aguilar et al. (eds). Oxford University Press, London.  
-
 Gray M, Stansberry M, Lynn J, Williams CF, White TE, Whitney KD (2018) Consistent shifts in pollinator-relevant floral colouration along Rocky Mountain elevation gradients. [_Journal of Ecology_](http://dx.doi.org/10.1111/1365-2745.12948) 106, 1910-1924.  
 | [pdf]({{ site.url }}/docs/gray_et_al_2018_shifts_in_floral_coloration_along_elevation_gradient.pdf) |
 
