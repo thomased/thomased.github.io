@@ -18,13 +18,13 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 Harvey JA et al. (2020) International scientists formulate a roadmap for insect conservation and recovery. [_Nature Ecology and Evolution_](https://dx.doi.org/10.1038/s41559-019-1079-8).  
 | [pdf]({{ site.url }}/docs/harvey_et_al_2020_insect_conservation.pdf) |
 
+De Bona S\*, White TE\*, Umbers KDL (2020) Fight or flight trade-offs and the defensive behaviour of the mountain katydid (_Acripeza reticulata_). [_Animal Behaviour_](https://doi.org/10.1016/j.anbehav.2019.11.012).  
+| [pdf]({{ site.url }}/docs/de_bona_et_al_2020_fight_or_flight_in_mountain_katydid.pdf) |
+
 ### 2019
 
 White TE, Vogel-Ghibely N, Butterworth NJ (2019) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1086/707584).   
 | [pdf]({{ site.url }}/docs/white_et_al_2019_flies_exploit_perspectives_and_backgrounds_iridescent_signal.pdf) | [data](https://doi.org/10.5061/dryad.hdr7sqvcs) |
-
-De Bona S\*, White TE\*, Umbers KDL (2019) Fight or flight trade-offs and the defensive behaviour of the mountain katydid (_Acripeza reticulata_). [_Animal Behaviour_](https://doi.org/10.1016/j.anbehav.2019.11.012).  
-| [pdf]({{ site.url }}/docs/de_bona_et_al_2019_fight_or_flight_in_mountain_katydid.pdf) |
 
 Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R. [_Journal of Open Source Software_](https://doi.org/10.21105/joss.01857).  
 | [pdf]({{ site.url }}/docs/gruson_et_al_2019_lightr.pdf) | [repository](https://github.com/bisaloo/lightr) |
