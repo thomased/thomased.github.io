@@ -7,13 +7,13 @@ permalink: /software/
 # pavo  
 
 **An R package for the organization, visualisation, and analysis of spectral and spatial colour data.**   
-[_Rafael Maia_](http://rafaelmaia.net), [_Hugo Gruson_](https://www.normalesup.org/~hgruson/), [_Thomas White_](http://tomwhite.io)
+[_Rafael Maia_](http://rafaelmaia.net), [_Hugo Gruson_](https://www.normalesup.org/~hgruson/), [_Thomas White_](https://tomwhite.io)
 
 <img src="{{ site.baseurl }}/assets/blog/jndplot.png" title="Profile" class="profile">  
 
 `pavo` offers a flexible and integrated workflow for working with spectral and spatial colour data. It includes functions that take advantage of new data classes to work seamlessly from importing raw spectra and images, to publication-quality visualisations, and analyses via a suite of analytical methods and visual models.
 
-If you **need help** with the package, take a look at the [documentation](http://rafaelmaia.net/pavo/reference/index.html) and [extended vignettes](http://rafaelmaia.net/pavo/articles/pavo.html), and keep an eye on the [latest news](http://rafaelmaia.net/pavo/news/index.html) for changes. We're always happy to receive feedback and suggestions via personal email or the mailing list: [r-pavo@googlegroups.com](mailto:r-pavo@googlegroups.com). If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
+If you **need help** with the package, take a look at the [documentation](http://pavo.colrverse.) and [extended vignettes](http://pavo.colrverse.com/articles/pavo-1-overview.html), and keep an eye on the [latest news](http://pavo.colrverse.com/news/index.html) for changes. We're always happy to receive feedback and suggestions via personal email or the mailing list: [r-pavo@googlegroups.com](mailto:r-pavo@googlegroups.com). If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
 
 **Current release:** 2.3.0 (15/12/2019)
 
