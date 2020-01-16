@@ -55,7 +55,8 @@ White TE (2018) Illuminating the evolution of iridescence. [_Trends in Ecology a
 Maia R, White TE (2018) Comparing colours using visual models. [_Behavioural Ecology_](http://dx.doi.org/10.1093/beheco/ary017) 29, 649-659.  
 | [pdf]({{ site.url }}/docs/Maia_&_White_2018_comparing_colours_using_visual_models.pdf) | [supplementary examples]({{ site.url }}/docs/Maia_&_White_2018_supplement.html) | [data](https://github.com/rmaia/msdichromatism) |
 
-O’Hanlon JC, White TE, Umbers KDL (2018) Visual communication in insects. In [_Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_](https://global.oup.com/academic/product/insect-behavior-9780198797517?cc=au&lang=en&). Córdoba-Aguilar et al. (eds). Oxford University Press, London.   
+O’Hanlon JC, White TE, Umbers KDL (2018) Visual communication in insects. In [_Insect Behaviour: From Mechanisms to Ecological and Evolutionary Consequences_](https://global.oup.com/academic/product/insect-behavior-9780198797517?cc=au&lang=en&). Córdoba-Aguilar et al. (eds). Oxford University Press, London.  
+
 Gray M, Stansberry M, Lynn J, Williams CF, White TE, Whitney KD (2018) Consistent shifts in pollinator-relevant floral colouration along Rocky Mountain elevation gradients. [_Journal of Ecology_](http://dx.doi.org/10.1111/1365-2745.12948) 106, 1910-1924.  
 | [pdf]({{ site.url }}/docs/gray_et_al_2018_shifts_in_floral_coloration_along_elevation_gradient.pdf) |
 
