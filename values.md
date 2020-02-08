@@ -13,7 +13,7 @@ permalink: /values/
 
 (2) **Be kind, supportive, and generous**. We share knowledge, ideas, time, resources, and tools freely wherever possible. This extends not only to the lab, but as active members of [SOLES](https://sydney.edu.au/science/schools/school-of-life-and-environmental-sciences.html) and the community at large. Collaboration is a far more productive force than competition and there are too many interesting questions to be answered to waste time defending intellectual turf.
 
-(3) **Be productive**. I will do all I can to provide the resources and guidance that lab members' require to drive a project to completion; from the initial development of ideas, through the design of experiments, to the communication of results. Irrespective of career stage --- be it undergraduate or PhD --- everyone has ultimate ownership and responsibility for their work. Your hard work deserves to be shared with the world, so a project is never truly complete until it is published!
+(3) **Own your work**. I will do all I can to provide the resources, training, support, and guidance that lab members’ require to drive a project to completion; from the initial development of ideas, through the design of experiments, to the communication of results. Irrespective of career stage — be it undergraduate or PhD — everyone is ultimately responsible for driving their project(s). This spans the day-to-day business of maintaining animals, collecting data, and solving the practical problems that inevitably crop up, through to writing up results and, ultimately, publishing.
 
 ## Skills
 
