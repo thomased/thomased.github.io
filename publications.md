@@ -13,6 +13,9 @@ White TE (preprint) Structural colours reflect individual quality: a meta-analys
 White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral colour and symmetry. [_bioRxiv_](https://doi.org/10.1101/693648).  
 | [pdf](https://doi.org/10.1101/693648) |
 
+Butterworth NJ, White TE, Byrne PG, Wallman JF (preprint) Love at first flight: Wing interference patterns are species-specific and sexually dimorphic in blowflies (Diptera: Calliphoridae). [_bioRxiv_](https://doi.org/10.1101/2020.02.18.948646).  
+| [pdf](https://doi.org/10.1101/2020.02.18.948646) |
+
 ### 2020
 
 Nakagawa S et al. (in press) A new ecosystem for evidence synthesis. [_Nature Ecology and Evolution_](). 
