@@ -18,7 +18,7 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 
 ### 2020
 
-Nakagawa S et al. (in press) A new ecosystem for evidence synthesis. [_Nature Ecology and Evolution_](). 
+Nakagawa S et al. (2020) A new ecosystem for evidence synthesis. [_Nature Ecology and Evolution_](http://dx.doi.org/10.1038/s41559-020-1153-2). 
 
 White TE, Vogel-Ghibely N, Butterworth NJ (2020) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1086/707584).   
 | [pdf]({{ site.url }}/docs/white_et_al_2020_flies_exploit_perspectives_and_backgrounds_iridescent_signal.pdf) | [data](https://doi.org/10.5061/dryad.hdr7sqvcs) |
