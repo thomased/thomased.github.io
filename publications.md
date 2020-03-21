@@ -10,15 +10,17 @@ permalink: /publications/
 Butterworth NJ, White TE, Byrne PG, Wallman JF (preprint) Love at first flight: Wing interference patterns are species-specific and sexually dimorphic in blowflies (Diptera: Calliphoridae). [_bioRxiv_](https://doi.org/10.1101/2020.02.18.948646).  
 | [pdf](https://doi.org/10.1101/2020.02.18.948646) |
 
-White TE (preprint) Structural colours reflect individual quality: a meta-analysis. [_bioRxiv_](https://doi.org/10.1101/2020.01.01.892547).  
-| [pdf](https://doi.org/10.1101/2020.01.01.892547) | [data](https://github.com/thomased/metacol) |
-
 White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral colour and symmetry. [_bioRxiv_](https://doi.org/10.1101/693648).  
 | [pdf](https://doi.org/10.1101/693648) |
 
 ### 2020
 
-Nakagawa S et al. (2020) A new ecosystem for evidence synthesis. [_Nature Ecology and Evolution_](http://dx.doi.org/10.1038/s41559-020-1153-2). 
+White TE (in press) Structural colours reflect individual quality: a meta-analysis. [_Biology Letters_]().  
+| [preprint](https://doi.org/10.1101/2020.01.01.892547) | [data](https://github.com/EaSElab-18/ms_metacol) |
+
+Blamires S, Little D, White TE, Kane D (in press) Photoreflectance/scattering measurements of spider silks informed by standard optics. [_Royal Society Open Science_]().
+
+Nakagawa S et al. (in press) A new ecosystem for evidence synthesis. [_Nature Ecology and Evolution_](http://dx.doi.org/10.1038/s41559-020-1153-2). 
 
 White TE, Vogel-Ghibely N, Butterworth NJ (2020) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1086/707584).   
 | [pdf]({{ site.url }}/docs/white_et_al_2020_flies_exploit_perspectives_and_backgrounds_iridescent_signal.pdf) | [data](https://doi.org/10.5061/dryad.hdr7sqvcs) |
