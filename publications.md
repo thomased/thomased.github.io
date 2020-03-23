@@ -20,7 +20,7 @@ White TE (in press) Structural colours reflect individual quality: a meta-analys
 
 Blamires S, Little D, White TE, Kane D (in press) Photoreflectance/scattering measurements of spider silks informed by standard optics. [_Royal Society Open Science_]().
 
-Nakagawa S et al. (in press) A new ecosystem for evidence synthesis. [_Nature Ecology and Evolution_](http://dx.doi.org/10.1038/s41559-020-1153-2).  
+Nakagawa S et al. (2020) A new ecosystem for evidence synthesis. [_Nature Ecology and Evolution_](http://dx.doi.org/10.1038/s41559-020-1153-2).  
 | [pdf]({{ site.url }}/docs/nakagawa_et_al_2020_ecosystem_for_evidence_synthesis.pdf) |
 
 White TE, Vogel-Ghibely N, Butterworth NJ (2020) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1086/707584).   
