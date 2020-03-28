@@ -23,7 +23,7 @@ Blamires S, Little D, White TE, Kane D (in press) Photoreflectance/scattering me
 Nakagawa S et al. (2020) A new ecosystem for evidence synthesis. [_Nature Ecology and Evolution_](http://dx.doi.org/10.1038/s41559-020-1153-2).  
 | [pdf]({{ site.url }}/docs/nakagawa_et_al_2020_ecosystem_for_evidence_synthesis.pdf) |
 
-White TE, Vogel-Ghibely N, Butterworth NJ (2020) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1086/707584).   
+White TE, Vogel-Ghibely N, Butterworth NJ (2020) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1086/707584) 195, 733-742.   
 | [pdf]({{ site.url }}/docs/white_et_al_2020_flies_exploit_perspectives_and_backgrounds_iridescent_signal.pdf) | [data](https://doi.org/10.5061/dryad.hdr7sqvcs) |
 
 Harvey JA et al. (2020) International scientists formulate a roadmap for insect conservation and recovery. [_Nature Ecology and Evolution_](https://dx.doi.org/10.1038/s41559-019-1079-8).  
