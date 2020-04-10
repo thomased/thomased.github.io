@@ -20,13 +20,13 @@ White TE (in press) Structural colours reflect individual quality: a meta-analys
 
 Blamires S, Little D, White TE, Kane D (in press) Photoreflectance/scattering measurements of spider silks informed by standard optics. [_Royal Society Open Science_]().
 
-Nakagawa S et al. (2020) A new ecosystem for evidence synthesis. [_Nature Ecology and Evolution_](http://dx.doi.org/10.1038/s41559-020-1153-2).  
+Nakagawa S et al. (2020) A new ecosystem for evidence synthesis. [_Nature Ecology and Evolution_](http://dx.doi.org/10.1038/s41559-020-1153-2) 4, 498-501.  
 | [pdf]({{ site.url }}/docs/nakagawa_et_al_2020_ecosystem_for_evidence_synthesis.pdf) |
 
 White TE, Vogel-Ghibely N, Butterworth NJ (2020) Flies exploit predictable perspectives and backgrounds to enhance iridescent signal salience and mating success. [_The American Naturalist_](https://doi.org/10.1086/707584) 195, 733-742.   
 | [pdf]({{ site.url }}/docs/white_et_al_2020_flies_exploit_perspectives_and_backgrounds_iridescent_signal.pdf) | [data](https://doi.org/10.5061/dryad.hdr7sqvcs) |
 
-Harvey JA et al. (2020) International scientists formulate a roadmap for insect conservation and recovery. [_Nature Ecology and Evolution_](https://dx.doi.org/10.1038/s41559-019-1079-8).  
+Harvey JA et al. (2020) International scientists formulate a roadmap for insect conservation and recovery. [_Nature Ecology and Evolution_](https://dx.doi.org/10.1038/s41559-019-1079-8) 4, 174-176.  
 | [pdf]({{ site.url }}/docs/harvey_et_al_2020_insect_conservation.pdf) |
 
 De Bona S\*, White TE\*, Umbers KDL (2020) Fight or flight trade-offs and the defensive behaviour of the mountain katydid (_Acripeza reticulata_). [_Animal Behaviour_](https://doi.org/10.1016/j.anbehav.2019.11.012) 159, 81-87.  
@@ -34,7 +34,7 @@ De Bona S\*, White TE\*, Umbers KDL (2020) Fight or flight trade-offs and the de
 
 ### 2019
 
-Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R. [_Journal of Open Source Software_](https://doi.org/10.21105/joss.01857).  
+Gruson H, White TE, Maia R (2019) lightr: import spectral data and metadata in R. [_Journal of Open Source Software_](https://doi.org/10.21105/joss.01857) 4, 1857.  
 | [pdf]({{ site.url }}/docs/gruson_et_al_2019_lightr.pdf) | [repository](https://github.com/bisaloo/lightr) |
 
 O'Neil SJ, White TE, Lynch KE, Kemp DJ (2019) Male guppies differ in daily frequency but not diel pattern of display under daily light changes. [_Behavioral Ecology and Sociobiology_](https://doi.org/10.1007/s00265-019-2768-7) 73, 157.  
