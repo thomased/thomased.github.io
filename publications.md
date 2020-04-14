@@ -15,8 +15,8 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 
 ### 2020
 
-White TE (in press) Structural colours reflect individual quality: a meta-analysis. [_Biology Letters_]().  
-| [preprint](https://doi.org/10.1101/2020.01.01.892547) | [data](https://github.com/EaSElab-18/ms_metacol) |
+White TE (2020) Structural colours reflect individual quality: a meta-analysis. [_Biology Letters_](https://doi.org/10.1098/rsbl.2020.0001).  
+| [pdf]({{ site.url }}/docs/white_2020_structural_colours_reflect_individual_quality.pdf) | [data](https://github.com/EaSElab-18/ms_metacol) |
 
 Blamires S, Little D, White TE, Kane D (in press) Photoreflectance/scattering measurements of spider silks informed by standard optics. [_Royal Society Open Science_]().
 
