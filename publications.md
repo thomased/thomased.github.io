@@ -15,10 +15,10 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 
 ### 2020
 
+Blamires S, Little D, White TE, Kane D (in press) Photoreflectance/scattering measurements of spider silks informed by standard optics. [_Royal Society Open Science_]().
+
 White TE (2020) Structural colours reflect individual quality: a meta-analysis. [_Biology Letters_](https://doi.org/10.1098/rsbl.2020.0001) 16, 20200001.  
 | [pdf]({{ site.url }}/docs/white_2020_structural_colours_reflect_individual_quality.pdf) | [data](https://github.com/EaSElab-18/ms_metacol) |
-
-Blamires S, Little D, White TE, Kane D (in press) Photoreflectance/scattering measurements of spider silks informed by standard optics. [_Royal Society Open Science_]().
 
 Nakagawa S et al. (2020) A new ecosystem for evidence synthesis. [_Nature Ecology and Evolution_](http://dx.doi.org/10.1038/s41559-020-1153-2) 4, 498-501.  
 | [pdf]({{ site.url }}/docs/nakagawa_et_al_2020_ecosystem_for_evidence_synthesis.pdf) |
