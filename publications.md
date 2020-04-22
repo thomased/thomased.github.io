@@ -15,7 +15,8 @@ White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral 
 
 ### 2020
 
-Blamires S, Little D, White TE, Kane D (in press) Photoreflectance/scattering measurements of spider silks informed by standard optics. [_Royal Society Open Science_]().
+Blamires S, Little D, White TE, Kane D (2020) Photoreflectance/scattering measurements of spider silks informed by standard optics. [_Royal Society Open Science_](https://doi.org/10.1098/rsos.192174) 7, 192174.  
+| [pdf]({{ site.url }}/docs/blamires_et_al_2020_photoreflectance_of_spider_silks.pdf) |
 
 White TE (2020) Structural colours reflect individual quality: a meta-analysis. [_Biology Letters_](https://doi.org/10.1098/rsbl.2020.0001) 16, 20200001.  
 | [pdf]({{ site.url }}/docs/white_2020_structural_colours_reflect_individual_quality.pdf) | [data](https://github.com/EaSElab-18/ms_metacol) |
@@ -135,4 +136,3 @@ Kemp DJ, White TE (2014) Exploring the perceptual canvas of signal evolution: co
 
 White TE, Macedonia J, Birch D, Dawes J, Kemp DJ (2012) The nano-anatomical basis of sexual dimorphism in iridescent butterfly colouration. [_Australian Journal of Zoology_](http://dx.doi.org/10.1071/ZO12045) 60, 101-107.  
 | [pdf]({{ site.url }}/docs/white_2012_nano.pdf) | [data](http://figshare.com/articles/Data_from_White_et_al_2012_The_nano_anatomical_basis_of_sexual_dimorphism_in_iridescent_butterfly_colouration_/897985) |
-
