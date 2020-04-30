@@ -10,10 +10,10 @@ permalink: /publications/
 Butterworth NJ, White TE, Byrne PG, Wallman JF (preprint) Love at first flight: Wing interference patterns are species-specific and sexually dimorphic in blowflies (Diptera: Calliphoridae). [_bioRxiv_](https://doi.org/10.1101/2020.02.18.948646).  
 | [pdf](https://doi.org/10.1101/2020.02.18.948646) |
 
-White TE, Kemp DJ (preprint) Spider lures exploit insect preferences for floral colour and symmetry. [_bioRxiv_](https://doi.org/10.1101/693648).  
-| [pdf](https://doi.org/10.1101/693648) |
-
 ### 2020
+
+White TE, Kemp DJ (in press) Spider lures exploit insect preferences for floral colour and symmetry. [_Evolutionary Ecology_]().  
+| [preprint](https://doi.org/10.1101/693648) |
 
 Blamires S, Little D, White TE, Kane D (2020) Photoreflectance/scattering measurements of spider silks informed by standard optics. [_Royal Society Open Science_](https://doi.org/10.1098/rsos.192174) 7, 192174.  
 | [pdf]({{ site.url }}/docs/blamires_et_al_2020_photoreflectance_of_spider_silks.pdf) |
