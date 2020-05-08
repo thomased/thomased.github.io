@@ -12,8 +12,8 @@ Butterworth NJ, White TE, Byrne PG, Wallman JF (preprint) Love at first flight: 
 
 ### 2020
 
-White TE, Kemp DJ (in press) Spider lures exploit insect preferences for floral colour and symmetry. [_Evolutionary Ecology_]().  
-| [preprint](https://doi.org/10.1101/693648) |
+White TE, Kemp DJ (2020) Spider lures exploit insect preferences for floral colour and symmetry. [_Evolutionary Ecology_](https://doi.org/10.1007/s10682-020-10047-z).  
+| [pdf]({{ site.url }}/docs/white_&_kemp_2020_spider_lures_exploit_insect_preferences_for_floral_colour_and_symmetry) |
 
 Blamires S, Little D, White TE, Kane D (2020) Photoreflectance/scattering measurements of spider silks informed by standard optics. [_Royal Society Open Science_](https://doi.org/10.1098/rsos.192174) 7, 192174.  
 | [pdf]({{ site.url }}/docs/blamires_et_al_2020_photoreflectance_of_spider_silks.pdf) |
