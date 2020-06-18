@@ -15,7 +15,7 @@ Butterworth NJ, White TE, Byrne PG, Wallman JF (preprint) Love at first flight: 
 
 ### 2020
 
-Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, White TE, Hemmings FA, Moles AT. (2020) Macroecological patterns in flower colour are shaped by both biotic and abiotic factors. [_New Phytologist_]().  
+Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, White TE, Hemmings FA, Moles AT. (2020) Macroecological patterns in flower colour are shaped by both biotic and abiotic factors. [_New Phytologist_](https://doi.org/10.1111/nph.16737).  
 | [pdf]({{ site.url }}/docs/dalrymple_et_al_2020_macroecological_patterns_in_flower_colour_are_shaped_by_both_biotic_and_abiotic_factors.pdf) |
 
 White TE, Kemp DJ (2020) Spider lures exploit insect preferences for floral colour and symmetry. [_Evolutionary Ecology_](https://doi.org/10.1007/s10682-020-10047-z).  
