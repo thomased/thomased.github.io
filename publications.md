@@ -7,13 +7,13 @@ permalink: /publications/
 
 ### preprint
 
-White TE, Latty T (preprint) Flies improve the salience of iridescent sexual signals by orienting toward the sun. [_bioRxiv_](https://doi.org/10.1101/2020.05.09.085639).  
-| [pdf](https://doi.org/10.1101/2020.05.09.085639) | [data](https://github.com/EaSElab-18/ms_sunnyflies) |
-
 Butterworth NJ, White TE, Byrne PG, Wallman JF (preprint) Love at first flight: Wing interference patterns are species-specific and sexually dimorphic in blowflies (Diptera: Calliphoridae). [_bioRxiv_](https://doi.org/10.1101/2020.02.18.948646).  
 | [pdf](https://doi.org/10.1101/2020.02.18.948646) |
 
 ### 2020
+
+White TE, Latty T (in press) Flies improve the salience of iridescent sexual signals by orienting toward the sun. [_Behavioural Ecology_]().  
+| [preprint](https://doi.org/10.1101/2020.05.09.085639) | [data](https://github.com/EaSElab-18/ms_sunnyflies) |
 
 Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, White TE, Hemmings FA, Moles AT. (2020) Macroecological patterns in flower colour are shaped by both biotic and abiotic factors. [_New Phytologist_](https://doi.org/10.1111/nph.16737).  
 | [pdf]({{ site.url }}/docs/dalrymple_et_al_2020_macroecological_patterns_in_flower_colour_are_shaped_by_both_biotic_and_abiotic_factors.pdf) |
