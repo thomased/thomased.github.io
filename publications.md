@@ -12,8 +12,8 @@ Butterworth NJ, White TE, Byrne PG, Wallman JF (preprint) Love at first flight: 
 
 ### 2020
 
-White TE, Latty T (in press) Flies improve the salience of iridescent sexual signals by orienting toward the sun. [_Behavioural Ecology_]().  
-| [preprint](https://doi.org/10.1101/2020.05.09.085639) | [data](https://github.com/EaSElab-18/ms_sunnyflies) |
+White TE, Latty T (2020) Flies improve the salience of iridescent sexual signals by orienting toward the sun. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/araa098).  
+| [pdf]({{ site.url }}/docs/white_latty_2020_flies_improve_the_salience_of_iridescent_sexual_signals_by_orienting_toward_the_sun.pdf.pdf) | [data](https://github.com/EaSElab-18/ms_sunnyflies) |
 
 Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, White TE, Hemmings FA, Moles AT. (2020) Macroecological patterns in flower colour are shaped by both biotic and abiotic factors. [_New Phytologist_](https://doi.org/10.1111/nph.16737).  
 | [pdf]({{ site.url }}/docs/dalrymple_et_al_2020_macroecological_patterns_in_flower_colour_are_shaped_by_both_biotic_and_abiotic_factors.pdf) |

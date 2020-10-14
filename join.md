@@ -11,6 +11,8 @@ I am always happy to hear from students at all levels; from potential PhD's to u
 
 Aside from the very occasional funded position, there are numerous routes to securing funding for honours, PhD's, and postdocs. A few are listed below, and I will gladly do all I can to help qualified applicants attain support.
 
+## Pathways
+
 ### Postgraduates
 
 **PhD and Masters**  
@@ -27,10 +29,6 @@ Honours is an extra year of study following an undergraduate degree, and involve
 The University of Sydney offers its flagship Postdoctoral Fellowships on a yearly basis, with applications due in ***September***.  
 | [More information](https://sydney.edu.au/research/join-us/university-of-sydney-fellowship-scheme.html) |
 
-**Endeavour Awards**  
-Endeavour awards are short-term scholarships offered by the Australian government that allow researchers from almost anywhere to visit an Australian university for 4-6 months. Applications close in ***April*** each year (for funding the following year).  
-| [More information](https://internationaleducation.gov.au/Endeavour%20program/Scholarships-and-Fellowships/Pages/default.aspx) |
-
 **Branco Weiss Fellowships**  
 This research fellowship is designed to support postdoctoral researchers after their PhD and before their first faculty appointment. Those in current postdoctoral positions are also eligible. Ideally, fellows pursue unconventional projects in new areas of science, engineering and social sciences.  
 | [More information](http://www.society-in-science.org/) |
@@ -45,3 +43,4 @@ Other region-specific options include National Science Foundation Fellowships (U
 
 I have projects available for students interested in gaining some hand-on experience, and prefer to collaborate on substantial self-contained projects with a view to publication. Volunteers are welcome, though people should be paid for their work whenever possible, and summer research scholarships are available to second- and third-year undergraduate to that end. They're competitively awarded to students from _any_ domestic (Aus or NZ) university, include a modest stipend (~ $513 p/w) for the six week duration, and applications typically close in ***September***.  
 | [More information](http://sydney.edu.au/medicine/study/scholarships/summer-research/index.php) |
+
