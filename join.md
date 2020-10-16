@@ -29,5 +29,7 @@ Work is ongoing, and enquiries are particularly welcome, in the following areas:
 
 The world is awash with visual information, which animals must gather and exchange in order to solve life's daily challenges. Yet basic features of this process and its evolutionary consequences remain a mystery. How can colour and motion advertise the 'quality' of potential mates, and how do viewers decide? Can animals create private channels of communication away from the prying eyes of predators and competitors? To what extent are organisms adapted to their local sensory environments? The questions are many and the ultimate direction of any project can be tailored to suit. Fieldwork involves spending time on Australia's beautiful beaches where the elaborate courtships and colourful signals of shore-dwelling flies serve as a model empirical context. While lab-based work entails analyses of behaviour, colour, and visual perception. Exciting opportunities for large-scale manipulative assays, comparative work, and experimental evolution also exist for longer-duration projects.
 
+***The urbanisation of sensory landscapes***
 
+The scope and magnitude of human alterations of the natural world Humans have modified the , which extends to  sensory world the animals therein. Basic tasks such as finding food and mates, avoiding certain, and the longer-term evolutionary consequences of such change is only beginning to be examined. Recripocal benefits exist for testing and extending theory in this novel context. 
 
