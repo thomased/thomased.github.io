@@ -13,7 +13,7 @@ I am always happy to hear from students at all levels; from potential PhD's to u
 
 Aside from the occasional funded position, there are numerous routes to securing funding for honours, PhD's, and postdocs. A few are listed below, and I will gladly do all I can to help qualified applicants attain support.
 
-**[Postdoctoral Fellowships:](https://sydney.edu.au/research/join-us/university-of-sydney-fellowship-scheme.html)** The University of Sydney offers its flagship Postdoctoral Fellowships on a yearly basis, with applications due in ***September***.
+**[Postdocs:](https://sydney.edu.au/research/join-us/university-of-sydney-fellowship-scheme.html)** The University of Sydney offers its flagship Postdoctoral Fellowships on a yearly basis, with applications due in ***September***.
 
 **[PhD and Masters](https://sydney.edu.au/courses/courses/pr/doctor-of-philosophy-science.html):** Students will need to secure a scholarship such as an RTP or the University's equivalent (which share an application), with application rounds **twice per year**.
 
@@ -28,5 +28,6 @@ Work is ongoing, and enquiries are particularly welcome, in the following areas:
 ***Information, aesthetics, and adaptation in the wild***
 
 The world is awash with visual information, which animals must gather and exchange in order to solve life's daily challenges. Yet basic features of this process and its evolutionary consequences remain a mystery. How can colour and motion advertise the 'quality' of potential mates, and how do viewers decide? Can animals create private channels of communication away from the prying eyes of predators and competitors? To what extent are organisms adapted to their local sensory environments? The questions are many and the ultimate direction of any project can be tailored to suit. Fieldwork involves spending time on Australia's beautiful beaches where the elaborate courtships and colourful signals of shore-dwelling flies serve as a model empirical context. While lab-based work entails analyses of behaviour, colour, and visual perception. Exciting opportunities for large-scale manipulative assays, comparative work, and experimental evolution also exist for longer-duration projects.
+
 
 
