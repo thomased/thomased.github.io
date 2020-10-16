@@ -25,9 +25,10 @@ Aside from the occasional funded position, there are numerous routes to securing
 
 Work is ongoing, and enquiries are particularly welcome, in the following areas:
 
-***Communication, aesthetics, and adaptation in the wild***
+***Information, aesthetics, and adaptation in the wild***
 
-The world is awash with visual information, which animals must gather and exchange in order to solve life's daily challenges. Yet basic features of this process and its evolutionary consequences remain a mystery. How can colour and motion advertise the 'quality' of potential mates, and how do viewers decide? Can animals create private channels of communication away from the prying eyes of predators and competitors? To what extent are organisms adapted to their local sensory environments? The questions are many and the ultimate direction is open to discussion to suit the interests of the candidate. Fieldwork will require spending time on Australia's beautiful beaches where the elaborate courtships and colourful signals of shore-dwelling flies will serve as a model empirical context. While lab-based work will entail analyses of behaviour, colour, and visual perception using full-spectrum photography and/or spectrometry. Exciting opportunities for large-scale manipulative assays, comparative work, and experimental evolution also exist for longer-duration projects.
+The world is awash with visual information, which animals must gather and exchange in order to solve life's daily challenges. Yet basic features of this process and its evolutionary consequences remain a mystery. How can colour and motion advertise the 'quality' of potential mates, and how do viewers decide? Can animals create private channels of communication away from the prying eyes of predators and competitors? To what extent are organisms adapted to their local sensory environments? The questions are many and the ultimate direction is open to discussion to suit the interests of the candidate. Fieldwork involves spending time on Australia's beautiful beaches where the elaborate courtships and colourful signals of shore-dwelling flies will serve as a model empirical context. While lab-based work entails analyses of behaviour, colour, and visual perception. Exciting opportunities for large-scale manipulative assays, comparative work, and experimental evolution also exist for longer-duration projects.
+
 
 
 
