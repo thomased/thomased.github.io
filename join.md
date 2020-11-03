@@ -23,7 +23,7 @@ Aside from the occasional funded position, there are numerous routes to securing
 
 ## Projects
 
-Work is ongoing, and enquiries are particularly welcome, in the following areas:
+Work is ongoing, and enquiries are particularly welcome, in the following general areas:
 
 ***Information, aesthetics, and adaptation in the wild***
 
@@ -31,5 +31,5 @@ The world is awash with visual information, which animals must gather and exchan
 
 ***The urbanisation of sensory landscapes***
 
-Humans are altering the natural environment at an unprecedented scale. Though the most apparent changes are physical, they extend to the sensory world of the organisms occupying these newly-modified landscapes, with consequences for basic tasks such as finding food and mates, and avoiding death. We have an interest in unravelling the scope, magnitude, and consequences of these changes to sensory landscapes. Field-based and theoretical work involves quantifying the structure of urban and natural environments and the boundaries between them. While lab-based experiments entail exploring the umwelt of model organisms---such as bees and butterflies---to understand their responses on ecological time-scales, and predict them at evolutionary scales.
+Humans are altering the natural environment at an unprecedented scale. Though the most apparent changes are physical, they extend to the sensory world of the organisms occupying these newly-modified landscapes, with consequences for basic tasks such as finding food and mates, and avoiding death. We have an interest in unravelling the scope, magnitude, and consequences of these changes to sensory landscapes. Field-based and theoretical work may involve quantifying the structure of urban and natural environments and the boundaries between them. While lab-based experiments entail exploring the umwelt of model organisms---such as bees and butterflies---to understand their responses on ecological time-scales, and predict them at evolutionary scales.
 
