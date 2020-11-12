@@ -19,7 +19,7 @@ Organisms need to gather and exchange information with the world at large, and w
 
 Can we predict the trajectory of evolution? How does sexual and natural selection mediate adaptation? We are keen to understand the workings of adaptive evolution in nature. Current projects span sexual selection, dynamic signalling, and local adaptation in [iridescent flies](https://www.google.com/search?tbm=isch&as_q=fly+iridescent), as well as the role of sensory biases in [sexual](https://www.google.com/search?tbm=isch&as_q=structural+colour+butterfly) and [deceptive](https://www.google.com/search?tbm=isch&as_q=jewelled+spider) signal evolution. We are also interested in using urban environments as novel testing grounds for theory, and understanding the consequences of the human modification of sensory landscapes.
 
-### The evolution and maintenance of extreme variation
+### The evolutionary ecology of (mis)information
 
 <img src="{{ site.baseurl }}/assets/blog/res2.png" title="spiders" class="profile" style="float:right;">
 

@@ -15,9 +15,9 @@ permalink: /software/
 
 If you **need help** with the package, take a look at the [documentation](http://pavo.colrverse.) and [extended vignettes](http://pavo.colrverse.com/articles/pavo-1-overview.html), and keep an eye on the [latest news](http://pavo.colrverse.com/news/index.html) for changes. We're always happy to receive feedback and suggestions via personal email or the mailing list: [r-pavo@googlegroups.com](mailto:r-pavo@googlegroups.com). If you have a bug to report, we’d appreciate it if you could also include a reproducible example when possible.
 
-**Current release:** 2.4.0 (09/02/2020)
+**Current release:** 2.5.0 
 
-**Development version:** 2.5.0
+**Development version:** 2.6.0
 
 **Installation:** The current release of `pavo` is available on CRAN and can be installed using ```install.packages('pavo')``` within R. The bleeding-edge version is on [github](https://github.com/rmaia/pavo), and is most easily installed with the [remotes](https://github.com/hadley/devtools) package, by running ```remotes::install_github('rmaia/pavo')```.  
 
@@ -32,9 +32,9 @@ If you **need help** with the package, take a look at the [documentation](http:/
 
 `lightr` offers a unified, user-friendly interface for reading UV-VIS reflectance, transmittance, and/or absorbance spectral files and associated metadata from a suite of proprietary (and generally unfriendly) file formats, across all systems.
 
-**Current release:** 1.0 (29/01/2020)
+**Current release:** 1.3 
 
-**Development version:** 1.1  
+**Development version:** 1.4  
 
 **Installation** The current release of `lightr` is available on CRAN, and can be installed using ```install.packages('lightr')``` within R. The development version can be installed via [GitHub](https://github.com/ropensci/lightr) using ```remotes::install_github("ropensci/lightr")```.
 
