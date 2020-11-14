@@ -12,7 +12,7 @@ Butterworth NJ, White TE, Byrne PG, Wallman JF (preprint) Love at first flight: 
 
 ### 2020
 
-Whitney KD, Smith AK, White TE, Williams CF (in press) Birds perceive more intraspecific color variation in bird-pollinated than bee-pollinated flowers. [_Frontiers in Plant Science_](http://dx.doi.org/10.3389/fpls.2020.590347).  
+Whitney KD, Smith AK, Williams CF, White TE (in press) Birds perceive more intraspecific color variation in bird-pollinated than bee-pollinated flowers. [_Frontiers in Plant Science_](http://dx.doi.org/10.3389/fpls.2020.590347).  
 | [pdf]() |
 
 White TE, Latty T (2020) Flies improve the salience of iridescent sexual signals by orienting toward the sun. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/araa098), Advance Articles.  
