@@ -18,7 +18,7 @@ Whitney KD, Smith AK, White TE, Williams CF (2020) Birds perceive more intraspec
 White TE, Latty T (2020) Flies improve the salience of iridescent sexual signals by orienting toward the sun. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/araa098), Advance Articles.  
 | [pdf]({{ site.url }}/docs/white_latty_2020_flies_improve_the_salience_of_iridescent_sexual_signals_by_orienting_toward_the_sun.pdf) | [data](https://github.com/EaSElab-18/ms_sunnyflies) |
 
-Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, White TE, Hemmings FA, Moles AT. (2020) Macroecological patterns in flower colour are shaped by both biotic and abiotic factors. [_New Phytologist_](https://doi.org/10.1111/nph.16737).  
+Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, White TE, Hemmings FA, Moles AT. (2020) Macroecological patterns in flower colour are shaped by both biotic and abiotic factors. [_New Phytologist_](https://doi.org/10.1111/nph.16737) 228, 1701-1703.  
 | [pdf]({{ site.url }}/docs/dalrymple_et_al_2020_macroecological_patterns_in_flower_colour_are_shaped_by_both_biotic_and_abiotic_factors.pdf) |
 
 White TE, Kemp DJ (2020) Spider lures exploit insect preferences for floral colour and symmetry. [_Evolutionary Ecology_](https://doi.org/10.1007/s10682-020-10047-z) 34, 543-553.  
