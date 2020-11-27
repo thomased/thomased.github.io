@@ -7,6 +7,9 @@ permalink: /publications/
 
 ### preprint
 
+Kemp DJ, Edwards W, White TE (preprint) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Authorea_](https://doi.org/10.22541/au.160649117.73236330/v1)  
+| [pdf](https://doi.org/10.22541/au.160649117.73236330/v1) |
+
 Butterworth NJ, White TE, Byrne PG, Wallman JF (preprint) Love at first flight: Wing interference patterns are species-specific and sexually dimorphic in blowflies (Diptera: Calliphoridae). [_bioRxiv_](https://doi.org/10.1101/2020.02.18.948646).  
 | [pdf](https://doi.org/10.1101/2020.02.18.948646) |
 
