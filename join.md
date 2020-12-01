@@ -7,7 +7,7 @@ permalink: /join/
 
 <img src="{{ site.baseurl }}/assets/triplet.jpg"> 
 
-I am always happy to hear from students at all levels; from potential PhD's to undergraduates looking for hands-on experience. I have projects available (such as those below), or am open to any ideas that broadly align with the lab's [interests]({{ site.url }}/research). Feel free to take a look at some of our [work]({{ site.url }}/publications) and send me an email!
+I am always happy to hear from students at all levels; from potential PhD's to undergraduates looking for hands-on experience. I am open to any ideas that even vaguely align with the lab's [interests]({{ site.url }}/research), or have various pre-built projects available (such as those below). Feel free to take a look at some of our [work]({{ site.url }}/publications) and send me an email!
 
 ## Pathways
 
@@ -31,5 +31,5 @@ The world is awash with visual information, which animals must gather and exchan
 
 ***The urbanisation of sensory landscapes***
 
-Humans are altering the natural environment at an unprecedented scale. Though the most apparent changes are physical, they extend to the sensory world of the organisms occupying these newly-modified landscapes, with consequences for basic tasks such as finding food and mates, and avoiding death. We have an interest in unravelling the scope, magnitude, and consequences of these changes to sensory landscapes. Field-based and theoretical work may involve quantifying the structure of urban and natural environments and the boundaries between them. While lab-based experiments entail exploring the umwelt of model organisms---such as bees and butterflies---to understand their responses on ecological time-scales, and predict them at evolutionary scales.
+Humans are altering the natural environment at an unprecedented scale. Though the most apparent changes are physical, they extend to the sensory world of the organisms occupying these newly-modified landscapes, with consequences for basic tasks such as finding food and mates, and avoiding death. We have an interest in unravelling the scope, magnitude, and consequences of these changes to sensory landscapes. Field-based and theoretical work may involve quantifying the structure of urban and natural environments and the boundaries between them. While lab-based experiments entail exploring the 'umwelt' of model organisms to understand their responses on ecological time-scales, and predict them at evolutionary scales.
 
