@@ -29,3 +29,15 @@ Work is ongoing, and enquiries are particularly welcome, in the following genera
 
 The world is awash with visual information, which animals must gather and exchange in order to solve life's daily challenges. Yet basic features of this process and its evolutionary consequences remain a mystery. How can colour and motion advertise the 'quality' of potential mates, and how do viewers decide? Can animals create private channels of communication away from the prying eyes of predators and competitors? To what extent are organisms adapted to their local sensory environments? The questions are many and the ultimate direction of any project can be tailored to suit. Fieldwork involves spending time on Australia's beautiful beaches where the elaborate courtships and colourful signals of shore-dwelling flies serve as a model empirical context. While lab-based work entails analyses of behaviour, colour, and visual perception. Exciting opportunities for large-scale manipulative assays, comparative work, and experimental evolution also exist for longer-duration projects.
 
+***The social and sensory lives of ancient invertebrates***
+
+Velvet worms are a mysterious and charismatic group of basal invertebrates. Their predatory lifestyles and varied social lives raise fascinating questions about the origins of both group living and complex sensory systems. The questions are again myriad and can be guided by the interests of all involved. Fieldwork involves poking through logs and leaf-litter in some of Australia's most beautiful forests, while the lab tractability of velvets offers exciting opportunities for behavioural and physiological experiments.
+
+
+
+
+
+
+
+
+
