@@ -9,7 +9,9 @@ permalink: /software/
 **An R package for the organization, visualisation, and analysis of spectral and spatial colour data.**   
 [_Rafael Maia_](http://rafaelmaia.net), [_Hugo Gruson_](https://www.normalesup.org/~hgruson/), [_Thomas White_](https://tomwhite.io)
 
-<img src="{{ site.baseurl }}/assets/blog/jndplot.png" title="Profile" class="profile">  
+<p align="center">
+<img src="{{ site.baseurl }}/assets/tetra.gif" title="Profile" class="profile">  
+</p>
 
 `pavo` offers a flexible and integrated workflow for working with spectral and spatial colour data. It includes functions that take advantage of new data classes to work seamlessly from importing raw spectra and images, to publication-quality visualisations, and analyses via a suite of analytical methods and visual models.
 
