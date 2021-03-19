@@ -15,7 +15,7 @@ Kemp DJ, Edwards W, White TE (preprint) Captivating color: evidence for optimal 
 Saunders ME, Barton PS, Bickerstaff JRM, Frost L, Latty T, Lessard BD, Lowe EC, Rodriguez J, White TE, Umbers DKL (2021) Limited understanding of bushfire impacts on Australian invertebrates. [_Insect Conservation and Diversity_](https://dx.doi.org/10.1111/icad.12493).  
 | [pdf]({{ site.url }}/docs/saunders_et_al_2021_limited_understanding_of_bushfire_impacts_on_australian_invertebrates.pdf) |
 
-Butterworth NJ, White TE, Byrne PG, Wallman JF (2021) Love at first flight: Wing interference patterns are species-specific and sexually dimorphic in blowflies (Diptera: Calliphoridae). [_Journal of Evolutionary Biology_](http://dx.doi.org/10.1111/jeb.13759).  
+Butterworth NJ, White TE, Byrne PG, Wallman JF (2021) Love at first flight: Wing interference patterns are species-specific and sexually dimorphic in blowflies (Diptera: Calliphoridae). [_Journal of Evolutionary Biology_](http://dx.doi.org/10.1111/jeb.13759) 34:558-570.  
 | [pdf]({{ site.url }}/docs/butterworth_et_al_2021_love_at_first_flight.pdf) |
 
 ### 2020
