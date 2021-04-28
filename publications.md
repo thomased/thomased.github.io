@@ -13,7 +13,7 @@ Kemp DJ, Edwards W, White TE (preprint) Captivating color: evidence for optimal 
 ### 2021
 
 White TE, Umbers KDL (in press) Meta-analytic evidence for quantitative honesty in aposematic signals. [_Proceedings of the Royal Society B_](https://doi.org/10.1098/rspb.2021.0679) 288:20210679.  
-| pdf |
+| [pdf]({{ site.url }}/docs/white_umbers_2021_meta-analytic_evidence_for_quantitative_honesty_in_aposematic_signals.pdf) | [data](https://github.com/EaSElab-18/ms_metawarn) |
 
 Saunders ME, Barton PS, Bickerstaff JRM, Frost L, Latty T, Lessard BD, Lowe EC, Rodriguez J, White TE, Umbers DKL (2021) Limited understanding of bushfire impacts on Australian invertebrates. [_Insect Conservation and Diversity_](https://dx.doi.org/10.1111/icad.12493).  
 | [pdf]({{ site.url }}/docs/saunders_et_al_2021_limited_understanding_of_bushfire_impacts_on_australian_invertebrates.pdf) |
