@@ -7,10 +7,16 @@ permalink: /publications/
 
 ### preprint
 
+White TE, Locke A, Latty T (preprint) Heightened condition dependent expression of structural colouration in the faces, but not wings, of male and female flies. [_bioRxiv_]().  
+| [pdf]() |
+
 Kemp DJ, Edwards W, White TE (preprint) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Authorea_](https://doi.org/10.22541/au.160649117.73236330/v1).  
 | [pdf](https://doi.org/10.22541/au.160649117.73236330/v1) |
 
 ### 2021
+
+Ord TJ, Blazek K, White TW, Das I (2021) [_Conspicuous animal signals avoid the cost of predation by being intermittent or novel: confirmation in the wild using hundreds of robotic prey_](https://doi.org/10.1098/rspb.2021.0706) 288:20210706.  
+| [pdf]({{ site.url }}/docs/ord_et_al_2021_conspicuous_animal_signals_avoid_the_cost_of_predation_by_being_intermittent_or_novel.pdf) |
 
 White TE, Umbers KDL (2021) Meta-analytic evidence for quantitative honesty in aposematic signals. [_Proceedings of the Royal Society B_](https://doi.org/10.1098/rspb.2021.0679) 288:20210679.  
 | [pdf]({{ site.url }}/docs/white_umbers_2021_meta-analytic_evidence_for_quantitative_honesty_in_aposematic_signals.pdf) | [data](https://github.com/EaSElab-18/ms_metawarn) |
