@@ -13,7 +13,7 @@ Some areas of enduring interest include:
 
 All organisms need to gather and exchange information with the world at large, and we are broadly interested in understanding the mechanisms, causes and evolutionary consequences of this basic challenge. Current projects are focused on understanding how suites of traits coevolve to enable communication in 'noisy' natural environments, how the information encoded in diverse visual cues (colour, pattern, motion) is integrated to inform crucial decisions, and the vital role of communication in shaping local adaptation and survival amidst unpredictable environmental change. We also enjoy [testing and extending methods](http://dx.doi.org/10.1093/beheco/ary017) for analysing colour and vision in nature, as well as developing [software]({{ site.url }}/software) that improves the accessibility of such tools. 
 
-### Mis- and dis-information in nature
+### Dis- and misinformation in nature
 
 <img src="{{ site.baseurl }}/assets/blog/res2.png" title="spiders" class="profile" style="float:right;">
 
