@@ -55,3 +55,4 @@ If you **need help** with the package, take a look at the [documentation](http:/
 
 **Installation** This package is not yet published on CRAN, but can be installed via [GitHub](https://github.com/wviechtb/metadat) using ```remotes::install_github("wviechtb/metadat")```.
 
+Apologies, but have to run to teach. Thanks Scott & all - really appreciate it!
