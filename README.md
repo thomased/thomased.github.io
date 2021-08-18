@@ -1,6 +1,6 @@
 # tomwhite.io
 
-Personal site, based on a template from [Ben Centra](http://bencentra.com)
+My personal site, based on a template from [Ben Centra](http://bencentra.com)
 
 ## License
 
