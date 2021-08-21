@@ -34,9 +34,9 @@ If you **need help** with the package, take a look at the [documentation](http:/
 
 `lightr` offers a unified, user-friendly interface for reading UV-VIS reflectance, transmittance, and/or absorbance spectral files and associated metadata from a suite of proprietary (and generally unfriendly) file formats, across all systems.
 
-**Current release:** 1.4 
+**Current release:** 1.6.0  
 
-**Development version:** 1.5  
+**Development version:** 1.7.0  
 
 **Installation** The current release of `lightr` is available on CRAN, and can be installed using ```install.packages('lightr')``` within R. The development version can be installed via [GitHub](https://github.com/ropensci/lightr) using ```remotes::install_github("ropensci/lightr")```.
 
@@ -51,8 +51,10 @@ If you **need help** with the package, take a look at the [documentation](http:/
 
 `metadat` contains a large collection of meta-analysis datasets, useful for teaching purposes, illustrating/testing meta-analysis methods, and validating published analyses.
 
-**Development version:** 0.1  
+**Current release:** 1.0.0  
 
-**Installation** This package is not yet published on CRAN, but can be installed via [GitHub](https://github.com/wviechtb/metadat) using ```remotes::install_github("wviechtb/metadat")```.
+**Development version:** 1.1.0  
+
+**Installation** The current release of `metadat` is available on CRAN, and can be installed using ```install.packages('metadat')```. The development version is available via [GitHub](https://github.com/wviechtb/metadat) using ```remotes::install_github("wviechtb/metadat")```.
 
 Apologies, but have to run to teach. Thanks Scott & all - really appreciate it!
