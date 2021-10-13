@@ -7,13 +7,13 @@ permalink: /publications/
 
 ### preprint
 
-White TE, Locke A, Latty T (preprint) Heightened condition dependent expression of structural colouration in the faces, but not wings, of male and female flies. [_bioRxiv_](http://dx.doi.org/10.1101/2021.06.09.447681).  
-| [pdf](http://dx.doi.org/10.1101/2021.06.09.447681) |
-
 Kemp DJ, Edwards W, White TE (preprint) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Authorea_](https://doi.org/10.22541/au.160649117.73236330/v1).  
 | [pdf](https://doi.org/10.22541/au.160649117.73236330/v1) |
 
 ### 2021
+
+White TE, Locke A, Latty T (in press) Heightened condition dependent expression of structural colouration in the faces, but not wings, of male and female flies. [_Current Zoology_]().  
+| pdf |
 
 Herringe C, Boyd KC, Middleton EJ, Latty T, White TE (in press) The benefits and costs of social foraging in velvet worms. [_Ethology_]().  
 | pdf |
