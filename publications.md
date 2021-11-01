@@ -13,7 +13,7 @@ Kemp DJ, Edwards W, White TE (preprint) Captivating color: evidence for optimal 
 ### 2021
 
 White TE, Locke A, Latty T (2021) Heightened condition dependent expression of structural colouration in the faces, but not wings, of male and female flies. [_Current Zoology_](https://doi.org/10.1093/cz/zoab087).  
-| pdf |
+| pdf | [data](https://dx.doi.org/10.5281/zenodo.5610338)
 
 Herringe C, Boyd KC, Middleton EJ, Latty T, White TE (in press) The benefits and costs of social foraging in velvet worms. [_Ethology_]().  
 | pdf |
