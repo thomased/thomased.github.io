@@ -12,14 +12,14 @@ Kemp DJ, Edwards W, White TE (preprint) Captivating color: evidence for optimal 
 
 ### 2021
 
-White TE, Locke A, Latty T (2021) Heightened condition dependent expression of structural colouration in the faces, but not wings, of male and female flies. [_Current Zoology_](https://doi.org/10.1093/cz/zoab087).  
-| [pdf]({{ site.url }}/docs/white_et_al_2021_heightened_condition_dependent_expression_of_structural_coloration_in_the_faces,_but_not_wings,_of_male_and_female_flies.pdf) | [data](https://dx.doi.org/10.5281/zenodo.5610338) |
-
 Herringe C, Boyd KC, Middleton EJ, Latty T, White TE (in press) The benefits and costs of social foraging in velvet worms. [_Ethology_]().  
 | pdf |
 
 Tosetto L, Williamson JE, White TE, Hart N (in press) Can the dynamic colouration and patterning of bluelined goatfish (Mullidae; _Upeneichthys lineatus_) be perceived by conspecifics?. [_Brain Behaviour and Evolution_]().  
 | pdf |
+
+White TE, Locke A, Latty T (2021) Heightened condition dependent expression of structural colouration in the faces, but not wings, of male and female flies. [_Current Zoology_](https://doi.org/10.1093/cz/zoab087) 1-8.  
+| [pdf]({{ site.url }}/docs/white_et_al_2021_heightened_condition_dependent_expression_of_structural_coloration_in_the_faces,_but_not_wings,_of_male_and_female_flies.pdf) | [data](https://dx.doi.org/10.5281/zenodo.5610338) |
 
 Ord TJ, Blazek K, White TE, Das I (2021) Conspicuous animal signals avoid the cost of predation by being intermittent or novel: confirmation in the wild using hundreds of robotic prey. [_Proceedings of the Royal Society B_](https://dx.doi.org/10.1098/rspb.2021.0706) 288:20210706.  
 | [pdf]({{ site.url }}/docs/ord_et_al_2021_conspicuous_animal_signals_avoid_the_cost_of_predation_by_being_intermittent_or_novel.pdf) |
