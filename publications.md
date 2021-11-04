@@ -22,7 +22,7 @@ White TE, Locke A, Latty T (2021) Heightened condition dependent expression of s
 | [pdf]({{ site.url }}/docs/white_et_al_2021_heightened_condition_dependent_expression_of_structural_coloration_in_the_faces,_but_not_wings,_of_male_and_female_flies.pdf) | [data](https://dx.doi.org/10.5281/zenodo.5610338) |
 
 Ord TJ, Blazek K, White TE, Das I (2021) Conspicuous animal signals avoid the cost of predation by being intermittent or novel: confirmation in the wild using hundreds of robotic prey. [_Proceedings of the Royal Society B_](https://dx.doi.org/10.1098/rspb.2021.0706) 288:20210706.  
-| [pdf]({{ site.url }}/docs/ord_et_al_2021_conspicuous_animal_signals_avoid_the_cost_of_predation_by_being_intermittent_or_novel.pdf) |
+| [pdf]({{ site.url }}/docs/ord_et_al_2021_conspicuous_animal_signals_avoid_the_cost_of_predation_by_being_intermittent_or_novel.pdf) | [pdf](https://datadryad.org/stash/dataset/doi:10.5061/dryad.mkkwh70z5) |
 
 White TE, Umbers KDL (2021) Meta-analytic evidence for quantitative honesty in aposematic signals. [_Proceedings of the Royal Society B_](https://dx.doi.org/10.1098/rspb.2021.0679) 288:20210679.  
 | [pdf]({{ site.url }}/docs/white_umbers_2021_meta-analytic_evidence_for_quantitative_honesty_in_aposematic_signals.pdf) | [data](https://github.com/EaSElab-18/ms_metawarn) |
