@@ -13,7 +13,7 @@ Kemp DJ, Edwards W, White TE (preprint) Captivating color: evidence for optimal 
 ### 2021
 
 Herringe C, Boyd KC, Middleton EJ, Latty T, White TE (in press) The benefits and costs of social foraging in velvet worms. [_Ethology_]().  
-| pdf |
+| pdf | [data](https://doi.org/10.5281/zenodo.5610338) |
 
 Tosetto L, Williamson JE, White TE, Hart N (in press) Can the dynamic colouration and patterning of bluelined goatfish (Mullidae; _Upeneichthys lineatus_) be perceived by conspecifics?. [_Brain Behaviour and Evolution_]().  
 | pdf |
