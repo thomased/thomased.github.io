@@ -16,7 +16,7 @@ Herringe C, Boyd KC, Middleton EJ, Latty T, White TE (in press) The benefits and
 | pdf | [data](https://doi.org/10.5281/zenodo.5610338) |
 
 Tosetto L, Williamson JE, White TE, Hart N (in press) Can the dynamic colouration and patterning of bluelined goatfish (Mullidae; _Upeneichthys lineatus_) be perceived by conspecifics?. [_Brain Behaviour and Evolution_]().  
-| pdf |
+| [pdf]({{ site.url }}/docs/tosetto_et_al_2021_can_the_dynamic_colouration_and_patterning_of_bluelined_goatfish.pdf) |  
 
 White TE, Locke A, Latty T (2021) Heightened condition dependent expression of structural colouration in the faces, but not wings, of male and female flies. [_Current Zoology_](https://doi.org/10.1093/cz/zoab087) 1-8.  
 | [pdf]({{ site.url }}/docs/white_et_al_2021_heightened_condition_dependent_expression_of_structural_coloration_in_the_faces,_but_not_wings,_of_male_and_female_flies.pdf) | [data](https://dx.doi.org/10.5281/zenodo.5610338) |
