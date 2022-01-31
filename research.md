@@ -5,7 +5,7 @@ dispname: Research
 permalink: /research/
 ---
 
-**Information** is a central currency in ecology. Much of our work centres on understanding the ebb and flow of information in the natural world, and its profound behavioural and evolutionary consequences for organisms (including humans). Some areas of enduring interest include: 
+**Information** is a central currency in living systems. Our work centres on understanding the ebb and flow of information in the natural world, and its profound behavioural and evolutionary consequences for organisms (including humans). Some areas of enduring interest include: 
 
 ### Communication
 
