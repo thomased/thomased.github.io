@@ -5,10 +5,10 @@ dispname: Publications
 permalink: /publications/
 ---
 
-### preprint
+### 2022
 
-Kemp DJ, Edwards W, White TE (preprint) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Authorea_](https://doi.org/10.22541/au.160649117.73236330/v1).  
-| [pdf](https://doi.org/10.22541/au.160649117.73236330/v1) |
+Kemp DJ, Edwards W, White TE (in press) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Behavioural Ecology_]().  
+| [preprint](https://doi.org/10.22541/au.160649117.73236330/v1) |
 
 ### 2021
 
