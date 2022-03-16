@@ -7,6 +7,9 @@ permalink: /publications/
 
 ### 2022
 
+Grames EM, Montgomery GA, Boyes DH, Dicks LV, Forister ML, Matson TA, Nakagawa S, Prendergast KS, Taylor NG, Tingley M, Wagner DL, White TE, Woodcock P, Elphick CS (in press) A framework and case study to systematically identify long-term insect abundance and diversity datasets. [_Conservation Science and Practice_]().  
+| [pdf]() |
+
 Kemp DJ, Edwards W, White TE (in press) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Behavioural Ecology_]().  
 | [preprint](https://doi.org/10.22541/au.160649117.73236330/v1) |
 
