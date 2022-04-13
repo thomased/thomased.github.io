@@ -10,7 +10,7 @@ permalink: /publications/
 Kemp DJ, Edwards W, White TE (in press) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Behavioural Ecology_]().  
 | [preprint](https://doi.org/10.22541/au.160649117.73236330/v1) |
 
-Grames EM, Montgomery GA, Boyes DH, Dicks LV, Forister ML, Matson TA, Nakagawa S, Prendergast KS, Taylor NG, Tingley M, Wagner DL, White TE, Woodcock P, Elphick CS (2021) A framework and case study to systematically identify long-term insect abundance and diversity datasets. [_Conservation Science and Practice_](https://doi.org/10.1111/csp2.12687) _Early view_.  
+Grames EM, Montgomery GA, Boyes DH, Dicks LV, Forister ML, Matson TA, Nakagawa S, Prendergast KS, Taylor NG, Tingley M, Wagner DL, White TE, Woodcock P, Elphick CS (2021) A framework and case study to systematically identify long-term insect abundance and diversity datasets. [_Conservation Science and Practice_](https://doi.org/10.1111/csp2.12687) Early view.  
 | [pdf]({{ site.url }}/docs/grames_et_al_2022_a_framework_and_case_study_to_systematically_identify_long‐term_insect_abundance_and_diversity_datasets.pdf) |
 
 ### 2021
