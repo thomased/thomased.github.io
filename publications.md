@@ -7,6 +7,12 @@ permalink: /publications/
 
 ### 2022
 
+White TE, Latty T, Umbers KDL (in press) The exploitation of sexual signals by predators: a meta-analysis. [_Proceedings of the Royal Society B_]().  
+| [pdf]() | [data](https://github.com/EaSElab-18/ms_metarisk) |
+
+Drinkwater E, Allen WL, Endler JA, Hanlon RT, Holmes G, Homziak NT, Kang C, Leavell BC, Lehtonen J, Loeffler-Henry K, Ratcliffe J, Rowe C, Ruxton GD, Sherratt TN, Skelhorn J, Skojec C, Smart HR, White TE, Yack JE, Young CM, Umbers KDL. (in press) A synthesis of deimatic behaviour [_Biological Reviews_].  
+| [pdf]() |
+
 Kemp DJ, Edwards W, White TE (in press) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Behavioural Ecology_]().  
 | [preprint](https://doi.org/10.22541/au.160649117.73236330/v1) |
 
