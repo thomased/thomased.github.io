@@ -10,7 +10,7 @@ permalink: /publications/
 White TE, Latty T, Umbers KDL (in press) The exploitation of sexual signals by predators: a meta-analysis. [_Proceedings of the Royal Society B_]().  
 | pdf | [data](https://github.com/EaSElab-18/ms_metarisk) |
 
-Kemp DJ, Edwards W, White TE (in press) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/arac034) arac034.  
+Kemp DJ, Edwards W, White TE (2022) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/arac034) arac034.  
 | [pdf]({{ site.url }}/docs/kemp_et_al_2022_captivating_color) |
 
 Grames EM, Montgomery GA, Boyes DH, Dicks LV, Forister ML, Matson TA, Nakagawa S, Prendergast KS, Taylor NG, Tingley M, Wagner DL, White TE, Woodcock P, Elphick CS (2021) A framework and case study to systematically identify long-term insect abundance and diversity datasets. [_Conservation Science and Practice_](https://doi.org/10.1111/csp2.12687) Early view.  
