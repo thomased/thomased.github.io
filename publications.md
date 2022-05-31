@@ -7,9 +7,6 @@ permalink: /publications/
 
 ### 2022
 
-Drinkwater E, Allen WL, Endler JA, Hanlon RT, Holmes G, Homziak NT, Kang C, Leavell BC, Lehtonen J, Loeffler-Henry K, Ratcliffe J, Rowe C, Ruxton GD, Sherratt TN, Skelhorn J, Skojec C, Smart HR, White TE, Yack JE, Young CM, Umbers KDL. (in press) A synthesis of deimatic behaviour [_Biological Reviews_]().  
-| pdf |
-
 White TE, Latty T, Umbers KDL (2022) The exploitation of sexual signals by predators: a meta-analysis. [_Proceedings of the Royal Society B_](https://doi.org/10.1098/rspb.2022.0444) 289:20220444.  
 | [pdf]({{ site.url }}/docs/white_et_al_2022_the_exploitation_of_sexual_signals_by_predators.pdf) | [data](https://github.com/EaSElab-18/ms_metarisk) |
 
