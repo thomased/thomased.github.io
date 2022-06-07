@@ -7,16 +7,13 @@ permalink: /publications/
 
 ### 2022
 
-Drinkwater E, Allen WL, Endler JA, Hanlon RT, Holmes G, Homziak NT, Kang C, Leavell BC, Lehtonen J, Loeffler-Henry K, Ratcliffe J, Rowe C, Ruxton GD, Sherratt TN, Skelhorn J, Skojec C, Smart HR, White TE, Yack JE, Young CM, Umbers KDL. (in press) A synthesis of deimatic behaviour [_Biological Reviews_]().  
-| pdf |
-
 White TE, Latty T, Umbers KDL (2022) The exploitation of sexual signals by predators: a meta-analysis. [_Proceedings of the Royal Society B_](https://doi.org/10.1098/rspb.2022.0444) 289:20220444.  
 | [pdf]({{ site.url }}/docs/white_et_al_2022_the_exploitation_of_sexual_signals_by_predators.pdf) | [data](https://github.com/EaSElab-18/ms_metarisk) |
 
 Kemp DJ, Edwards W, White TE (2022) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/arac034) arac034.  
 | [pdf]({{ site.url }}/docs/kemp_et_al_2022_captivating_color.pdf) |
 
-Grames EM, Montgomery GA, Boyes DH, Dicks LV, Forister ML, Matson TA, Nakagawa S, Prendergast KS, Taylor NG, Tingley M, Wagner DL, White TE, Woodcock P, Elphick CS (2021) A framework and case study to systematically identify long-term insect abundance and diversity datasets. [_Conservation Science and Practice_](https://doi.org/10.1111/csp2.12687) Early view.  
+Grames EM, Montgomery GA, Boyes DH, Dicks LV, Forister ML, Matson TA, Nakagawa S, Prendergast KS, Taylor NG, Tingley M, Wagner DL, White TE, Woodcock P, Elphick CS (2021) A framework and case study to systematically identify long-term insect abundance and diversity datasets. [_Conservation Science and Practice_](https://doi.org/10.1111/csp2.12687) 4:e12687.  
 | [pdf]({{ site.url }}/docs/grames_et_al_2022_a_framework_and_case_study_to_systematically_identify_long‐term_insect_abundance_and_diversity_datasets.pdf) |
 
 ### 2021
