@@ -11,7 +11,7 @@ Drinkwater E, Allen WL, Endler JA, Hanlon RT, Holmes G, Homziak NT, Kang C, Leav
 | pdf |
 
 Vanderstock A, Grandi-Nagashiro C, Kudo G, Latty T, Nakamura S, White TE, Soga M (2022) For the love of insects: gardening grows positive emotions (biophilia) towards invertebrates [_Journal of Insect Conservation_](https://doi.org/10.1007/s10841-022-00419-x)  
-| [pdf]({{ site.url }}/docs/vanderstock_et_al_2022_for_the_love_of_insects.pdf |
+| [pdf]({{ site.url }}/docs/vanderstock_et_al_2022_for_the_love_of_insects.pdf) |
 
 White TE, Latty T, Umbers KDL (2022) The exploitation of sexual signals by predators: a meta-analysis. [_Proceedings of the Royal Society B_](https://doi.org/10.1098/rspb.2022.0444) 289:20220444.  
 | [pdf]({{ site.url }}/docs/white_et_al_2022_the_exploitation_of_sexual_signals_by_predators.pdf) | [data](https://github.com/EaSElab-18/ms_metarisk) |
