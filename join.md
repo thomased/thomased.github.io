@@ -7,7 +7,7 @@ permalink: /join/
 
 <img src="{{ site.baseurl }}/assets/triplet.jpg"> 
 
-I am always happy to hear from students at all levels; from potential PhD's to undergraduates looking for hands-on experience. I am open to any ideas that even vaguely align with the lab's [interests]({{ site.url }}/research), or have various pre-built projects available (such as those below). Feel free to take a look at some of our [work]({{ site.url }}/publications) and send me an email!
+I am always happy to hear from students & researchers at all levels; from potential PhD's to undergraduates looking for hands-on experience. I am open to any ideas that even vaguely align with the lab's [interests]({{ site.url }}/research), or have various pre-built projects available (such as those sketched below). Feel free to take a look at some of our [work]({{ site.url }}/publications) and send me an email!
 
 ## Pathways
 
