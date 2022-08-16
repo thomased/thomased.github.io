@@ -27,11 +27,11 @@ Work is ongoing, and enquiries are particularly welcome, in the following genera
 
 ***Communication, colour, courtship, and adaptation in the wild***
 
-This work will use beach-dwelling flies to ask how organisms gather and exchange information in order to solve life's daily challenges, and how environments define the sensory context in which these processes operate and evolve. The questions are many, and can entail fieldwork on our beautiful beaches, and/or lab- or computational analyses of behaviour, physiology, and visual perception.
+This work uses beach-dwelling flies to ask how organisms gather and exchange information to solve life's daily challenges, and how environments define the sensory context in which these processes operate and evolve. The questions are many, and entail fieldwork on our beautiful beaches, and/or lab- or computational analyses of behaviour, physiology, and visual perception.
 
 ***Illuminating the visual world of pollinators***
 
-This work will use field and/or laboratory experiments to understand how key pollinators —-- such as butterflies, bees, and flies --- use colour, brightness, and motion cues to make their way in the world. The questions and methods are myriad, and can be tailored to the interests of all involved.
+This work uses field and/or laboratory experiments to understand how key pollinators —-- such as butterflies, bees, and flies --- use colour, brightness, and motion cues to make their way in the world. The questions and methods are myriad, and can be tailored to the interests of all involved.
 
 
 
