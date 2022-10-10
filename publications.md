@@ -10,6 +10,9 @@ permalink: /publications/
 Vanderstock A, White TE, Latty T (preprint) No spillover of flower-visiting insects between community gardens and forest fragments in the city.  
 | [pdf](https://doi.org/10.21203/rs.3.rs-1747179/v1) |
 
+Lownds RM, Turbill C, White TE, Umbers KDL (preprint) The impact of elevated aestivation temperatures on the behaviour of Bogong Moths (_Agrotis infusa_)  
+| [pdf](https://doi.org/10.1101/2022.10.03.510708) |
+
 ### 2022
 
 Drinkwater E, Allen WL, Endler JA, Hanlon RT, Holmes G, Homziak NT, Kang C, Leavell BC, Lehtonen J, Loeffler-Henry K, Ratcliffe J, Rowe C, Ruxton GD, Sherratt TN, Skelhorn J, Skojec C, Smart HR, White TE, Yack JE, Young CM, Umbers KDL. (2022) A synthesis of deimatic behaviour [_Biological Reviews_](http://doi.org/10.1111/brv.12891 ).  
