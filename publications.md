@@ -15,7 +15,7 @@ Lownds RM, Turbill C, White TE, Umbers KDL (preprint) The impact of elevated aes
 
 ### 2022
 
-Drinkwater E, Allen WL, Endler JA, Hanlon RT, Holmes G, Homziak NT, Kang C, Leavell BC, Lehtonen J, Loeffler-Henry K, Ratcliffe J, Rowe C, Ruxton GD, Sherratt TN, Skelhorn J, Skojec C, Smart HR, White TE, Yack JE, Young CM, Umbers KDL. (2022) A synthesis of deimatic behaviour [_Biological Reviews_](http://doi.org/10.1111/brv.12891).  
+Drinkwater E, Allen WL, Endler JA, Hanlon RT, Holmes G, Homziak NT, Kang C, Leavell BC, Lehtonen J, Loeffler-Henry K, Ratcliffe J, Rowe C, Ruxton GD, Sherratt TN, Skelhorn J, Skojec C, Smart HR, White TE, Yack JE, Young CM, Umbers KDL. (2022) A synthesis of deimatic behaviour [_Biological Reviews_](http://doi.org/10.1111/brv.12891) 97:2237-2267.  
 | [pdf]({{ site.url }}/docs/drinkwater_et_al_2022_a_synthesis_of_deimatic_behaviour.pdf) |
 
 Vanderstock A, Grandi-Nagashiro C, Kudo G, Latty T, Nakamura S, White TE, Soga M (2022) For the love of insects: gardening grows positive emotions (biophilia) towards invertebrates [_Journal of Insect Conservation_](https://doi.org/10.1007/s10841-022-00419-x) 26:751–762.  
