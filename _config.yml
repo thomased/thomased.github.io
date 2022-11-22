@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Evolutionary and Sensory Ecology
+title: Sensory and Evolutionary Ecology (SEE)
 subtitle: "Thomas E. White"
 email: thomas.white@sydney.edu.au
 name: Thomas E. White
 description: >
-  Evolutionary and Sensory Ecology
+  Sensory and Evolutionary Ecology (SEE)
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
