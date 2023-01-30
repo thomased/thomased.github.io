@@ -9,7 +9,7 @@ permalink: /values/
 
 ## Our ethos, in short
 
-(1) **Questions over organisms**. We work with a wonderful array of living things, and the world of invertebrates is an enduring source of inspiration, but it is questions that ultimately drive our work.
+(1) **Organisms inspire us, but questions drive us**. We work with a wonderful array of living things, and the world of invertebrates is an enduring source of inspiration, but it is questions that ultimately motivate our work.
 
 (2) **Be kind, supportive, and generous**. We share knowledge, ideas, time, resources, and tools freely wherever possible. This extends not only to the lab, but as active members of [SOLES](https://sydney.edu.au/science/schools/school-of-life-and-environmental-sciences.html) and the community at large. Collaboration is a far more productive force than competition and there are too many interesting questions to be answered to waste time defending intellectual turf.
 
