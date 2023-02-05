@@ -7,7 +7,7 @@ permalink: /publications/
 
 ### Preprint
 
-van den Berg CP,  Condon ND, Conradsen CI,  White TE, Cheney KL (preprint) Automated workflows using Quantitative Colour Pattern Analysis (QCPA): A guide to batch processing and downstream data analysis  
+van den Berg CP, Condon ND, Conradsen CI, White TE, Cheney KL (preprint) Automated workflows using Quantitative Colour Pattern Analysis (QCPA): A guide to batch processing and downstream data analysis  
 | [pdf](https://doi.org/10.1101/2023.02.02.526788) |
 
 Vanderstock A, White TE, Latty T (preprint) No spillover of flower-visiting insects between community gardens and forest fragments in the city.  
