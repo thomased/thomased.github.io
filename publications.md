@@ -7,6 +7,9 @@ permalink: /publications/
 
 ### Preprint
 
+van den Berg CP,  Condon ND, Conradsen CI,  White TE, Cheney KL (preprint) Automated workflows using Quantitative Colour Pattern Analysis (QCPA): A guide to batch processing and downstream data analysis  
+| [pdf](https://doi.org/10.1101/2023.02.02.526788) |
+
 Vanderstock A, White TE, Latty T (preprint) No spillover of flower-visiting insects between community gardens and forest fragments in the city.  
 | [pdf](https://doi.org/10.21203/rs.3.rs-1747179/v1) |
 
@@ -29,7 +32,7 @@ Vanderstock A, Grandi-Nagashiro C, Kudo G, Latty T, Nakamura S, White TE, Soga M
 White TE, Latty T, Umbers KDL (2022) The exploitation of sexual signals by predators: a meta-analysis. [_Proceedings of the Royal Society B_](https://doi.org/10.1098/rspb.2022.0444) 289:20220444.  
 | [pdf]({{ site.url }}/docs/white_et_al_2022_the_exploitation_of_sexual_signals_by_predators.pdf) |
 
-Kemp DJ, Edwards W, White TE (2022) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/arac034) arac034.  
+Kemp DJ, Edwards W, White TE (2022) Captivating color: evidence for optimal stimulus design in a polymorphic prey lure. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/arac034) 33:670-679.  
 | [pdf]({{ site.url }}/docs/kemp_et_al_2022_captivating_color.pdf) |
 
 Grames EM, Montgomery GA, Boyes DH, Dicks LV, Forister ML, Matson TA, Nakagawa S, Prendergast KS, Taylor NG, Tingley M, Wagner DL, White TE, Woodcock P, Elphick CS (2021) A framework and case study to systematically identify long-term insect abundance and diversity datasets. [_Conservation Science and Practice_](https://doi.org/10.1111/csp2.12687) 4:e12687.  
