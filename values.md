@@ -32,4 +32,4 @@ Everyone deserves to enjoy their time unhindered by unnecessary challenges. No-o
 
 ## Work and health 
 
-We are all self-motivated and get our work done, so lab members set their own working hours. I only ask that everyone be available for lab meetings, seminars, and other school, university, community-related events whenever possible. Everyone is free to send messages at any time with no expectation to receive a reply outside of others' normal working hours.
+We are all self-motivated and get our work done so members set their own working hours when not in the laboratory (which is business hours only). I only ask that everyone be available for lab meetings, seminars, and other school, university, community-related events whenever possible. Everyone is free to send messages at any time with no expectation to receive a reply outside of others' normal working hours.
