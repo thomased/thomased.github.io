@@ -16,7 +16,7 @@ Vanderstock A, White TE, Latty T (preprint) No spillover of flower-visiting inse
 ### 2023
 
 Lownds RM, Turbill C, White TE, Umbers KDL (2023) The impact of elevated aestivation temperatures on the behaviour of Bogong Moths (_Agrotis infusa_). [_Journal of Thermal Biology_](https://doi.org/10.1016/j.jtherbio.2023.103538) 113:103538.  
-| [pdf]({{ site.url }}/docs/lownds_et_al_2023_the_impact_of_elevated_aestivation_temperatures_on_the_behaviour_of_bogong_moths_agrotis_infusa) |
+| [pdf]({{ site.url }}/docs/lownds_et_al_2023_the_impact_of_elevated_aestivation_temperatures_on_the_behaviour_of_bogong_moths_agrotis_infusa.pdf) |
 
 Forster CY, Mourmourakis F, Hochuli DF, White TE, Latty T, Gloag R (2023) Flower choice by the stingless bee _Tetragonula carbonaria_ is not influenced by colour-similarity to a higher-reward flower in the same patch [_Apidologie_](https://doi.org/10.1007/s13592-023-00997-y) 54:16.  
 | [pdf]({{ site.url }}/docs/forster_2023_flower_choice_by_the_stingless_bee.pdf) |
