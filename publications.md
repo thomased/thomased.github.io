@@ -13,10 +13,10 @@ van den Berg CP, Condon ND, Conradsen CI, White TE, Cheney KL (preprint) Automat
 Vanderstock A, White TE, Latty T (preprint) No spillover of flower-visiting insects between community gardens and forest fragments in the city.  
 | [pdf](https://doi.org/10.21203/rs.3.rs-1747179/v1) |
 
-Lownds RM, Turbill C, White TE, Umbers KDL (preprint) The impact of elevated aestivation temperatures on the behaviour of Bogong Moths (_Agrotis infusa_)  
-| [pdf](https://doi.org/10.1101/2022.10.03.510708) |
-
 ### 2023
+
+Lownds RM, Turbill C, White TE, Umbers KDL (2023) The impact of elevated aestivation temperatures on the behaviour of Bogong Moths (_Agrotis infusa_). [_Journal of Thermal Biology_](https://doi.org/10.1016/j.jtherbio.2023.103538) 113:103538.  
+| [pdf]({{ site.url }}/docs/lownds_et_al_2023_the_impact_of_elevated_aestivation_temperatures_on_the_behaviour_of_bogong_moths_(agrotis_infusa)) |
 
 Forster CY, Mourmourakis F, Hochuli DF, White TE, Latty T, Gloag R (2023) Flower choice by the stingless bee _Tetragonula carbonaria_ is not influenced by colour-similarity to a higher-reward flower in the same patch [_Apidologie_](https://doi.org/10.1007/s13592-023-00997-y) 54:16.  
 | [pdf]({{ site.url }}/docs/forster_2023_flower_choice_by_the_stingless_bee.pdf) |
