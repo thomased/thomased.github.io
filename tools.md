@@ -9,26 +9,26 @@ We often build our own bits & pieces for experiments, which is made even simpler
 ## Choice arena  
 
 <p align="right">
-<img src="{{ site.baseurl }}/tools/col_arena.png" title="Profile" class="profile">  
+<img src="{{ site.baseurl }}/tools/col_arena.png" title="Arena" class="profile">  
 </p>
 
 A small arena with slots in the walls to hold 30 mm pieces of card. Useful for walking colour/stimulus choice assays. The download includes a six-card and eight-card version.
 
-**[Download]({{ site.url }}/tools/col_arena.zip)** (.zip file)
-  - col_arena_6.sty: six-card version of the arena
-  - col_arena_8.sty: eight-card version of the arena
-  
+**[Download]({{ site.url }}/tools/col_arena.zip)** (.zip file) contains:
+  - col_arena_6.sty: six-card version of the arena.
+  - col_arena_8.sty: eight-card version of the arena.
+
 ---
 
 ## Artificial 'flowers' with base
 
 <p align="right">
-<img src="{{ site.baseurl }}/tools/flowers.png" title="Profile" class="profile">  
+<img src="{{ site.baseurl }}/tools/flowers.png" title="Flowers" class="profile">  
 </p>
 
 A set of nine 'flower' discs and a base to hold them. Can be topped with coloured card for flying choice assays for various pollinators. Note the flowers have a small well in the centre, for holding liquids or materials (like cotton) to wick liquids. The flowers and base are included separately.
 
-**[Download]({{ site.url }}/tools/flowers.zip)** (.zip file)
+**[Download]({{ site.url }}/tools/flowers.zip)** (.zip file) contains:
   - flower_base.sty: the nine-hole base.
   - flower_set.sty: set of nine 'flowers', as depicted.
 
