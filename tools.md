@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Software
-dispname: Software
-permalink: /software/
+title: Tools
+dispname: Tools
+permalink: /tools/
 ---
 We often build our own bits & pieces for experiments, which is made even simpler with the help of 3D printing. Below are some things I've created that might be of use to others. For 3D printable models I've included the style (.sty) files, which are ready to be edited (if desired), 'sliced', and sent to your printer of choice.
 
