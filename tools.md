@@ -4,7 +4,7 @@ title: Tools
 dispname: Tools
 permalink: /tools/
 ---
-We often build our own bits & pieces for experiments, which is made even simpler with the help of 3D printing. Below are some things I've created that might be of use to others. For 3D printable models I've included the style (.sty) files, which are ready to be edited (if desired), 'sliced', and sent to your printer of choice.
+We often build our own bits & pieces for experiments, which is made even simpler with the help of 3D printing. Below are some things I've created that might be of use. For 3D printable models I've included the style (.sty) files, which are ready to be edited (if desired), 'sliced', and sent to your printer of choice.
 
 ## Stimulus-choice arena  
 
@@ -16,7 +16,7 @@ A small arena with slots in the walls to hold 30 mm pieces of card. Useful for w
 
 **Downloads** (right-click to 'save as')
 - [Base]({{ site.url }}/tools/flower_base.sty) (.sty)
-- [Set of nine flowers]({{ site.url }}/tools/flower_set.sty) (.sty)
+- [Set of nine flowers]({{ site.url }}/tools/col_arena.zip) (.sty)
 ---
 
 ## Artificial 'flowers' with base
