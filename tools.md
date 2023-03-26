@@ -14,9 +14,9 @@ We often build our own bits & pieces for experiments, which is made even simpler
 
 A small arena with slots in the walls to hold 30 mm pieces of card. Useful for walking colour/stimulus choice assays.
 
-**Downloads** (right-click to 'save as')
+**Download** (.zip file)
 - [Base]({{ site.url }}/tools/flower_base.sty) (.sty)
-- [Set of nine flowers]({{ site.url }}/tools/col_arena.zip) (.sty)
+- [Set of nine flowers]({{ site.url }}/tools/col_arena.zip) (.zip)
 ---
 
 ## Artificial 'flowers' with base
