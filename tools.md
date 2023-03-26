@@ -15,7 +15,7 @@ We often build our own bits & pieces for experiments, which is made even simpler
 <img src="{{ site.baseurl }}/tools/col_arena.png" title="Arena" class="profile">  
 </p>
 
-A small arena with slots in the walls to hold 30 mm pieces of card. Useful for walking colour/stimulus choice assays. The download includes a six-card and eight-card version.
+A small arena with slots in the walls to hold 30 mm<sup>2</sup> pieces of card. Useful for walking colour/stimulus choice assays. The download includes a six-card and eight-card version.
 
 **[Download]({{ site.url }}/tools/col_arena.zip)** (.zip file) contains:
   - col_arena_6.sty: six-card version of the arena.
