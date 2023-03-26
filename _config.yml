@@ -1,9 +1,8 @@
 # External gems
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
-  #- jekyll-archives # Sorry, not GitHub pages friendly!
 
 exclude:
   - "/vendor/"
