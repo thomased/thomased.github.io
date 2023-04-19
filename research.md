@@ -21,7 +21,7 @@ Deception and misinformation is rife in the natural world, including (and increa
 
 ### Pollinators in natural and managed systems
 
-<img src="{{ site.baseurl }}/assets/blog/musca.png" title="musca" class="profile" style="float:right;">
+<img src="{{ site.baseurl }}/assets/musca.png" title="musca" class="profile" style="float:right;">
 
 How do flower-visiting insects find, select, and remember floral resources? Can pollinators weigh information across modalities to overcome noise? What is the value of lesser-studied systems, like syrphid and muscid flies, to crop pollination? We are keen to understand the role of non-traditional insects as pollinators, from both fundamental and applied perspectives. Current projects span floral foraging and sensory ecology in flies and butterflies, and how cues across modalities reinforce and/or interfere to affect decision-making.
 
