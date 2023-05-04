@@ -21,7 +21,7 @@ Lownds RM, Turbill C, White TE, Umbers KDL (2023) The impact of elevated aestiva
 Forster CY, Mourmourakis F, Hochuli DF, White TE, Latty T, Gloag R (2023) Flower choice by the stingless bee _Tetragonula carbonaria_ is not influenced by colour-similarity to a higher-reward flower in the same patch [_Apidologie_](https://doi.org/10.1007/s13592-023-00997-y) 54:16.  
 | [pdf]({{ site.url }}/docs/forster_2023_flower_choice_by_the_stingless_bee.pdf) |
 
-Forster CY, Hochuli DF, Keith RJ, Latty T, White TE, Middleton EJT (2023) Social media conservation messaging mirrors age-old taxonomic biases in public domain [_Austral Ecology_](https://dx.doi.org/10.1111/aec.13288).  
+Forster CY, Hochuli DF, Keith RJ, Latty T, White TE, Middleton EJT (2023) Social media conservation messaging mirrors age-old taxonomic biases in public domain [_Austral Ecology_](https://dx.doi.org/10.1111/aec.13288) 48:687-698.  
 | [pdf]({{ site.url }}/docs/forster_et_al_2023_social_media_conservation_messaging_mirrors_age‐old_taxonomic_biases_in_public_domain.pdf) | 
 
 ### 2022
