@@ -15,6 +15,9 @@ Vanderstock A, White TE, Latty T (preprint) No spillover of flower-visiting inse
 
 ### 2023
 
+White TE, Latty T, Umbers KDL (2022) Invited reply to comment on "The exploitation of sexual signals by predators: a meta-analysis" [_Proceedings of the Royal Society B_](https://doi.org/10.1098/rspb.2023.0243) 290:20230243.  
+| [pdf]({{ site.url }}/docs/white_et_al_2022_an_invited_reply_to.pdf) |
+
 Lownds RM, Turbill C, White TE, Umbers KDL (2023) The impact of elevated aestivation temperatures on the behaviour of Bogong Moths (_Agrotis infusa_). [_Journal of Thermal Biology_](https://doi.org/10.1016/j.jtherbio.2023.103538) 113:103538.  
 | [pdf]({{ site.url }}/docs/lownds_et_al_2023_the_impact_of_elevated_aestivation_temperatures_on_the_behaviour_of_bogong_moths_agrotis_infusa.pdf) |
 
