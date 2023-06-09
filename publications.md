@@ -15,7 +15,10 @@ Vanderstock A, White TE, Latty T (preprint) No spillover of flower-visiting inse
 
 ### 2023
 
-White TE, Latty T, Umbers KDL (2022) Invited reply to comment on "The exploitation of sexual signals by predators: a meta-analysis" [_Proceedings of the Royal Society B_](https://doi.org/10.1098/rspb.2023.0243) 290:20230243.  
+Webster GN, White TE, Whiting MJ (2023) Male nuptial display colour and vocalisation appear to signal independent information in the whirring tree frog. [_Behavioral Ecology and Sociobiology_](https://doi.org/10.1007/s00265-023-03343-5) 77:68.  
+| [pdf]({{ site.url }}/docs/webster_et_al_2023_male_nuptial_display_colour_and_vocalisation_appear_to_signal_independent_information_in_the_whirring_tree_frog.pdf) |
+
+White TE, Latty T, Umbers KDL (2023) Invited reply to comment on "The exploitation of sexual signals by predators: a meta-analysis" [_Proceedings of the Royal Society B_](https://doi.org/10.1098/rspb.2023.0243) 290:20230243.  
 | [pdf]({{ site.url }}/docs/white_et_al_2022_an_invited_reply_to.pdf) |
 
 Lownds RM, Turbill C, White TE, Umbers KDL (2023) The impact of elevated aestivation temperatures on the behaviour of Bogong Moths (_Agrotis infusa_). [_Journal of Thermal Biology_](https://doi.org/10.1016/j.jtherbio.2023.103538) 113:103538.  
