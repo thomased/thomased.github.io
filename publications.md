@@ -15,6 +15,9 @@ Vanderstock A, White TE, Latty T (preprint) No spillover of flower-visiting inse
 
 ### 2023
 
+Forster CY, Middleton EJT, Gloag R, Hochuli DF, White TE, Latty T (2023) Impact of empty flowers on foraging choice and movement within floral patches by the honey bee, _Apis mellifera_ [_Insectes Socieaux_]](https://doi.org/10.1007/s00040-023-00934-3).  
+| [pdf]() |
+
 Webster GN, White TE, Whiting MJ (2023) Male nuptial display colour and vocalisation appear to signal independent information in the whirring tree frog. [_Behavioral Ecology and Sociobiology_](https://doi.org/10.1007/s00265-023-03343-5) 77:68.  
 | [pdf]({{ site.url }}/docs/webster_et_al_2023_male_nuptial_display_colour_and_vocalisation_appear_to_signal_independent_information_in_the_whirring_tree_frog.pdf) |
 
