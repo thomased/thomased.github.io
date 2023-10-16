@@ -16,7 +16,7 @@ Vanderstock A, White TE, Latty T (preprint) No spillover of flower-visiting inse
 ### 2023
 
 McCormick J, Middleton E, White TE, Latty T (in press) Information cascades spread adaptive and maladaptive behaviours in group living animals. [_Animal Behavior_]().  
-|  [pdf]()  |
+| [pdf]() |
 
 Forster CY, Middleton EJT, Gloag R, Hochuli DF, White TE, Latty T (in press) Impact of empty flowers on foraging choice and movement within floral patches by the honey bee, _Apis mellifera_. [_Insectes Socieaux_](https://doi.org/10.1007/s00040-023-00934-3).  
 | [pdf]({{ site.url }}/docs/forster_et_al_2023_impact_of_empty_flowers_on_foraging_choice_and_movement_within_floral_patches.pdf) |
