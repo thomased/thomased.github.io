@@ -25,7 +25,7 @@ Below are some recent examples of our efforts. Tom is available for freelance sc
 
 ## News & interviews
 
-Radio ~ ABC NSW Drive | ABC Pilbara | ABC Newcastle | 6PR Breakfast | 2ser | RTRFM |
+Radio ~ ABC NSW Drive  |  ABC Pilbara  |  ABC Newcastle  |  6PR Breakfast  |  2ser  |  RTRFM  |
 
 [Warmer weather and a drenching of rain has made Sydney a fly utopia, scientists say.](https://www.abc.net.au/news/2023-10-08/nsw-flies-inundate-sydney-due-to-early-summer/102940464) _ABC News_.
 
