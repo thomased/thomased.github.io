@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Media
-dispname: zMedia
+title: zMedia
+dispname: Media
 permalink: /media/
 ---
 
