@@ -7,6 +7,15 @@ plugins:
 exclude:
   - "/vendor/"
 
+nav_order:
+  - Research
+  - Publication
+  - People
+  - Join!
+  - Media
+  - Tools
+  - Values
+
 # Site settings
 title: Sensory and Evolutionary Ecology (SEE)
 subtitle: "Thomas E. White"

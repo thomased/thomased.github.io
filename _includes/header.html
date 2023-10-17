@@ -12,9 +12,12 @@
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-        {% for page in site.pages %}
-          {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% for title in site.nav_order %}
+          {% assign page = site.pages | where: "title", title | first %}
+          {% if page and page.main_nav != false %}
+            <li class="nav-link">
+              <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            </li>
           {% endif %}
         {% endfor %}
       </ul>
