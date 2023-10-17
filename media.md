@@ -7,7 +7,7 @@ permalink: /media/
 
 We are keen to spread the word about the incredible invertebrates which which we share our world! 
 
-Below are some recent examples of our efforts, and Tom is available for freelance science writing and consulting, as well as chats for radio, TV, and podcasts.
+Below are some recent examples, and Tom is available for freelance science writing and consulting, as well as chats for radio, TV, and podcasts.
 
 ---
 
