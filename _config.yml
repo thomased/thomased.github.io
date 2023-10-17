@@ -7,15 +7,6 @@ plugins:
 exclude:
   - "/vendor/"
 
-nav_order:
-  - Research
-  - Publications
-  - People
-  - Join!
-  - Media
-  - Tools
-  - Values
-
 # Site settings
 title: Sensory and Evolutionary Ecology (SEE)
 subtitle: "Thomas E. White"
@@ -38,6 +29,15 @@ paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
+nav_order:
+  - Research
+  - Publications
+  - People
+  - Join!
+  - Media
+  - Tools
+  - Values
+  
 # Social icons and sharing options
 social:
   - name: GitHub
