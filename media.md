@@ -13,7 +13,7 @@ Below are some recent examples of our efforts, and Tom is available for freelanc
 
 ## Writing
   
-[Fly season: what to know about Australia’s most common flies and how to keep them away.](https://theconversation.com/fly-season-what-to-know-about-australias-most-common-flies-and-how-to-keep-them-away-215335) _The Conversation_, also at [_The Guardian_](https://www.theguardian.com/environment/2023/oct/17/shoo-fly-dont-bother-me-australias-most-common-flies-and-how-to-keep-them-away-this-summer).
+[Fly season: what to know about Australia’s most common flies and how to keep them away.](https://theconversation.com/fly-season-what-to-know-about-australias-most-common-flies-and-how-to-keep-them-away-215335) _The Conversation_, also at [_The Guardian_](https://www.theguardian.com/environment/2023/oct/17/shoo-fly-dont-bother-me-australias-most-common-flies-and-how-to-keep-them-away-this-summer) and [ABC News](https://www.abc.net.au/news/2023-10-17/fly-season-australias-most-common-flies-and-how-keep-them-away/102985418).
 
 [Organisms without brains can learn, too – so what does it mean to be a thinking creature?](https://theconversation.com/organisms-without-brains-can-learn-too-so-what-does-it-mean-to-be-a-thinking-creature-214275) _The Conversation_, also at [_Australian Geographic_](https://www.australiangeographic.com.au/news/2023/10/organisms-without-brains-can-learn-study-finds/#:~:text=What%20does%20it%20mean%20to,and%20flourish%20in%20unpredictable%20environments.).
 
