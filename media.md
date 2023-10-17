@@ -15,7 +15,7 @@ Below are some recent examples of our efforts. Tom is available for freelance sc
   
 [Fly season: what to know about Australia’s most common flies and how to keep them away.](https://theconversation.com/fly-season-what-to-know-about-australias-most-common-flies-and-how-to-keep-them-away-215335) _The Conversation_.
 
-[Organisms without brains can learn, too – so what does it mean to be a thinking creature?](https://theconversation.com/organisms-without-brains-can-learn-too-so-what-does-it-mean-to-be-a-thinking-creature-214275) _The Conversation_ , also at _Australian Geographic_.
+[Organisms without brains can learn, too – so what does it mean to be a thinking creature?](https://theconversation.com/organisms-without-brains-can-learn-too-so-what-does-it-mean-to-be-a-thinking-creature-214275) _The Conversation_, also at _Australian Geographic_.
 
 [In the animal kingdom, mating calls and pheromones can attract a mate – or a canny predator.](https://theconversation.com/in-the-animal-kingdom-mating-calls-and-pheromones-can-attract-a-mate-or-a-canny-predator-184011) _The Conversation_.
 
@@ -24,8 +24,6 @@ Below are some recent examples of our efforts. Tom is available for freelance sc
 ---
 
 ## News & interviews
-  
-ABC NSW Drive  |  ABC Pilbara  |  ABC Newcastle  |  6PR Breakfast  |  2ser  |  RTRFM  |
 
 [Warmer weather and a drenching of rain has made Sydney a fly utopia, scientists say.](https://www.abc.net.au/news/2023-10-08/nsw-flies-inundate-sydney-due-to-early-summer/102940464) _ABC News_.
 
