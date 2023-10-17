@@ -35,6 +35,6 @@ Below are some recent examples of our efforts, and Tom is available for freelanc
 
 ['It's alive': Man confused about creature found outside his home.](https://au.news.yahoo.com/yarra-valley-man-confused-moving-twig-moth-caterpillar-003930784.html) _Yahoo News_.
 
-Radio: ~ ABC NSW Drive ~ ABC Pilbara ~ ABC Newcastle ~ 6PR Breakfast ~ 2ser ~ RTRFM ~
+**Radio:** ~ ABC NSW Drive ~ ABC Pilbara ~ ABC Newcastle ~ 6PR Breakfast ~ 2ser ~ RTRFM ~ ABC Kimberley ~
 
 ---
