@@ -29,6 +29,7 @@ paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
+# Navigation bar
 nav_order:
   - Research
   - Publications
@@ -37,7 +38,7 @@ nav_order:
   - Media
   - Tools
   - Values
-  
+
 # Social icons and sharing options
 social:
   - name: GitHub
