@@ -21,7 +21,7 @@ Chapman K, Richardson F, Middleton EJT, Forster CY, White TE, Burke P, Latty T, 
 McCormick J, Middleton EJT, White TE, Latty T (in press) Information cascades spread adaptive and maladaptive behaviours in group living animals. [_Animal Behavior_]().  
 | [pdf]() |
 
-Forster CY, Middleton EJT, Gloag R, Hochuli DF, White TE, Latty T (in press) Impact of empty flowers on foraging choice and movement within floral patches by the honey bee, _Apis mellifera_. [_Insectes Socieaux_](https://doi.org/10.1007/s00040-023-00934-3).  
+Forster CY, Middleton EJT, Gloag R, Hochuli DF, White TE, Latty T (2023) Impact of empty flowers on foraging choice and movement within floral patches by the honey bee, _Apis mellifera_. [_Insectes Socieaux_](https://doi.org/10.1007/s00040-023-00934-3).  
 | [pdf]({{ site.url }}/docs/forster_et_al_2023_impact_of_empty_flowers_on_foraging_choice_and_movement_within_floral_patches.pdf) |
 
 Webster GN, White TE, Whiting MJ (2023) Male nuptial display colour and vocalisation appear to signal independent information in the whirring tree frog. [_Behavioral Ecology and Sociobiology_](https://doi.org/10.1007/s00265-023-03343-5) 77:68.  
