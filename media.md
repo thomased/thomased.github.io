@@ -7,7 +7,7 @@ permalink: /media/
 
 We are keen to spread the word about the incredible invertebrates with which we share our world! 
 
-Below are some recent examples of our efforts. Tom is experienced in freelance science writing and consulting, and is available for chats for radio, TV, and podcasts - feel free to [get in touch](mailto:thomas.white@sydney.edu.au).
+Below are some recent examples of our efforts. Tom is experienced in freelance science writing and consulting, and is available for chats for radio, TV, and podcasts - feel free to [get in touch](mailto:thomas.white@sydney.edu.au) any time.
 
 ---
 
