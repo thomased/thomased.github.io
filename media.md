@@ -25,7 +25,7 @@ Below are some recent examples of our efforts. Tom is experienced in freelance s
 
 ## News & interviews
 
-**Radio** ~ ABC NSW ~ ABC Pilbara ~ ABC Newcastle ~ 6PR Breakfast ~ 2ser ~ RTRFM ~ ABC Kimberley ~ 2GB ~ ABC Riverland ~ ABC Overnight
+**Radio** ~ ABC NSW ~ ABC Pilbara ~ ABC Newcastle ~ 6PR Breakfast ~ 2ser ~ RTRFM ~ ABC Kimberley ~ 2GB ~ ABC Riverland ~ ABC Overnight ~ ABC Canberra
 
 [How to handle Australia’s ‘plague’ of cabbage-chomping moths.](https://www.theguardian.com/australia-news/2023/nov/15/white-how-to-handle-australias-plague-of-cabbage-chomping-moths#:~:text=Gardeners%20across%20several%20states%20have,more%20pupate%20survived%20than%20usual.) _The Guardian_.
 
