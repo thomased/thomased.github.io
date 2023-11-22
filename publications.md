@@ -15,11 +15,11 @@ Vanderstock A, White TE, Latty T (preprint) No spillover of flower-visiting inse
 
 ### 2023
 
-Chapman K, Richardson F, Middleton EJT, Forster CY, White TE, Burke P, Latty T, (in press) Artificial flowers as a tool for investigating multimodal flower choice in wild insects. [_Ecology and Evolution_]().  
-| [pdf]() |
-
 McCormick J, Middleton EJT, White TE, Latty T (in press) Information cascades spread adaptive and maladaptive behaviours in group living animals. [_Animal Behavior_]().  
 | [pdf]() |
+
+Chapman KM, Richardson FJ, Forster CY, Middleton EJT, White TE, Burke PF, Latty T, (2023) Artificial flowers as a tool for investigating multimodal flower choice in wild insects. [_Ecology and Evolution_](https://doi.org/10.1002/ece3.10687).  
+| [pdf]({{ site.url }}/docs/chapman_et_al_2023_artificial_flowers_as_a_tool_for_investigating_multimodal_flower_choice_in_wild.pdf) |
 
 Forster CY, Middleton EJT, Gloag R, Hochuli DF, White TE, Latty T (2023) Impact of empty flowers on foraging choice and movement within floral patches by the honey bee, _Apis mellifera_. [_Insectes Socieaux_](https://doi.org/10.1007/s00040-023-00934-3).  
 | [pdf]({{ site.url }}/docs/forster_et_al_2023_impact_of_empty_flowers_on_foraging_choice_and_movement_within_floral_patches.pdf) |
