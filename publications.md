@@ -11,7 +11,7 @@ van den Berg CP, Condon ND, Conradsen CI, White TE, Cheney KL (preprint) Automat
 | [pdf](https://doi.org/10.1101/2023.02.02.526788) |
 
 McCormick J, Middleton EJT, White TE, Latty T (2024) Information cascades spread adaptive and maladaptive behaviours in group living animals. [_Animal Behavior_](https://doi.org/10.1016/j.anbehav.2023.12.007) 209:53-62.  
-| [pdf]({{ site.url }}/docs/mccormick_et_al_2024_information_cascades_spread_adaptive_and_maladaptive_behaviours_in_group-living) |
+| [pdf]({{ site.url }}/docs/mccormick_et_al_2024_information_cascades_spread_adaptive_and_maladaptive_behaviours_in_group-living.pdf) |
 
 ### 2023
 
