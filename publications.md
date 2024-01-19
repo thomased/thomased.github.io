@@ -5,18 +5,15 @@ dispname: Publications
 permalink: /publications/
 ---
 
-### Preprint
+### 2024
 
 van den Berg CP, Condon ND, Conradsen CI, White TE, Cheney KL (preprint) Automated workflows using Quantitative Colour Pattern Analysis (QCPA): A guide to batch processing and downstream data analysis  
 | [pdf](https://doi.org/10.1101/2023.02.02.526788) |
 
-Vanderstock A, White TE, Latty T (preprint) No spillover of flower-visiting insects between community gardens and forest fragments in the city.  
-| [pdf](https://doi.org/10.21203/rs.3.rs-1747179/v1) |
+McCormick J, Middleton EJT, White TE, Latty T (2024) Information cascades spread adaptive and maladaptive behaviours in group living animals. [_Animal Behavior_](https://doi.org/10.1016/j.anbehav.2023.12.007).  
+| [pdf]({{ site.url }}/docs/mccormick_et_al_2024_information_cascades_spread_adaptive_and_maladaptive_behaviours_in_group-living) |
 
 ### 2023
-
-McCormick J, Middleton EJT, White TE, Latty T (in press) Information cascades spread adaptive and maladaptive behaviours in group living animals. [_Animal Behavior_]().  
-| [pdf]() |
 
 Chapman KM, Richardson FJ, Forster CY, Middleton EJT, White TE, Burke PF, Latty T, (2023) Artificial flowers as a tool for investigating multimodal flower choice in wild insects. [_Ecology and Evolution_](https://doi.org/10.1002/ece3.10687).  
 | [pdf]({{ site.url }}/docs/chapman_et_al_2023_artificial_flowers_as_a_tool_for_investigating_multimodal_flower_choice_in_wild.pdf) |
