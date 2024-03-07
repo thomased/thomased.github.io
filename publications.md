@@ -7,7 +7,10 @@ permalink: /publications/
 
 ### 2024
 
-van den Berg CP, Condon ND, Conradsen CI, White TE, Cheney KL (preprint) Automated workflows using Quantitative Colour Pattern Analysis (QCPA): A guide to batch processing and downstream data analysis  
+White TE (2024) Deceptive pollinator lures benefit from physical and perceptual proximity to flowers. [_Ecology and Evolution_](https://doi.org/10.1002/ece3.11120) 14:e11120.  
+| [pdf]({{ site.url }}/docs/white_2024_deceptive_pollinator_lures_benefit_from_physical_and_perceptual_proximity_to.pdf) |
+
+van den Berg CP, Condon ND, Conradsen CI, White TE, Cheney KL (2024) Automated workflows using Quantitative Colour Pattern Analysis (QCPA): A guide to batch processing and downstream data analysis. [_Evolutionary Ecology_]
 | [pdf](https://doi.org/10.1101/2023.02.02.526788) |
 
 McCormick J, Middleton EJT, White TE, Latty T (2024) Information cascades spread adaptive and maladaptive behaviours in group living animals. [_Animal Behavior_](https://doi.org/10.1016/j.anbehav.2023.12.007) 209:53-62.  
