@@ -13,8 +13,6 @@ I am always happy to hear from students & researchers at all levels; from potent
 
 Aside from the occasional funded position, there are numerous routes to securing funding for honours, PhD's, and postdocs. A few are listed below, and I will gladly do all I can to help qualified applicants attain support.
 
-**[Postdocs:](https://sydney.edu.au/research/join-us/university-of-sydney-fellowship-scheme.html)** The University of Sydney offers its flagship Postdoctoral Fellowships on a yearly basis, with applications due in ***September***.
-
 **[PhD and Masters](https://sydney.edu.au/courses/courses/pr/doctor-of-philosophy-science.html):** Students will need to secure a scholarship such as an RTP or the University's equivalent (which share an application), with application rounds **twice per year**.
 
 **[Honours](https://sydney.edu.au/study/find-a-course/honours.html):** Honours is an extra year of study following, or as part of, an undergraduate degree, and involves a substantial independent research component. Students both internal and external to USyd are able to apply, and it's an excellent opportunity to gain significant research experience.
@@ -25,9 +23,9 @@ Aside from the occasional funded position, there are numerous routes to securing
 
 Work is ongoing, and enquiries are particularly welcome, in the following general areas:
 
-***Communication, colour, courtship, and adaptation in the wild***
+***Do insects and other invertebrates feel pain?***
 
-This work uses beach-dwelling flies to ask how organisms gather and exchange information to solve life's daily challenges, and how environments define the sensory context in which these processes operate and evolve. The questions are many, and entail fieldwork on our beautiful beaches, and/or lab- or computational analyses of behaviour, physiology, and visual perception.
+Sentience extends well beyond humans, but which animals possess this capacity for felt experience and what form it takes is unresolved. This work will entail (gentle) behavioural tests, evidence synthesis, and/or theoretical investigations of whether representative invertebrates can feel pain, with the answers holding significant ethical, welfare, and scientific implications.
 
 ***Illuminating the sensory world of pollinators***
 
