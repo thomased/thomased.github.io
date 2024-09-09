@@ -10,9 +10,6 @@ permalink: /publications/
 Silvasti S, Kemp DJ, White TE, Nokelainen O, Valkonen J, Mappes J (2024) The flashy escape: support for dynamic flash coloration as anti-predator defence [_Biology Letters_](https://doi.org/10.1098/rsbl.2024.0303) 20:20240303.  
 | [pdf]({{ site.url }}/docs/silvasti_et_al_2024_the_flashy_escape.pdf) |
 
-
-
-
 White TE (2024) Deceptive pollinator lures benefit from physical and perceptual proximity to flowers. [_Ecology and Evolution_](https://doi.org/10.1002/ece3.11120) 14:e11120.  
 | [pdf]({{ site.url }}/docs/white_2024_deceptive_pollinator_lures_benefit_from_physical_and_perceptual_proximity_to.pdf) |
 
