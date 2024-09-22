@@ -7,7 +7,7 @@ permalink: /publications/
 
 ### 2024
 
-Salgado-Roa FC, Stuart-Fox D, White TE, Medina I (2024) Colour polymorphism is prevalent on islands but shows no association with range size in web-building spiders [_Journal of Evolutionary Biology_](https://doi.org/10.1093/jeb/voae118) voae118.  
+Salgado-Roa FC, Stuart-Fox D, White TE, Medina I (2024) Colour polymorphism is prevalent on islands but shows no association with range size in web-building spiders [_Journal of Evolutionary Biology_](https://dx.doi.org/10.1093/jeb/voae118) voae118.  
 | [pdf]({{ site.url }}/docs/salgado-roa_et_al_2024_colour_polymorphism_is_prevalent_on_islands_but_shows_no_association_with_range.pdf) |
 
 Silvasti S, Kemp DJ, White TE, Nokelainen O, Valkonen J, Mappes J (2024) The flashy escape: support for dynamic flash coloration as anti-predator defence [_Biology Letters_](https://doi.org/10.1098/rsbl.2024.0303) 20:20240303.  
