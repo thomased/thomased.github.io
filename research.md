@@ -15,7 +15,7 @@ All organisms need to gather and exchange information with the world at large, a
 
 ### Invertebrate experience, welfare, and ethics
 
-<img src="{{ site.baseurl }}/assets/blog/res2.png" title="spiders" class="profile" style="float:right;">
+<img src="{{ site.baseurl }}/assets/blog/cricket.png" title="cricket" class="profile" style="float:right;">
 
 Do invertebrates feel pain? Do insects respond to harms reflexively, or do they showcase flexibility which might suggest a richer sensory 'experience'? What are the welfare impacts of animal production, including the rapidly expanding use of invertebrates? And what are the implications for how we treat the majority of animal life? We have a deep interest in exploring the internal and external experiences of animals. Such questions are exciting for their promise of insight into the fundamentals of perception, experience, and sentience. And for unravelling the profound practical and ethical consequences for how we responsibly interact with animals in our daily lives, especially at-scale via agriculture, recreation, and management. 
 

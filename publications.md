@@ -7,6 +7,9 @@ permalink: /publications/
 
 ### 2024
 
+Salgado-Roa FC, Stuart-Fox D, White TE, Medina I (2024) Colour polymorphism is prevalent on islands but shows no association with range size in web-building spiders [_Journal of Evolutionary Biology_](https://doi.org/10.1093/jeb/voae118) voae118.  
+| [pdf]({{ site.url }}/docs/salgado-roa_et_al_2024_colour_polymorphism_is_prevalent_on_islands_but_shows_no_association_with_range.pdf) |
+
 Silvasti S, Kemp DJ, White TE, Nokelainen O, Valkonen J, Mappes J (2024) The flashy escape: support for dynamic flash coloration as anti-predator defence [_Biology Letters_](https://doi.org/10.1098/rsbl.2024.0303) 20:20240303.  
 | [pdf]({{ site.url }}/docs/silvasti_et_al_2024_the_flashy_escape.pdf) |
 
@@ -14,7 +17,7 @@ White TE (2024) Deceptive pollinator lures benefit from physical and perceptual 
 | [pdf]({{ site.url }}/docs/white_2024_deceptive_pollinator_lures_benefit_from_physical_and_perceptual_proximity_to.pdf) |
 
 van den Berg CP, Condon ND, Conradsen CI, White TE, Cheney KL (2024) Automated workflows using Quantitative Colour Pattern Analysis (QCPA): A guide to batch processing and downstream data analysis. [_Evolutionary Ecology_]().  
-| [pdf](https://doi.org/10.1101/2023.02.02.526788) |
+| [pdf]({{ site.url }}/docs/van_den_berg_et_al_2024_automated_workflows_using_quantitative_colour_pattern_analysis.pdf) |
 
 McCormick J, Middleton EJT, White TE, Latty T (2024) Information cascades spread adaptive and maladaptive behaviours in group living animals. [_Animal Behavior_](https://doi.org/10.1016/j.anbehav.2023.12.007) 209:53-62.  
 | [pdf]({{ site.url }}/docs/mccormick_et_al_2024_information_cascades_spread_adaptive_and_maladaptive_behaviours_in_group-living.pdf) |
