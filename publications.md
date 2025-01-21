@@ -5,6 +5,11 @@ dispname: Publications
 permalink: /publications/
 ---
 
+### 2025
+
+Forster CY, White TE, Hochuli DF, Gloag R, Latty T (2025) Empty flowers have no impact on foraging choice in bumble bees (Bombus impatiens) in a social foraging context [_Insectes Sociaux_](http://dx.doi.org/10.1007/s00040-024-01015-9).  
+| [pdf]({{ site.url }}/docs/forster_et_al_2025_empty_flowers_have_no_impact_on_foraging_choice_in_bumble_bees.pdf) |
+
 ### 2024
 
 Salgado-Roa FC, Stuart-Fox D, White TE, Medina I (2024) Colour polymorphism is prevalent on islands but shows no association with range size in web-building spiders [_Journal of Evolutionary Biology_](https://dx.doi.org/10.1093/jeb/voae118) voae118.  
