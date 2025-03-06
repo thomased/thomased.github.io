@@ -8,7 +8,7 @@ permalink: /publications/
 ### 2025
 
 Wilson LJ, White TE, Selvakumaraswamy P, Byrne M (2025) Growth and ontogenetic change in juvenile crown-of-thorns sea star (Acanthaster sp.) morphology: Can morphometrics be used as an aging tool? [_Coral Reefs_](https://doi.org/10.1007/s00338-025-02637-6).  
-| [pdf]({{ site.url }}/docs/wilson_et_al_2025_growth_and_ontogenetic_change_in_juvenile_crown-of-thorns_sea_star.pdf) |
+| [pdf]({{ site.url }}/docs/wilson_et_al_2025_growth_and_ontogenetic_change_in_juvenile_crown-of-thorns_sea_star.pdf)  |
 
 Forster CY, White TE, Hochuli DF, Gloag R, Latty T (2025) Empty flowers have no impact on foraging choice in bumble bees (Bombus impatiens) in a social foraging context [_Insectes Sociaux_](http://dx.doi.org/10.1007/s00040-024-01015-9).  
 | [pdf]({{ site.url }}/docs/forster_et_al_2025_empty_flowers_have_no_impact_on_foraging_choice_in_bumble_bees.pdf) |
