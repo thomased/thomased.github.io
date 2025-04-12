@@ -19,9 +19,12 @@ All organisms need to gather and exchange information with the world at large, a
 
 Do invertebrates feel pain? Do insects respond to harms reflexively, or do they showcase flexibility which might suggest a richer sensory 'experience'? What are the welfare impacts of animal production, including the rapidly expanding use of invertebrates? And what are the implications for how we treat the majority of animal life? We have a deep interest in exploring the internal and external experiences of animals. Such questions are exciting for their promise of insight into the fundamentals of perception, experience, and sentience. And for unravelling the profound practical and ethical consequences for how we responsibly interact with animals, especially at-scale via agriculture, recreation, and management. 
 
-### Pollinators in natural and managed systems
+### Resilience and repair
 
 <img src="{{ site.baseurl }}/assets/musca.png" title="musca" class="profile" style="float:right;">
 
-How do flower-visiting insects find, select, and remember floral resources? Can pollinators weigh information across modalities to overcome noise? What is the value of lesser-studied systems, like syrphid and muscid flies, to crop pollination? We are keen to understand the role of non-traditional insects as pollinators, from both fundamental and applied perspectives. Current projects span floral foraging and sensory ecology in flies and butterflies, and how cues across modalities reinforce and/or interfere to affect decision-making.
+How do ecosystems maintain their function under stress? How do interactions among species --- pollinators, predators, prey --- shape that stability? Our work increasingly investigates the resilience and fragility of ecological networks, especially where invertebrates play a key role. We’re interested in what it takes to conserve not just individual species, but the relationships that sustain biodiversity and ecosystem function. Current work includes: understanding the role of nocturnal insects in pollination network resilience; the conservation and management of saproxylic invertebrates in fragmented landscapes; illuminating the food webs of endangered shorebirds; and detailing the mutualism between wolf spiders and critically endangered earless dragons. We’re drawn to systems where behavioural and sensory biology intersect with conservation outcomes, and where preserving function means understanding the full richness of biotic interactions. 
+
+
+
 
