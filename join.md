@@ -27,9 +27,12 @@ Work is ongoing, and enquiries are particularly welcome, in the following genera
 
 Sentience extends well beyond humans, but which animals possess this capacity for felt experience and what form it takes is unresolved. This work will entail (gentle) behavioural tests, evidence synthesis, and/or theoretical investigations of whether representative invertebrates can feel pain, with the answers holding significant ethical, welfare, and scientific implications.
 
-***Illuminating the sensory world of pollinators***
+***Resilience and recovery in pollination systems***
 
-This work uses field and/or laboratory experiments to understand how key pollinators —-- such as butterflies, bees, and flies --- gather and integrate diverse sensory information (colour, motion, pheromones...) to make their way in the world. The questions and methods are myriad, and can be tailored to the interests of all involved.
+In particular, we are seeking a highly motivated PhD candidate to join a new ARC-funded project exploring the resilience of alpine pollination systems under environmental change. This PhD will focus on the often-overlooked role of nocturnal insect pollinators in threatened alpine ecosystems, using field surveys, network ecology, and ecological modelling to characterise day–night pollination dynamics.
+ 
+The project is part of the Discovery Project "The dark side: weaving nocturnality into pollination resilience networks", and will involve both significant fieldwork in Kosciuszko National Park and lab-based and computational analysis at the University of Sydney.
+ 
 
 
 
