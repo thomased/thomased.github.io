@@ -7,6 +7,9 @@ permalink: /publications/
 
 ### 2025
 
+de Alcantara Viana JV, Becker CG, Gonçalves RVS, Raupp PP, da Silva JV, Lambertini C, White TE (2025) Physiological color change in the Neotropical tree frog (_Pithecopus hypochondrialis_) as a potential mechanism of nocturnal camouflage. [_American Naturalist_](https://doi.org/10.1086/737526).  
+| [pdf]() |  
+
 Lynch KE, Allen BL, Berger-Tal O, Fidler F, Garrard GE, Hampton JO, Lean CH, Parris KM, Sherwen SL, White TE, Wong BBM, Blumstein DT (2025) Explicit value trade-offs in conservation: integrating animal welfare. [_Trends in Ecology and Evolution_](https://doi.org/10.1016/j.tree.2025.03.013).  
 | [pdf]({{ site.url }}/docs/lynch_et_al_2025_explicit_value_trade-offs_in_conservation.pdf) |
 
