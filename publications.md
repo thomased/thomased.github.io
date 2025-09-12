@@ -5,6 +5,10 @@ dispname: Publications
 permalink: /publications/
 ---
 
+### Preprints
+
+Butterworth NJ, White TE, Dawson BM, Appleton J, McDonald C, McGaughran A, Markowsky G, Bayless KM (preprint) Courtship choreography is stabilised among genetically isolated populations. [_bioRxiv_](https://doi.org/10.1101/2025.09.08.675024).
+
 ### 2025
 
 de Alcantara Viana JV, Becker CG, Gonçalves RVS, Raupp PP, da Silva JV, Lambertini C, White TE (2025) Physiological color change in the Neotropical tree frog (_Pithecopus hypochondrialis_) as a potential mechanism of nocturnal camouflage. [_American Naturalist_](https://doi.org/10.1086/737526).  
