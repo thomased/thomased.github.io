@@ -13,8 +13,12 @@ Butterworth NJ, White TE, Dawson BM, Appleton J, McDonald C, McGaughran A, Marko
 
 ### 2025
 
+Crossley EG, Forster CY, Latty T, White TE (2025) Picky or pragmatic? Innate colour preferences in three
+pollinating fly species. [_Ethology_](http://doi.org/10.1111/eth.70024).  
+| [pdf]({{ site.url }}/docs/crossley_et_al_picky_or_pragmatic_innate_colour_preferences_in_three_pollinating_fly_species.pdf) | 
+
 de Alcantara Viana JV, Becker CG, Gonçalves RVS, Raupp PP, da Silva JV, Lambertini C, White TE (2025) Physiological color change in the Neotropical tree frog (_Pithecopus hypochondrialis_) as a potential mechanism of nocturnal camouflage. [_American Naturalist_](https://doi.org/10.1086/737526).  
-| [pdf]() |  
+| [pdf]({{ site.url }}/docs/viana_et_al_2025_physiological_color_change_in_the_neotropical_tree_frog.pdf) |  
 
 Lynch KE, Allen BL, Berger-Tal O, Fidler F, Garrard GE, Hampton JO, Lean CH, Parris KM, Sherwen SL, White TE, Wong BBM, Blumstein DT (2025) Explicit value trade-offs in conservation: integrating animal welfare. [_Trends in Ecology and Evolution_](https://doi.org/10.1016/j.tree.2025.03.013).  
 | [pdf]({{ site.url }}/docs/lynch_et_al_2025_explicit_value_trade-offs_in_conservation.pdf) |
