@@ -9,6 +9,8 @@ permalink: /publications/
 
 Manzi O, Lynch KE, Allman DM, Latty T, White TE (preprint) Flexible self-protection as evidence of pain-like states in house crickets. [_bioRxiv_](https://doi.org/10.1101/2025.09.12.675781).
 
+O'Dwyer T, Adams MWD, White TE, Porter J, Portelli D, Lo N, Carlile N (preprint) Increases in invertebrate abundance and shifts in assemblage composition following rodent eradication on Lord Howe Island. [bioRxiv](https://doi.org/10.1101/2025.10.16.682986).
+
 Butterworth NJ, White TE, Dawson BM, Appleton J, McDonald C, McGaughran A, Markowsky G, Bayless KM (preprint) Courtship choreography is stabilised among genetically isolated populations. [_bioRxiv_](https://doi.org/10.1101/2025.09.08.675024).
 
 ### 2025
